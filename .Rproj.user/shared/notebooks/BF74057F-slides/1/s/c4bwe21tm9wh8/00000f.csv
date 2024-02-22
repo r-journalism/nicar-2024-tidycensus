@@ -1,0 +1,4 @@
+"0","county_migration_moved <- county_migration |>"
+"0","  filter(variable==""MOVEDIN"") |>"
+"0","  filter(!is.na(GEOID2)) |>"
+"0","  select(GEOID=GEOID2, migration=estimate) "

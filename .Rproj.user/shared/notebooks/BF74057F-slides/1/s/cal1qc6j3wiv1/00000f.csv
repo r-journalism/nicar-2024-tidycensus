@@ -1,0 +1,4 @@
+"0","county_map_migration <- county_map %>%"
+"0","  inner_join(county_migration_moved)"
+"2","Joining with `by = join_by(GEOID)`"
+"0","mapview(county_map_migration, zcol = ""migration"")"

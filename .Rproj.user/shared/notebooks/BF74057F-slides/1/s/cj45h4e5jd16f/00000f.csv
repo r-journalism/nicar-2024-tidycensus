@@ -1,0 +1,8 @@
+"0",""
+"0","county_map <- get_acs("
+"0","  geography = ""county"","
+"0","  variable = c(""Population""=""B03002_001""),"
+"0","  geometry = TRUE"
+"0",")"
+"2","Getting data from the 2018-2022 5-year ACS
+"

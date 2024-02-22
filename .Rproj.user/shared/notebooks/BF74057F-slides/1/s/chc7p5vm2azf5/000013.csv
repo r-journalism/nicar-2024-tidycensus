@@ -1,0 +1,15 @@
+"0","#| code-line-numbers: ""|5"""
+"0","median_value_map <- get_acs("
+"0","  geography = ""tract"","
+"0","  state= ""MD"","
+"0","  county=""Baltimore City"","
+"0","  variables = ""B25077_001"", # median values of home"
+"0","  year = 2022,"
+"0","  geometry = TRUE"
+"0",")"
+"2","Getting data from the 2018-2022 5-year ACS
+"
+"2","Using FIPS code '24' for state 'MD'
+"
+"2","Using FIPS code '510' for 'Baltimore city'
+"

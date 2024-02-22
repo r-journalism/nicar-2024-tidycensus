@@ -1,0 +1,12 @@
+"0","library(tidyr)"
+"0",""
+"0","home_value_change <- big_census_data |>"
+"0","  ungroup() |>"
+"0","  filter(year!=2021) |>"
+"0","  select(NAME, estimate, year) |>"
+"0","  pivot_wider(names_from=""year"", values_from=""estimate"") |>"
+"0","  mutate(change=round((`2022`-`2020`)/`2020`*100,2)) |>"
+"0","  arrange(desc(change))"
+"0","```"
+"2","Error: attempt to use zero-length variable name
+"

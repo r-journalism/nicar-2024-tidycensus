@@ -1,0 +1,10 @@
+"0",""
+"0","county_migration <- get_flows("
+"0","  geography = ""county"","
+"0","  county = ""Baltimore City"","
+"0","  state = ""MD"""
+"0",")"
+"2","Using FIPS code '24' for state 'MD'
+"
+"2","Using FIPS code '510' for 'Baltimore city'
+"
