@@ -59,12 +59,15 @@ median_value_1yr <- get_acs(
 
 # click on the rectangular grid icon next to 'median_income_1yr on the top right under the `Environment` tab
 # or run this command below
-View(median_income_1yr)
+View(median_value_1yr)
 
 
 ## Requesting tables of variables ----
 
 # The `table` parameter can be used to obtain all related variables in a "table" at once
+
+# Household income brackets 
+# https://data.census.gov/table/ACSDT5Y2018.B19001?q=B19001&g=860XX00US77051&table=B19001&tid=ACSDT5Y2018.B19001
 
 income_table <- get_acs(
   geography = "county",
