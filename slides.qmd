@@ -1,7 +1,7 @@
 ---
 title: "Tidycensus will convince you to learn R"
 subtitle: "nicar.r-journalism.com/2024/"
-author: "Andrew Ba Tran"
+author: "Andrew Ba Tran @abtran"
 date: March 9, 2024
 lightbox: true
 format: 
@@ -23,6 +23,8 @@ options(tigris_use_cache = TRUE)
 ## Workshop agenda
 
 * nicar.r-journalism.com/2024/ (Follow along here)
+
+* Survey: https://bit.ly/3T6LkQh
 
 * Intro to Tidycensus and RStudio
 
@@ -576,6 +578,22 @@ This message is displayed once per session.
 
 * Advocates argue that differential privacy is necessary to satisfy Title 13 requirements given modern database reconstruction technologies; critics contend that the method makes data less useful with no tangible privacy benefit
 
+## Scavenger hunt
+
+Can you look through the `vars` table you loaded earlier and import the table that can answer this?
+
+* How many 18 to 24 year old Korean people are there in the US (2021)?
+* What percent of females in 2017 were below poverty level in the US (5 year)?
+
+```{r, eval=F}
+vars <- load_variables(2022, "acs5")
+
+get_acs(replace_this_with_the_right_arguments)
+```
+
+_How do you find the "right" variables or Census table ID? I do a couple things: Use [CensusReporter.org](https://censusreporter.org/topics/table-codes/) or I ask the oldest data reporter in the newsroom._
+
+
 # Wrangling and analyzing Census data
 
 open 02_wrangling_census_data.R in RStudio
@@ -754,13 +772,13 @@ county_diversity_percent |>   ungroup() |>
 
 county_diversity_percent |>
   group_by(NAME) |>
-  arrange(percent)
+  arrange(NAME, percent)
 ```
 
 ```{r, echo=F}
 county_diversity_percent |>
   group_by(NAME) |>
-  arrange(percent) |>
+  arrange(NAME, percent) |>
     ungroup() |>
   select(-GEOID, -summary_est)
 ```
@@ -775,12 +793,12 @@ county_diversity_percent |>
 
 county_diversity_percent_sorted <- county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent))
+  arrange(NAME, desc(percent))
 ```
 ```{r, echo=F}
 county_diversity_percent_sorted <- county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent)) |>
+  arrange(NAME, desc(percent)) |>
     ungroup() |>
   select(-GEOID)
 ```
@@ -806,7 +824,7 @@ Notice there are 16,110 rows...
 county_diversity_percent_plurality <-
   county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent)) |>
+  arrange(NAME, desc(percent)) |>
   filter(row_number()==1)
 ```
 
@@ -834,7 +852,7 @@ Which lines up with the county count in the U.S.
 county_diversity_percent_plurality <-
   county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent)) |>
+  arrange(NAME, desc(percent)) |>
   slice(1)
 ```
 

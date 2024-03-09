@@ -1,0 +1,3223 @@
+GEOID,NAME,variable,estimate,moe
+01001,"Autauga County, Alabama",B25077_001,191800,7996
+01003,"Baldwin County, Alabama",B25077_001,266000,6916
+01005,"Barbour County, Alabama",B25077_001,102700,11171
+01007,"Bibb County, Alabama",B25077_001,120100,13377
+01009,"Blount County, Alabama",B25077_001,159800,6189
+01011,"Bullock County, Alabama",B25077_001,87700,20560
+01013,"Butler County, Alabama",B25077_001,94800,5984
+01015,"Calhoun County, Alabama",B25077_001,140500,5181
+01017,"Chambers County, Alabama",B25077_001,116900,9814
+01019,"Cherokee County, Alabama",B25077_001,158700,8550
+01021,"Chilton County, Alabama",B25077_001,136000,11864
+01023,"Choctaw County, Alabama",B25077_001,101600,14926
+01025,"Clarke County, Alabama",B25077_001,126200,11557
+01027,"Clay County, Alabama",B25077_001,144100,20691
+01029,"Cleburne County, Alabama",B25077_001,131900,13974
+01031,"Coffee County, Alabama",B25077_001,162200,6222
+01033,"Colbert County, Alabama",B25077_001,148500,7814
+01035,"Conecuh County, Alabama",B25077_001,98800,12918
+01037,"Coosa County, Alabama",B25077_001,109500,13081
+01039,"Covington County, Alabama",B25077_001,124300,9199
+01041,"Crenshaw County, Alabama",B25077_001,100400,8832
+01043,"Cullman County, Alabama",B25077_001,166000,5528
+01045,"Dale County, Alabama",B25077_001,123800,5984
+01047,"Dallas County, Alabama",B25077_001,91600,5988
+01049,"DeKalb County, Alabama",B25077_001,129000,11274
+01051,"Elmore County, Alabama",B25077_001,200400,9683
+01053,"Escambia County, Alabama",B25077_001,122000,9420
+01055,"Etowah County, Alabama",B25077_001,148400,4893
+01057,"Fayette County, Alabama",B25077_001,112700,13757
+01059,"Franklin County, Alabama",B25077_001,121600,10044
+01061,"Geneva County, Alabama",B25077_001,120700,10763
+01063,"Greene County, Alabama",B25077_001,88800,18882
+01065,"Hale County, Alabama",B25077_001,109400,17425
+01067,"Henry County, Alabama",B25077_001,132400,15427
+01069,"Houston County, Alabama",B25077_001,164900,3165
+01071,"Jackson County, Alabama",B25077_001,126900,11288
+01073,"Jefferson County, Alabama",B25077_001,208900,4864
+01075,"Lamar County, Alabama",B25077_001,108200,7992
+01077,"Lauderdale County, Alabama",B25077_001,174800,5892
+01079,"Lawrence County, Alabama",B25077_001,134200,15253
+01081,"Lee County, Alabama",B25077_001,224400,6869
+01083,"Limestone County, Alabama",B25077_001,229400,9720
+01085,"Lowndes County, Alabama",B25077_001,83400,10038
+01087,"Macon County, Alabama",B25077_001,93900,3843
+01089,"Madison County, Alabama",B25077_001,242900,4922
+01091,"Marengo County, Alabama",B25077_001,98600,11117
+01093,"Marion County, Alabama",B25077_001,104300,10616
+01095,"Marshall County, Alabama",B25077_001,165600,6321
+01097,"Mobile County, Alabama",B25077_001,164600,2891
+01099,"Monroe County, Alabama",B25077_001,109300,8684
+01101,"Montgomery County, Alabama",B25077_001,151300,4722
+01103,"Morgan County, Alabama",B25077_001,174800,6852
+01105,"Perry County, Alabama",B25077_001,81700,11944
+01107,"Pickens County, Alabama",B25077_001,119800,10267
+01109,"Pike County, Alabama",B25077_001,144500,15128
+01111,"Randolph County, Alabama",B25077_001,155000,15183
+01113,"Russell County, Alabama",B25077_001,141900,8971
+01115,"St. Clair County, Alabama",B25077_001,202000,7193
+01117,"Shelby County, Alabama",B25077_001,276500,5295
+01119,"Sumter County, Alabama",B25077_001,88000,14528
+01121,"Talladega County, Alabama",B25077_001,131900,7617
+01123,"Tallapoosa County, Alabama",B25077_001,127100,12451
+01125,"Tuscaloosa County, Alabama",B25077_001,218800,5594
+01127,"Walker County, Alabama",B25077_001,124100,8907
+01129,"Washington County, Alabama",B25077_001,138100,23203
+01131,"Wilcox County, Alabama",B25077_001,83200,13304
+01133,"Winston County, Alabama",B25077_001,111600,13850
+02013,"Aleutians East Borough, Alaska",B25077_001,164100,14269
+02016,"Aleutians West Census Area, Alaska",B25077_001,377100,76269
+02020,"Anchorage Municipality, Alaska",B25077_001,363800,4830
+02050,"Bethel Census Area, Alaska",B25077_001,120600,22547
+02060,"Bristol Bay Borough, Alaska",B25077_001,253400,21496
+02063,"Chugach Census Area, Alaska",B25077_001,287900,31825
+02066,"Copper River Census Area, Alaska",B25077_001,235100,18412
+02068,"Denali Borough, Alaska",B25077_001,227000,30947
+02070,"Dillingham Census Area, Alaska",B25077_001,167700,79736
+02090,"Fairbanks North Star Borough, Alaska",B25077_001,276800,6789
+02100,"Haines Borough, Alaska",B25077_001,289200,41820
+02105,"Hoonah-Angoon Census Area, Alaska",B25077_001,243800,23655
+02110,"Juneau City and Borough, Alaska",B25077_001,404600,19388
+02122,"Kenai Peninsula Borough, Alaska",B25077_001,280900,7887
+02130,"Ketchikan Gateway Borough, Alaska",B25077_001,361000,14949
+02150,"Kodiak Island Borough, Alaska",B25077_001,355000,34611
+02158,"Kusilvak Census Area, Alaska",B25077_001,82200,11153
+02164,"Lake and Peninsula Borough, Alaska",B25077_001,167000,29106
+02170,"Matanuska-Susitna Borough, Alaska",B25077_001,296900,3817
+02180,"Nome Census Area, Alaska",B25077_001,181300,22366
+02185,"North Slope Borough, Alaska",B25077_001,193800,24110
+02188,"Northwest Arctic Borough, Alaska",B25077_001,147200,29780
+02195,"Petersburg Borough, Alaska",B25077_001,279800,18297
+02198,"Prince of Wales-Hyder Census Area, Alaska",B25077_001,220800,15590
+02220,"Sitka City and Borough, Alaska",B25077_001,424700,16782
+02230,"Skagway Municipality, Alaska",B25077_001,434300,14010
+02240,"Southeast Fairbanks Census Area, Alaska",B25077_001,222200,23428
+02275,"Wrangell City and Borough, Alaska",B25077_001,273800,33589
+02282,"Yakutat City and Borough, Alaska",B25077_001,152100,40672
+02290,"Yukon-Koyukuk Census Area, Alaska",B25077_001,86600,6012
+04001,"Apache County, Arizona",B25077_001,62400,3987
+04003,"Cochise County, Arizona",B25077_001,183000,6645
+04005,"Coconino County, Arizona",B25077_001,379400,14304
+04007,"Gila County, Arizona",B25077_001,222500,14217
+04009,"Graham County, Arizona",B25077_001,178300,9626
+04011,"Greenlee County, Arizona",B25077_001,93900,25241
+04012,"La Paz County, Arizona",B25077_001,117500,10656
+04013,"Maricopa County, Arizona",B25077_001,371400,1336
+04015,"Mohave County, Arizona",B25077_001,233700,5108
+04017,"Navajo County, Arizona",B25077_001,165600,5955
+04019,"Pima County, Arizona",B25077_001,258300,2902
+04021,"Pinal County, Arizona",B25077_001,268900,4598
+04023,"Santa Cruz County, Arizona",B25077_001,196700,10047
+04025,"Yavapai County, Arizona",B25077_001,354300,6237
+04027,"Yuma County, Arizona",B25077_001,173500,3860
+05001,"Arkansas County, Arkansas",B25077_001,125900,10794
+05003,"Ashley County, Arkansas",B25077_001,86600,3672
+05005,"Baxter County, Arkansas",B25077_001,155600,5597
+05007,"Benton County, Arkansas",B25077_001,254000,5740
+05009,"Boone County, Arkansas",B25077_001,158100,6980
+05011,"Bradley County, Arkansas",B25077_001,87900,7624
+05013,"Calhoun County, Arkansas",B25077_001,82700,10442
+05015,"Carroll County, Arkansas",B25077_001,169700,8385
+05017,"Chicot County, Arkansas",B25077_001,88100,10520
+05019,"Clark County, Arkansas",B25077_001,143300,12890
+05021,"Clay County, Arkansas",B25077_001,85800,7082
+05023,"Cleburne County, Arkansas",B25077_001,162200,9628
+05025,"Cleveland County, Arkansas",B25077_001,109200,10756
+05027,"Columbia County, Arkansas",B25077_001,123200,15480
+05029,"Conway County, Arkansas",B25077_001,129600,14307
+05031,"Craighead County, Arkansas",B25077_001,182600,5717
+05033,"Crawford County, Arkansas",B25077_001,154900,6970
+05035,"Crittenden County, Arkansas",B25077_001,147300,5820
+05037,"Cross County, Arkansas",B25077_001,97500,11035
+05039,"Dallas County, Arkansas",B25077_001,94300,10244
+05041,"Desha County, Arkansas",B25077_001,88300,6786
+05043,"Drew County, Arkansas",B25077_001,123900,17242
+05045,"Faulkner County, Arkansas",B25077_001,195800,5642
+05047,"Franklin County, Arkansas",B25077_001,117500,9230
+05049,"Fulton County, Arkansas",B25077_001,100000,9482
+05051,"Garland County, Arkansas",B25077_001,166600,5532
+05053,"Grant County, Arkansas",B25077_001,141400,15459
+05055,"Greene County, Arkansas",B25077_001,157400,7014
+05057,"Hempstead County, Arkansas",B25077_001,104700,9311
+05059,"Hot Spring County, Arkansas",B25077_001,119600,8096
+05061,"Howard County, Arkansas",B25077_001,125300,13924
+05063,"Independence County, Arkansas",B25077_001,111300,10887
+05065,"Izard County, Arkansas",B25077_001,110600,11216
+05067,"Jackson County, Arkansas",B25077_001,85700,4607
+05069,"Jefferson County, Arkansas",B25077_001,105300,6115
+05071,"Johnson County, Arkansas",B25077_001,119800,7715
+05073,"Lafayette County, Arkansas",B25077_001,70900,8145
+05075,"Lawrence County, Arkansas",B25077_001,84300,3930
+05077,"Lee County, Arkansas",B25077_001,80600,11296
+05079,"Lincoln County, Arkansas",B25077_001,112500,10785
+05081,"Little River County, Arkansas",B25077_001,108200,11399
+05083,"Logan County, Arkansas",B25077_001,121600,5875
+05085,"Lonoke County, Arkansas",B25077_001,169600,4092
+05087,"Madison County, Arkansas",B25077_001,148300,19731
+05089,"Marion County, Arkansas",B25077_001,147100,9201
+05091,"Miller County, Arkansas",B25077_001,137700,10700
+05093,"Mississippi County, Arkansas",B25077_001,110000,8504
+05095,"Monroe County, Arkansas",B25077_001,84600,3805
+05097,"Montgomery County, Arkansas",B25077_001,126200,21329
+05099,"Nevada County, Arkansas",B25077_001,85100,5270
+05101,"Newton County, Arkansas",B25077_001,160500,9849
+05103,"Ouachita County, Arkansas",B25077_001,96000,10554
+05105,"Perry County, Arkansas",B25077_001,123400,9862
+05107,"Phillips County, Arkansas",B25077_001,74100,11474
+05109,"Pike County, Arkansas",B25077_001,99200,6899
+05111,"Poinsett County, Arkansas",B25077_001,93900,6177
+05113,"Polk County, Arkansas",B25077_001,120800,11722
+05115,"Pope County, Arkansas",B25077_001,152000,7620
+05117,"Prairie County, Arkansas",B25077_001,87200,14152
+05119,"Pulaski County, Arkansas",B25077_001,187600,3251
+05121,"Randolph County, Arkansas",B25077_001,110700,8575
+05123,"St. Francis County, Arkansas",B25077_001,82400,4908
+05125,"Saline County, Arkansas",B25077_001,194400,6958
+05127,"Scott County, Arkansas",B25077_001,97600,11708
+05129,"Searcy County, Arkansas",B25077_001,107100,9184
+05131,"Sebastian County, Arkansas",B25077_001,154900,5920
+05133,"Sevier County, Arkansas",B25077_001,99200,9653
+05135,"Sharp County, Arkansas",B25077_001,89900,4808
+05137,"Stone County, Arkansas",B25077_001,153700,26518
+05139,"Union County, Arkansas",B25077_001,110900,5989
+05141,"Van Buren County, Arkansas",B25077_001,117900,8128
+05143,"Washington County, Arkansas",B25077_001,235500,4852
+05145,"White County, Arkansas",B25077_001,150700,6278
+05147,"Woodruff County, Arkansas",B25077_001,96100,9022
+05149,"Yell County, Arkansas",B25077_001,128400,8080
+06001,"Alameda County, California",B25077_001,999200,6699
+06003,"Alpine County, California",B25077_001,463900,48254
+06005,"Amador County, California",B25077_001,409600,14658
+06007,"Butte County, California",B25077_001,371600,6760
+06009,"Calaveras County, California",B25077_001,404200,18018
+06011,"Colusa County, California",B25077_001,360100,16259
+06013,"Contra Costa County, California",B25077_001,787300,7496
+06015,"Del Norte County, California",B25077_001,282500,26102
+06017,"El Dorado County, California",B25077_001,597600,11376
+06019,"Fresno County, California",B25077_001,338200,3186
+06021,"Glenn County, California",B25077_001,295400,16334
+06023,"Humboldt County, California",B25077_001,386000,7402
+06025,"Imperial County, California",B25077_001,256000,7742
+06027,"Inyo County, California",B25077_001,325900,34812
+06029,"Kern County, California",B25077_001,282800,2883
+06031,"Kings County, California",B25077_001,281400,7435
+06033,"Lake County, California",B25077_001,291300,10508
+06035,"Lassen County, California",B25077_001,233100,13058
+06037,"Los Angeles County, California",B25077_001,732200,1912
+06039,"Madera County, California",B25077_001,340300,7289
+06041,"Marin County, California",B25077_001,1291800,31343
+06043,"Mariposa County, California",B25077_001,335900,14319
+06045,"Mendocino County, California",B25077_001,463700,13959
+06047,"Merced County, California",B25077_001,342300,6680
+06049,"Modoc County, California",B25077_001,184900,14384
+06051,"Mono County, California",B25077_001,496800,53338
+06053,"Monterey County, California",B25077_001,683700,9111
+06055,"Napa County, California",B25077_001,794500,15664
+06057,"Nevada County, California",B25077_001,559700,13507
+06059,"Orange County, California",B25077_001,862900,3353
+06061,"Placer County, California",B25077_001,627100,3767
+06063,"Plumas County, California",B25077_001,310100,20601
+06065,"Riverside County, California",B25077_001,462900,2197
+06067,"Sacramento County, California",B25077_001,465900,2501
+06069,"San Benito County, California",B25077_001,703200,16996
+06071,"San Bernardino County, California",B25077_001,438000,2803
+06073,"San Diego County, California",B25077_001,725200,2959
+06075,"San Francisco County, California",B25077_001,1348700,20887
+06077,"San Joaquin County, California",B25077_001,462000,3586
+06079,"San Luis Obispo County, California",B25077_001,726700,11365
+06081,"San Mateo County, California",B25077_001,1441300,14165
+06083,"Santa Barbara County, California",B25077_001,714800,13337
+06085,"Santa Clara County, California",B25077_001,1316800,12304
+06087,"Santa Cruz County, California",B25077_001,951300,18150
+06089,"Shasta County, California",B25077_001,327500,6567
+06091,"Sierra County, California",B25077_001,289400,42079
+06093,"Siskiyou County, California",B25077_001,260200,9163
+06095,"Solano County, California",B25077_001,549100,6555
+06097,"Sonoma County, California",B25077_001,748500,7033
+06099,"Stanislaus County, California",B25077_001,393300,4202
+06101,"Sutter County, California",B25077_001,375400,7950
+06103,"Tehama County, California",B25077_001,290400,9876
+06105,"Trinity County, California",B25077_001,326200,19880
+06107,"Tulare County, California",B25077_001,280900,4043
+06109,"Tuolumne County, California",B25077_001,377700,10106
+06111,"Ventura County, California",B25077_001,719100,6044
+06113,"Yolo County, California",B25077_001,555200,10463
+06115,"Yuba County, California",B25077_001,350600,10633
+08001,"Adams County, Colorado",B25077_001,425000,3153
+08003,"Alamosa County, Colorado",B25077_001,198500,13406
+08005,"Arapahoe County, Colorado",B25077_001,480500,3292
+08007,"Archuleta County, Colorado",B25077_001,432400,19054
+08009,"Baca County, Colorado",B25077_001,119700,15094
+08011,"Bent County, Colorado",B25077_001,110700,17279
+08013,"Boulder County, Colorado",B25077_001,671100,7750
+08014,"Broomfield County, Colorado",B25077_001,581600,11551
+08015,"Chaffee County, Colorado",B25077_001,514900,39065
+08017,"Cheyenne County, Colorado",B25077_001,166300,28780
+08019,"Clear Creek County, Colorado",B25077_001,506900,47937
+08021,"Conejos County, Colorado",B25077_001,154500,7717
+08023,"Costilla County, Colorado",B25077_001,145200,20032
+08025,"Crowley County, Colorado",B25077_001,92700,19412
+08027,"Custer County, Colorado",B25077_001,327100,48296
+08029,"Delta County, Colorado",B25077_001,291400,12927
+08031,"Denver County, Colorado",B25077_001,540400,6845
+08033,"Dolores County, Colorado",B25077_001,208000,24867
+08035,"Douglas County, Colorado",B25077_001,635100,3972
+08037,"Eagle County, Colorado",B25077_001,728400,47579
+08039,"Elbert County, Colorado",B25077_001,623300,14540
+08041,"El Paso County, Colorado",B25077_001,390500,3295
+08043,"Fremont County, Colorado",B25077_001,264300,9853
+08045,"Garfield County, Colorado",B25077_001,449300,20497
+08047,"Gilpin County, Colorado",B25077_001,465300,40362
+08049,"Grand County, Colorado",B25077_001,461200,36952
+08051,"Gunnison County, Colorado",B25077_001,530300,59814
+08053,"Hinsdale County, Colorado",B25077_001,369200,61204
+08055,"Huerfano County, Colorado",B25077_001,231200,65890
+08057,"Jackson County, Colorado",B25077_001,227300,37822
+08059,"Jefferson County, Colorado",B25077_001,556800,3798
+08061,"Kiowa County, Colorado",B25077_001,127400,31603
+08063,"Kit Carson County, Colorado",B25077_001,182700,20314
+08065,"Lake County, Colorado",B25077_001,331000,48024
+08067,"La Plata County, Colorado",B25077_001,497800,17801
+08069,"Larimer County, Colorado",B25077_001,488300,4554
+08071,"Las Animas County, Colorado",B25077_001,190900,12026
+08073,"Lincoln County, Colorado",B25077_001,238000,36532
+08075,"Logan County, Colorado",B25077_001,203100,13527
+08077,"Mesa County, Colorado",B25077_001,312600,9321
+08079,"Mineral County, Colorado",B25077_001,379000,39118
+08081,"Moffat County, Colorado",B25077_001,247500,18052
+08083,"Montezuma County, Colorado",B25077_001,282500,15177
+08085,"Montrose County, Colorado",B25077_001,314100,14985
+08087,"Morgan County, Colorado",B25077_001,277400,11143
+08089,"Otero County, Colorado",B25077_001,132600,20209
+08091,"Ouray County, Colorado",B25077_001,596400,40602
+08093,"Park County, Colorado",B25077_001,458600,15214
+08095,"Phillips County, Colorado",B25077_001,258200,15649
+08097,"Pitkin County, Colorado",B25077_001,912300,275395
+08099,"Prowers County, Colorado",B25077_001,120200,12682
+08101,"Pueblo County, Colorado",B25077_001,238400,5215
+08103,"Rio Blanco County, Colorado",B25077_001,231800,23424
+08105,"Rio Grande County, Colorado",B25077_001,202300,15979
+08107,"Routt County, Colorado",B25077_001,691800,47384
+08109,"Saguache County, Colorado",B25077_001,166500,21655
+08111,"San Juan County, Colorado",B25077_001,344600,79229
+08113,"San Miguel County, Colorado",B25077_001,561400,102977
+08115,"Sedgwick County, Colorado",B25077_001,136000,16197
+08117,"Summit County, Colorado",B25077_001,760000,76927
+08119,"Teller County, Colorado",B25077_001,405500,24350
+08121,"Washington County, Colorado",B25077_001,208300,12345
+08123,"Weld County, Colorado",B25077_001,412200,5013
+08125,"Yuma County, Colorado",B25077_001,201500,29592
+09110,"Capitol Planning Region, Connecticut",B25077_001,283800,2161
+09120,"Greater Bridgeport Planning Region, Connecticut",B25077_001,372000,5950
+09130,"Lower Connecticut River Valley Planning Region, Connecticut",B25077_001,341300,5393
+09140,"Naugatuck Valley Planning Region, Connecticut",B25077_001,273500,3002
+09150,"Northeastern Connecticut Planning Region, Connecticut",B25077_001,268500,5504
+09160,"Northwest Hills Planning Region, Connecticut",B25077_001,296800,8592
+09170,"South Central Connecticut Planning Region, Connecticut",B25077_001,309600,3731
+09180,"Southeastern Connecticut Planning Region, Connecticut",B25077_001,275900,4291
+09190,"Western Connecticut Planning Region, Connecticut",B25077_001,595600,9460
+10001,"Kent County, Delaware",B25077_001,272300,4976
+10003,"New Castle County, Delaware",B25077_001,312000,3949
+10005,"Sussex County, Delaware",B25077_001,324400,6785
+11001,"District of Columbia, District of Columbia",B25077_001,705000,10380
+12001,"Alachua County, Florida",B25077_001,245600,5680
+12003,"Baker County, Florida",B25077_001,198900,18452
+12005,"Bay County, Florida",B25077_001,246800,6496
+12007,"Bradford County, Florida",B25077_001,153900,13648
+12009,"Brevard County, Florida",B25077_001,278000,3385
+12011,"Broward County, Florida",B25077_001,348600,2807
+12013,"Calhoun County, Florida",B25077_001,118100,12122
+12015,"Charlotte County, Florida",B25077_001,265800,5127
+12017,"Citrus County, Florida",B25077_001,190800,6685
+12019,"Clay County, Florida",B25077_001,254500,5768
+12021,"Collier County, Florida",B25077_001,443700,9128
+12023,"Columbia County, Florida",B25077_001,165300,8392
+12027,"DeSoto County, Florida",B25077_001,139500,10848
+12029,"Dixie County, Florida",B25077_001,93200,5103
+12031,"Duval County, Florida",B25077_001,251300,3647
+12033,"Escambia County, Florida",B25077_001,206400,4453
+12035,"Flagler County, Florida",B25077_001,293700,5711
+12037,"Franklin County, Florida",B25077_001,236100,16956
+12039,"Gadsden County, Florida",B25077_001,137300,19404
+12041,"Gilchrist County, Florida",B25077_001,165500,9654
+12043,"Glades County, Florida",B25077_001,91300,20063
+12045,"Gulf County, Florida",B25077_001,197700,15008
+12047,"Hamilton County, Florida",B25077_001,100800,8998
+12049,"Hardee County, Florida",B25077_001,118700,13325
+12051,"Hendry County, Florida",B25077_001,153200,10009
+12053,"Hernando County, Florida",B25077_001,214700,3758
+12055,"Highlands County, Florida",B25077_001,155900,5143
+12057,"Hillsborough County, Florida",B25077_001,294900,2471
+12059,"Holmes County, Florida",B25077_001,94900,12225
+12061,"Indian River County, Florida",B25077_001,284400,6789
+12063,"Jackson County, Florida",B25077_001,113300,6555
+12065,"Jefferson County, Florida",B25077_001,167600,26544
+12067,"Lafayette County, Florida",B25077_001,118600,14330
+12069,"Lake County, Florida",B25077_001,262500,5102
+12071,"Lee County, Florida",B25077_001,290900,2752
+12073,"Leon County, Florida",B25077_001,256900,5337
+12075,"Levy County, Florida",B25077_001,151800,12986
+12077,"Liberty County, Florida",B25077_001,113300,13159
+12079,"Madison County, Florida",B25077_001,92400,13672
+12081,"Manatee County, Florida",B25077_001,323900,6038
+12083,"Marion County, Florida",B25077_001,194900,3585
+12085,"Martin County, Florida",B25077_001,359200,9370
+12086,"Miami-Dade County, Florida",B25077_001,387000,2484
+12087,"Monroe County, Florida",B25077_001,696900,21143
+12089,"Nassau County, Florida",B25077_001,306800,13837
+12091,"Okaloosa County, Florida",B25077_001,295400,6126
+12093,"Okeechobee County, Florida",B25077_001,158500,9542
+12095,"Orange County, Florida",B25077_001,329000,3195
+12097,"Osceola County, Florida",B25077_001,285200,4233
+12099,"Palm Beach County, Florida",B25077_001,368300,3344
+12101,"Pasco County, Florida",B25077_001,233600,4203
+12103,"Pinellas County, Florida",B25077_001,284300,2458
+12105,"Polk County, Florida",B25077_001,215700,2390
+12107,"Putnam County, Florida",B25077_001,125700,8951
+12109,"St. Johns County, Florida",B25077_001,416100,8153
+12111,"St. Lucie County, Florida",B25077_001,275900,4687
+12113,"Santa Rosa County, Florida",B25077_001,272500,7071
+12115,"Sarasota County, Florida",B25077_001,338500,4543
+12117,"Seminole County, Florida",B25077_001,329300,4502
+12119,"Sumter County, Florida",B25077_001,324400,9768
+12121,"Suwannee County, Florida",B25077_001,136500,8486
+12123,"Taylor County, Florida",B25077_001,89300,7965
+12125,"Union County, Florida",B25077_001,146200,31120
+12127,"Volusia County, Florida",B25077_001,251400,3121
+12129,"Wakulla County, Florida",B25077_001,198600,15194
+12131,"Walton County, Florida",B25077_001,327000,16437
+12133,"Washington County, Florida",B25077_001,137600,13200
+13001,"Appling County, Georgia",B25077_001,88500,13291
+13003,"Atkinson County, Georgia",B25077_001,77100,8403
+13005,"Bacon County, Georgia",B25077_001,95600,13303
+13007,"Baker County, Georgia",B25077_001,121600,23881
+13009,"Baldwin County, Georgia",B25077_001,154400,10510
+13011,"Banks County, Georgia",B25077_001,229900,25751
+13013,"Barrow County, Georgia",B25077_001,228400,4252
+13015,"Bartow County, Georgia",B25077_001,237000,7385
+13017,"Ben Hill County, Georgia",B25077_001,100000,13192
+13019,"Berrien County, Georgia",B25077_001,108300,14582
+13021,"Bibb County, Georgia",B25077_001,155200,4786
+13023,"Bleckley County, Georgia",B25077_001,121600,12804
+13025,"Brantley County, Georgia",B25077_001,91900,29805
+13027,"Brooks County, Georgia",B25077_001,128400,18886
+13029,"Bryan County, Georgia",B25077_001,276100,14553
+13031,"Bulloch County, Georgia",B25077_001,172500,10577
+13033,"Burke County, Georgia",B25077_001,98300,17906
+13035,"Butts County, Georgia",B25077_001,200000,15618
+13037,"Calhoun County, Georgia",B25077_001,77100,14551
+13039,"Camden County, Georgia",B25077_001,213400,8288
+13043,"Candler County, Georgia",B25077_001,141500,22905
+13045,"Carroll County, Georgia",B25077_001,196900,6981
+13047,"Catoosa County, Georgia",B25077_001,191200,8825
+13049,"Charlton County, Georgia",B25077_001,107500,34006
+13051,"Chatham County, Georgia",B25077_001,256400,5797
+13053,"Chattahoochee County, Georgia",B25077_001,129300,46469
+13055,"Chattooga County, Georgia",B25077_001,86400,6118
+13057,"Cherokee County, Georgia",B25077_001,358400,6740
+13059,"Clarke County, Georgia",B25077_001,242600,7809
+13061,"Clay County, Georgia",B25077_001,81200,29534
+13063,"Clayton County, Georgia",B25077_001,167200,3613
+13065,"Clinch County, Georgia",B25077_001,73900,12392
+13067,"Cobb County, Georgia",B25077_001,346000,3684
+13069,"Coffee County, Georgia",B25077_001,122500,12299
+13071,"Colquitt County, Georgia",B25077_001,113900,6842
+13073,"Columbia County, Georgia",B25077_001,259000,7210
+13075,"Cook County, Georgia",B25077_001,113600,17844
+13077,"Coweta County, Georgia",B25077_001,291900,7652
+13079,"Crawford County, Georgia",B25077_001,149400,25880
+13081,"Crisp County, Georgia",B25077_001,106900,20166
+13083,"Dade County, Georgia",B25077_001,157900,12395
+13085,"Dawson County, Georgia",B25077_001,312600,23984
+13087,"Decatur County, Georgia",B25077_001,140800,12647
+13089,"DeKalb County, Georgia",B25077_001,301100,6333
+13091,"Dodge County, Georgia",B25077_001,104600,13876
+13093,"Dooly County, Georgia",B25077_001,94500,10310
+13095,"Dougherty County, Georgia",B25077_001,119100,4815
+13097,"Douglas County, Georgia",B25077_001,227800,6684
+13099,"Early County, Georgia",B25077_001,126500,17618
+13101,"Echols County, Georgia",B25077_001,114900,14166
+13103,"Effingham County, Georgia",B25077_001,219000,8521
+13105,"Elbert County, Georgia",B25077_001,104500,10392
+13107,"Emanuel County, Georgia",B25077_001,87500,6168
+13109,"Evans County, Georgia",B25077_001,130500,13023
+13111,"Fannin County, Georgia",B25077_001,260100,14278
+13113,"Fayette County, Georgia",B25077_001,369700,8154
+13115,"Floyd County, Georgia",B25077_001,174000,7140
+13117,"Forsyth County, Georgia",B25077_001,451100,5238
+13119,"Franklin County, Georgia",B25077_001,146700,12215
+13121,"Fulton County, Georgia",B25077_001,398300,6251
+13123,"Gilmer County, Georgia",B25077_001,259700,14647
+13125,"Glascock County, Georgia",B25077_001,117300,28351
+13127,"Glynn County, Georgia",B25077_001,238000,10208
+13129,"Gordon County, Georgia",B25077_001,179100,7266
+13131,"Grady County, Georgia",B25077_001,147000,15267
+13133,"Greene County, Georgia",B25077_001,308000,34716
+13135,"Gwinnett County, Georgia",B25077_001,307300,3806
+13137,"Habersham County, Georgia",B25077_001,188800,10236
+13139,"Hall County, Georgia",B25077_001,277900,6615
+13141,"Hancock County, Georgia",B25077_001,93500,7192
+13143,"Haralson County, Georgia",B25077_001,187700,13218
+13145,"Harris County, Georgia",B25077_001,273200,10993
+13147,"Hart County, Georgia",B25077_001,180500,22623
+13149,"Heard County, Georgia",B25077_001,134900,13881
+13151,"Henry County, Georgia",B25077_001,245200,5133
+13153,"Houston County, Georgia",B25077_001,189500,5595
+13155,"Irwin County, Georgia",B25077_001,94700,9095
+13157,"Jackson County, Georgia",B25077_001,280600,7691
+13159,"Jasper County, Georgia",B25077_001,184000,16721
+13161,"Jeff Davis County, Georgia",B25077_001,106800,12691
+13163,"Jefferson County, Georgia",B25077_001,90900,8534
+13165,"Jenkins County, Georgia",B25077_001,81800,17971
+13167,"Johnson County, Georgia",B25077_001,81300,17279
+13169,"Jones County, Georgia",B25077_001,159500,8424
+13171,"Lamar County, Georgia",B25077_001,177000,29806
+13173,"Lanier County, Georgia",B25077_001,150200,12875
+13175,"Laurens County, Georgia",B25077_001,132000,13798
+13177,"Lee County, Georgia",B25077_001,208800,7985
+13179,"Liberty County, Georgia",B25077_001,158400,8019
+13181,"Lincoln County, Georgia",B25077_001,164300,21578
+13183,"Long County, Georgia",B25077_001,159900,14853
+13185,"Lowndes County, Georgia",B25077_001,177800,6649
+13187,"Lumpkin County, Georgia",B25077_001,249400,13398
+13189,"McDuffie County, Georgia",B25077_001,140900,18486
+13191,"McIntosh County, Georgia",B25077_001,157600,24077
+13193,"Macon County, Georgia",B25077_001,78100,11013
+13195,"Madison County, Georgia",B25077_001,170600,8865
+13197,"Marion County, Georgia",B25077_001,111300,30472
+13199,"Meriwether County, Georgia",B25077_001,147200,16370
+13201,"Miller County, Georgia",B25077_001,119400,13497
+13205,"Mitchell County, Georgia",B25077_001,98400,6885
+13207,"Monroe County, Georgia",B25077_001,204100,22844
+13209,"Montgomery County, Georgia",B25077_001,105300,15075
+13211,"Morgan County, Georgia",B25077_001,293300,19530
+13213,"Murray County, Georgia",B25077_001,153700,9017
+13215,"Muscogee County, Georgia",B25077_001,168400,4446
+13217,"Newton County, Georgia",B25077_001,200300,8391
+13219,"Oconee County, Georgia",B25077_001,389200,17418
+13221,"Oglethorpe County, Georgia",B25077_001,176300,17780
+13223,"Paulding County, Georgia",B25077_001,251100,6278
+13225,"Peach County, Georgia",B25077_001,170500,12232
+13227,"Pickens County, Georgia",B25077_001,263200,15892
+13229,"Pierce County, Georgia",B25077_001,116800,12609
+13231,"Pike County, Georgia",B25077_001,234700,10190
+13233,"Polk County, Georgia",B25077_001,151400,10518
+13235,"Pulaski County, Georgia",B25077_001,120500,17113
+13237,"Putnam County, Georgia",B25077_001,203300,17864
+13239,"Quitman County, Georgia",B25077_001,85800,21803
+13241,"Rabun County, Georgia",B25077_001,236900,17155
+13243,"Randolph County, Georgia",B25077_001,83800,10186
+13245,"Richmond County, Georgia",B25077_001,142100,4600
+13247,"Rockdale County, Georgia",B25077_001,221800,9595
+13249,"Schley County, Georgia",B25077_001,154300,18278
+13251,"Screven County, Georgia",B25077_001,107800,12466
+13253,"Seminole County, Georgia",B25077_001,110300,7642
+13255,"Spalding County, Georgia",B25077_001,178800,10700
+13257,"Stephens County, Georgia",B25077_001,154200,11958
+13259,"Stewart County, Georgia",B25077_001,72500,45595
+13261,"Sumter County, Georgia",B25077_001,130000,12133
+13263,"Talbot County, Georgia",B25077_001,119400,22487
+13265,"Taliaferro County, Georgia",B25077_001,69200,27744
+13267,"Tattnall County, Georgia",B25077_001,115600,14884
+13269,"Taylor County, Georgia",B25077_001,90100,13976
+13271,"Telfair County, Georgia",B25077_001,90000,14495
+13273,"Terrell County, Georgia",B25077_001,97000,8317
+13275,"Thomas County, Georgia",B25077_001,178900,8908
+13277,"Tift County, Georgia",B25077_001,140700,11756
+13279,"Toombs County, Georgia",B25077_001,124800,12179
+13281,"Towns County, Georgia",B25077_001,278700,17562
+13283,"Treutlen County, Georgia",B25077_001,98500,30819
+13285,"Troup County, Georgia",B25077_001,166700,8748
+13287,"Turner County, Georgia",B25077_001,85600,4516
+13289,"Twiggs County, Georgia",B25077_001,89300,8651
+13291,"Union County, Georgia",B25077_001,252100,15071
+13293,"Upson County, Georgia",B25077_001,136500,11062
+13295,"Walker County, Georgia",B25077_001,149600,6640
+13297,"Walton County, Georgia",B25077_001,267400,7820
+13299,"Ware County, Georgia",B25077_001,94600,9110
+13301,"Warren County, Georgia",B25077_001,82700,18964
+13303,"Washington County, Georgia",B25077_001,113700,8724
+13305,"Wayne County, Georgia",B25077_001,142200,14940
+13307,"Webster County, Georgia",B25077_001,77100,15508
+13309,"Wheeler County, Georgia",B25077_001,82600,24504
+13311,"White County, Georgia",B25077_001,232000,10865
+13313,"Whitfield County, Georgia",B25077_001,175000,6686
+13315,"Wilcox County, Georgia",B25077_001,65300,9335
+13317,"Wilkes County, Georgia",B25077_001,92500,6782
+13319,"Wilkinson County, Georgia",B25077_001,87600,4579
+13321,"Worth County, Georgia",B25077_001,98000,6592
+15001,"Hawaii County, Hawaii",B25077_001,454900,8988
+15003,"Honolulu County, Hawaii",B25077_001,832200,6845
+15005,"Kalawao County, Hawaii",B25077_001,,
+15007,"Kauai County, Hawaii",B25077_001,742900,19635
+15009,"Maui County, Hawaii",B25077_001,800100,15321
+16001,"Ada County, Idaho",B25077_001,423500,5547
+16003,"Adams County, Idaho",B25077_001,284300,16774
+16005,"Bannock County, Idaho",B25077_001,233500,5792
+16007,"Bear Lake County, Idaho",B25077_001,194700,20271
+16009,"Benewah County, Idaho",B25077_001,241700,14294
+16011,"Bingham County, Idaho",B25077_001,230500,11995
+16013,"Blaine County, Idaho",B25077_001,558600,93060
+16015,"Boise County, Idaho",B25077_001,369300,45072
+16017,"Bonner County, Idaho",B25077_001,378200,17096
+16019,"Bonneville County, Idaho",B25077_001,288300,7344
+16021,"Boundary County, Idaho",B25077_001,318600,24107
+16023,"Butte County, Idaho",B25077_001,194700,37075
+16025,"Camas County, Idaho",B25077_001,225000,36284
+16027,"Canyon County, Idaho",B25077_001,306200,7576
+16029,"Caribou County, Idaho",B25077_001,204400,17052
+16031,"Cassia County, Idaho",B25077_001,227100,11663
+16033,"Clark County, Idaho",B25077_001,172500,63711
+16035,"Clearwater County, Idaho",B25077_001,213000,14415
+16037,"Custer County, Idaho",B25077_001,282000,23310
+16039,"Elmore County, Idaho",B25077_001,235200,15355
+16041,"Franklin County, Idaho",B25077_001,269100,14133
+16043,"Fremont County, Idaho",B25077_001,243700,16073
+16045,"Gem County, Idaho",B25077_001,324700,23295
+16047,"Gooding County, Idaho",B25077_001,197800,20936
+16049,"Idaho County, Idaho",B25077_001,258900,14527
+16051,"Jefferson County, Idaho",B25077_001,284700,10958
+16053,"Jerome County, Idaho",B25077_001,234300,13719
+16055,"Kootenai County, Idaho",B25077_001,407000,10262
+16057,"Latah County, Idaho",B25077_001,309300,13361
+16059,"Lemhi County, Idaho",B25077_001,254800,31037
+16061,"Lewis County, Idaho",B25077_001,184800,13442
+16063,"Lincoln County, Idaho",B25077_001,183400,16611
+16065,"Madison County, Idaho",B25077_001,324300,24337
+16067,"Minidoka County, Idaho",B25077_001,198400,13999
+16069,"Nez Perce County, Idaho",B25077_001,259600,8643
+16071,"Oneida County, Idaho",B25077_001,226000,17454
+16073,"Owyhee County, Idaho",B25077_001,247200,25174
+16075,"Payette County, Idaho",B25077_001,265500,15902
+16077,"Power County, Idaho",B25077_001,174200,21224
+16079,"Shoshone County, Idaho",B25077_001,183200,18180
+16081,"Teton County, Idaho",B25077_001,479800,44234
+16083,"Twin Falls County, Idaho",B25077_001,262200,9545
+16085,"Valley County, Idaho",B25077_001,471000,54272
+16087,"Washington County, Idaho",B25077_001,212000,19635
+17001,"Adams County, Illinois",B25077_001,151300,4698
+17003,"Alexander County, Illinois",B25077_001,58600,9416
+17005,"Bond County, Illinois",B25077_001,130300,12068
+17007,"Boone County, Illinois",B25077_001,181700,8316
+17009,"Brown County, Illinois",B25077_001,122100,19187
+17011,"Bureau County, Illinois",B25077_001,120200,4589
+17013,"Calhoun County, Illinois",B25077_001,160900,14583
+17015,"Carroll County, Illinois",B25077_001,109900,4924
+17017,"Cass County, Illinois",B25077_001,92000,5665
+17019,"Champaign County, Illinois",B25077_001,192600,4179
+17021,"Christian County, Illinois",B25077_001,108800,5586
+17023,"Clark County, Illinois",B25077_001,112400,7878
+17025,"Clay County, Illinois",B25077_001,103600,9928
+17027,"Clinton County, Illinois",B25077_001,171500,6044
+17029,"Coles County, Illinois",B25077_001,114000,5415
+17031,"Cook County, Illinois",B25077_001,293700,1384
+17033,"Crawford County, Illinois",B25077_001,108200,7075
+17035,"Cumberland County, Illinois",B25077_001,116000,7570
+17037,"DeKalb County, Illinois",B25077_001,218600,4507
+17039,"De Witt County, Illinois",B25077_001,121100,6290
+17041,"Douglas County, Illinois",B25077_001,137100,9715
+17043,"DuPage County, Illinois",B25077_001,361700,2487
+17045,"Edgar County, Illinois",B25077_001,94100,4317
+17047,"Edwards County, Illinois",B25077_001,92700,5352
+17049,"Effingham County, Illinois",B25077_001,166500,6787
+17051,"Fayette County, Illinois",B25077_001,111500,8947
+17053,"Ford County, Illinois",B25077_001,113400,3639
+17055,"Franklin County, Illinois",B25077_001,87500,4017
+17057,"Fulton County, Illinois",B25077_001,99800,3956
+17059,"Gallatin County, Illinois",B25077_001,81000,8499
+17061,"Greene County, Illinois",B25077_001,92400,4790
+17063,"Grundy County, Illinois",B25077_001,245400,6186
+17065,"Hamilton County, Illinois",B25077_001,100300,21132
+17067,"Hancock County, Illinois",B25077_001,104200,4310
+17069,"Hardin County, Illinois",B25077_001,90600,12810
+17071,"Henderson County, Illinois",B25077_001,99800,7760
+17073,"Henry County, Illinois",B25077_001,138900,6331
+17075,"Iroquois County, Illinois",B25077_001,120900,4366
+17077,"Jackson County, Illinois",B25077_001,123400,5935
+17079,"Jasper County, Illinois",B25077_001,117900,10768
+17081,"Jefferson County, Illinois",B25077_001,115000,4404
+17083,"Jersey County, Illinois",B25077_001,161800,12662
+17085,"Jo Daviess County, Illinois",B25077_001,179300,10199
+17087,"Johnson County, Illinois",B25077_001,141200,12383
+17089,"Kane County, Illinois",B25077_001,290100,3224
+17091,"Kankakee County, Illinois",B25077_001,176800,4557
+17093,"Kendall County, Illinois",B25077_001,288100,4872
+17095,"Knox County, Illinois",B25077_001,96800,2240
+17097,"Lake County, Illinois",B25077_001,313700,4235
+17099,"LaSalle County, Illinois",B25077_001,147400,3259
+17101,"Lawrence County, Illinois",B25077_001,93900,4138
+17103,"Lee County, Illinois",B25077_001,147100,7749
+17105,"Livingston County, Illinois",B25077_001,128100,6594
+17107,"Logan County, Illinois",B25077_001,118200,5066
+17109,"McDonough County, Illinois",B25077_001,100400,4851
+17111,"McHenry County, Illinois",B25077_001,270600,2710
+17113,"McLean County, Illinois",B25077_001,191300,3237
+17115,"Macon County, Illinois",B25077_001,119800,2878
+17117,"Macoupin County, Illinois",B25077_001,121300,5525
+17119,"Madison County, Illinois",B25077_001,159400,2930
+17121,"Marion County, Illinois",B25077_001,96200,4143
+17123,"Marshall County, Illinois",B25077_001,124600,6941
+17125,"Mason County, Illinois",B25077_001,97000,3033
+17127,"Massac County, Illinois",B25077_001,115200,10986
+17129,"Menard County, Illinois",B25077_001,177100,9475
+17131,"Mercer County, Illinois",B25077_001,131000,7196
+17133,"Monroe County, Illinois",B25077_001,254100,13180
+17135,"Montgomery County, Illinois",B25077_001,102000,5274
+17137,"Morgan County, Illinois",B25077_001,122000,4953
+17139,"Moultrie County, Illinois",B25077_001,116400,7334
+17141,"Ogle County, Illinois",B25077_001,172900,6370
+17143,"Peoria County, Illinois",B25077_001,150400,4565
+17145,"Perry County, Illinois",B25077_001,102000,8132
+17147,"Piatt County, Illinois",B25077_001,168300,7554
+17149,"Pike County, Illinois",B25077_001,97000,5128
+17151,"Pope County, Illinois",B25077_001,137500,32236
+17153,"Pulaski County, Illinois",B25077_001,81600,9910
+17155,"Putnam County, Illinois",B25077_001,161500,10543
+17157,"Randolph County, Illinois",B25077_001,129400,8116
+17159,"Richland County, Illinois",B25077_001,106400,8990
+17161,"Rock Island County, Illinois",B25077_001,139800,2860
+17163,"St. Clair County, Illinois",B25077_001,158500,3994
+17165,"Saline County, Illinois",B25077_001,87900,4410
+17167,"Sangamon County, Illinois",B25077_001,162400,3459
+17169,"Schuyler County, Illinois",B25077_001,100500,12004
+17171,"Scott County, Illinois",B25077_001,95000,5474
+17173,"Shelby County, Illinois",B25077_001,125200,7879
+17175,"Stark County, Illinois",B25077_001,95900,5205
+17177,"Stephenson County, Illinois",B25077_001,122000,5958
+17179,"Tazewell County, Illinois",B25077_001,159100,3453
+17181,"Union County, Illinois",B25077_001,129300,8914
+17183,"Vermilion County, Illinois",B25077_001,91000,2507
+17185,"Wabash County, Illinois",B25077_001,94100,7057
+17187,"Warren County, Illinois",B25077_001,98200,4427
+17189,"Washington County, Illinois",B25077_001,147100,9184
+17191,"Wayne County, Illinois",B25077_001,107900,5366
+17193,"White County, Illinois",B25077_001,101000,8497
+17195,"Whiteside County, Illinois",B25077_001,122200,3190
+17197,"Will County, Illinois",B25077_001,283600,2442
+17199,"Williamson County, Illinois",B25077_001,139500,5682
+17201,"Winnebago County, Illinois",B25077_001,146800,2608
+17203,"Woodford County, Illinois",B25077_001,186100,7333
+18001,"Adams County, Indiana",B25077_001,164500,5132
+18003,"Allen County, Indiana",B25077_001,173600,2659
+18005,"Bartholomew County, Indiana",B25077_001,197500,4950
+18007,"Benton County, Indiana",B25077_001,122600,9851
+18009,"Blackford County, Indiana",B25077_001,90200,8445
+18011,"Boone County, Indiana",B25077_001,320000,13636
+18013,"Brown County, Indiana",B25077_001,227600,9870
+18015,"Carroll County, Indiana",B25077_001,152900,8320
+18017,"Cass County, Indiana",B25077_001,110600,5507
+18019,"Clark County, Indiana",B25077_001,195100,4031
+18021,"Clay County, Indiana",B25077_001,130000,8676
+18023,"Clinton County, Indiana",B25077_001,140100,5762
+18025,"Crawford County, Indiana",B25077_001,105500,10327
+18027,"Daviess County, Indiana",B25077_001,174000,13075
+18029,"Dearborn County, Indiana",B25077_001,210800,7923
+18031,"Decatur County, Indiana",B25077_001,174400,11477
+18033,"DeKalb County, Indiana",B25077_001,157700,7295
+18035,"Delaware County, Indiana",B25077_001,120500,3952
+18037,"Dubois County, Indiana",B25077_001,187000,8359
+18039,"Elkhart County, Indiana",B25077_001,181800,4954
+18041,"Fayette County, Indiana",B25077_001,99100,3800
+18043,"Floyd County, Indiana",B25077_001,214800,6749
+18045,"Fountain County, Indiana",B25077_001,123400,7083
+18047,"Franklin County, Indiana",B25077_001,200700,13936
+18049,"Fulton County, Indiana",B25077_001,143400,8881
+18051,"Gibson County, Indiana",B25077_001,159700,5282
+18053,"Grant County, Indiana",B25077_001,109300,4863
+18055,"Greene County, Indiana",B25077_001,116400,4200
+18057,"Hamilton County, Indiana",B25077_001,350900,4380
+18059,"Hancock County, Indiana",B25077_001,235500,5679
+18061,"Harrison County, Indiana",B25077_001,202900,8832
+18063,"Hendricks County, Indiana",B25077_001,257700,5475
+18065,"Henry County, Indiana",B25077_001,124900,5305
+18067,"Howard County, Indiana",B25077_001,143100,4306
+18069,"Huntington County, Indiana",B25077_001,134000,5424
+18071,"Jackson County, Indiana",B25077_001,161300,5126
+18073,"Jasper County, Indiana",B25077_001,190700,6499
+18075,"Jay County, Indiana",B25077_001,101500,7293
+18077,"Jefferson County, Indiana",B25077_001,168100,9989
+18079,"Jennings County, Indiana",B25077_001,133200,9094
+18081,"Johnson County, Indiana",B25077_001,240700,5644
+18083,"Knox County, Indiana",B25077_001,122100,8729
+18085,"Kosciusko County, Indiana",B25077_001,183300,5850
+18087,"LaGrange County, Indiana",B25077_001,230300,14460
+18089,"Lake County, Indiana",B25077_001,195100,3059
+18091,"LaPorte County, Indiana",B25077_001,166200,4138
+18093,"Lawrence County, Indiana",B25077_001,146700,8048
+18095,"Madison County, Indiana",B25077_001,135100,3671
+18097,"Marion County, Indiana",B25077_001,184100,2220
+18099,"Marshall County, Indiana",B25077_001,170800,5752
+18101,"Martin County, Indiana",B25077_001,142400,13788
+18103,"Miami County, Indiana",B25077_001,112800,4673
+18105,"Monroe County, Indiana",B25077_001,240600,7029
+18107,"Montgomery County, Indiana",B25077_001,156400,5559
+18109,"Morgan County, Indiana",B25077_001,200600,5822
+18111,"Newton County, Indiana",B25077_001,147900,9158
+18113,"Noble County, Indiana",B25077_001,168100,6887
+18115,"Ohio County, Indiana",B25077_001,189600,14857
+18117,"Orange County, Indiana",B25077_001,125100,9127
+18119,"Owen County, Indiana",B25077_001,151400,9232
+18121,"Parke County, Indiana",B25077_001,121500,11155
+18123,"Perry County, Indiana",B25077_001,136700,9106
+18125,"Pike County, Indiana",B25077_001,127000,11452
+18127,"Porter County, Indiana",B25077_001,242300,5078
+18129,"Posey County, Indiana",B25077_001,200900,12081
+18131,"Pulaski County, Indiana",B25077_001,131500,6427
+18133,"Putnam County, Indiana",B25077_001,175600,13685
+18135,"Randolph County, Indiana",B25077_001,97600,2693
+18137,"Ripley County, Indiana",B25077_001,188400,8942
+18139,"Rush County, Indiana",B25077_001,147200,8646
+18141,"St. Joseph County, Indiana",B25077_001,165700,3422
+18143,"Scott County, Indiana",B25077_001,137200,8551
+18145,"Shelby County, Indiana",B25077_001,170000,6328
+18147,"Spencer County, Indiana",B25077_001,168200,7522
+18149,"Starke County, Indiana",B25077_001,145600,9004
+18151,"Steuben County, Indiana",B25077_001,187500,7876
+18153,"Sullivan County, Indiana",B25077_001,115200,9693
+18155,"Switzerland County, Indiana",B25077_001,162000,15921
+18157,"Tippecanoe County, Indiana",B25077_001,199300,5567
+18159,"Tipton County, Indiana",B25077_001,150700,7927
+18161,"Union County, Indiana",B25077_001,149500,15642
+18163,"Vanderburgh County, Indiana",B25077_001,162800,3938
+18165,"Vermillion County, Indiana",B25077_001,99400,5739
+18167,"Vigo County, Indiana",B25077_001,130300,5154
+18169,"Wabash County, Indiana",B25077_001,135800,7240
+18171,"Warren County, Indiana",B25077_001,151400,12954
+18173,"Warrick County, Indiana",B25077_001,215600,6055
+18175,"Washington County, Indiana",B25077_001,158200,9514
+18177,"Wayne County, Indiana",B25077_001,119400,4209
+18179,"Wells County, Indiana",B25077_001,161300,5284
+18181,"White County, Indiana",B25077_001,153200,8659
+18183,"Whitley County, Indiana",B25077_001,189800,9576
+19001,"Adair County, Iowa",B25077_001,131600,10527
+19003,"Adams County, Iowa",B25077_001,109400,19689
+19005,"Allamakee County, Iowa",B25077_001,156900,10366
+19007,"Appanoose County, Iowa",B25077_001,113900,9521
+19009,"Audubon County, Iowa",B25077_001,99900,9597
+19011,"Benton County, Iowa",B25077_001,189000,8699
+19013,"Black Hawk County, Iowa",B25077_001,172500,3720
+19015,"Boone County, Iowa",B25077_001,171600,7102
+19017,"Bremer County, Iowa",B25077_001,202600,8463
+19019,"Buchanan County, Iowa",B25077_001,166200,5974
+19021,"Buena Vista County, Iowa",B25077_001,138100,11004
+19023,"Butler County, Iowa",B25077_001,146300,6936
+19025,"Calhoun County, Iowa",B25077_001,104900,7523
+19027,"Carroll County, Iowa",B25077_001,162000,8335
+19029,"Cass County, Iowa",B25077_001,127400,10799
+19031,"Cedar County, Iowa",B25077_001,180700,9311
+19033,"Cerro Gordo County, Iowa",B25077_001,145200,5938
+19035,"Cherokee County, Iowa",B25077_001,145300,14548
+19037,"Chickasaw County, Iowa",B25077_001,151700,10966
+19039,"Clarke County, Iowa",B25077_001,127200,24992
+19041,"Clay County, Iowa",B25077_001,151400,10527
+19043,"Clayton County, Iowa",B25077_001,149500,6940
+19045,"Clinton County, Iowa",B25077_001,144900,5900
+19047,"Crawford County, Iowa",B25077_001,118400,11428
+19049,"Dallas County, Iowa",B25077_001,314900,10133
+19051,"Davis County, Iowa",B25077_001,140300,14959
+19053,"Decatur County, Iowa",B25077_001,97000,8605
+19055,"Delaware County, Iowa",B25077_001,154600,10781
+19057,"Des Moines County, Iowa",B25077_001,135300,7521
+19059,"Dickinson County, Iowa",B25077_001,236100,9584
+19061,"Dubuque County, Iowa",B25077_001,210300,5645
+19063,"Emmet County, Iowa",B25077_001,102700,9112
+19065,"Fayette County, Iowa",B25077_001,123000,6895
+19067,"Floyd County, Iowa",B25077_001,128800,8837
+19069,"Franklin County, Iowa",B25077_001,108200,13292
+19071,"Fremont County, Iowa",B25077_001,140400,11245
+19073,"Greene County, Iowa",B25077_001,119100,11356
+19075,"Grundy County, Iowa",B25077_001,166300,6061
+19077,"Guthrie County, Iowa",B25077_001,153100,11114
+19079,"Hamilton County, Iowa",B25077_001,116000,9546
+19081,"Hancock County, Iowa",B25077_001,116000,8691
+19083,"Hardin County, Iowa",B25077_001,109300,5249
+19085,"Harrison County, Iowa",B25077_001,152000,8212
+19087,"Henry County, Iowa",B25077_001,145200,6383
+19089,"Howard County, Iowa",B25077_001,125100,10204
+19091,"Humboldt County, Iowa",B25077_001,134300,8677
+19093,"Ida County, Iowa",B25077_001,108000,12747
+19095,"Iowa County, Iowa",B25077_001,175600,8945
+19097,"Jackson County, Iowa",B25077_001,162100,10051
+19099,"Jasper County, Iowa",B25077_001,163800,5386
+19101,"Jefferson County, Iowa",B25077_001,141500,14639
+19103,"Johnson County, Iowa",B25077_001,277800,6752
+19105,"Jones County, Iowa",B25077_001,165200,5995
+19107,"Keokuk County, Iowa",B25077_001,105500,5329
+19109,"Kossuth County, Iowa",B25077_001,118800,5365
+19111,"Lee County, Iowa",B25077_001,121000,6253
+19113,"Linn County, Iowa",B25077_001,188800,3789
+19115,"Louisa County, Iowa",B25077_001,125500,11465
+19117,"Lucas County, Iowa",B25077_001,111000,12873
+19119,"Lyon County, Iowa",B25077_001,190800,15013
+19121,"Madison County, Iowa",B25077_001,230500,13460
+19123,"Mahaska County, Iowa",B25077_001,135100,12063
+19125,"Marion County, Iowa",B25077_001,192300,10109
+19127,"Marshall County, Iowa",B25077_001,125900,7086
+19129,"Mills County, Iowa",B25077_001,225500,10737
+19131,"Mitchell County, Iowa",B25077_001,149200,12082
+19133,"Monona County, Iowa",B25077_001,108700,9728
+19135,"Monroe County, Iowa",B25077_001,128000,12365
+19137,"Montgomery County, Iowa",B25077_001,99300,6112
+19139,"Muscatine County, Iowa",B25077_001,159000,5347
+19141,"O'Brien County, Iowa",B25077_001,141900,12274
+19143,"Osceola County, Iowa",B25077_001,114800,8465
+19145,"Page County, Iowa",B25077_001,112400,7440
+19147,"Palo Alto County, Iowa",B25077_001,117000,8558
+19149,"Plymouth County, Iowa",B25077_001,199800,9869
+19151,"Pocahontas County, Iowa",B25077_001,90400,5872
+19153,"Polk County, Iowa",B25077_001,232000,2726
+19155,"Pottawattamie County, Iowa",B25077_001,169400,3065
+19157,"Poweshiek County, Iowa",B25077_001,173600,8805
+19159,"Ringgold County, Iowa",B25077_001,143100,21105
+19161,"Sac County, Iowa",B25077_001,119500,8008
+19163,"Scott County, Iowa",B25077_001,198000,4217
+19165,"Shelby County, Iowa",B25077_001,152900,10949
+19167,"Sioux County, Iowa",B25077_001,220700,6379
+19169,"Story County, Iowa",B25077_001,229100,4981
+19171,"Tama County, Iowa",B25077_001,129400,6771
+19173,"Taylor County, Iowa",B25077_001,104500,7752
+19175,"Union County, Iowa",B25077_001,113800,8068
+19177,"Van Buren County, Iowa",B25077_001,107700,10503
+19179,"Wapello County, Iowa",B25077_001,105800,7964
+19181,"Warren County, Iowa",B25077_001,234300,7964
+19183,"Washington County, Iowa",B25077_001,182400,15287
+19185,"Wayne County, Iowa",B25077_001,98700,6877
+19187,"Webster County, Iowa",B25077_001,130400,7666
+19189,"Winnebago County, Iowa",B25077_001,121700,6808
+19191,"Winneshiek County, Iowa",B25077_001,225400,8695
+19193,"Woodbury County, Iowa",B25077_001,158000,3837
+19195,"Worth County, Iowa",B25077_001,130600,11784
+19197,"Wright County, Iowa",B25077_001,105400,7321
+20001,"Allen County, Kansas",B25077_001,95700,5251
+20003,"Anderson County, Kansas",B25077_001,141700,20421
+20005,"Atchison County, Kansas",B25077_001,123400,15276
+20007,"Barber County, Kansas",B25077_001,83300,18485
+20009,"Barton County, Kansas",B25077_001,113200,7047
+20011,"Bourbon County, Kansas",B25077_001,95600,5296
+20013,"Brown County, Kansas",B25077_001,108700,8138
+20015,"Butler County, Kansas",B25077_001,181700,7091
+20017,"Chase County, Kansas",B25077_001,108300,6746
+20019,"Chautauqua County, Kansas",B25077_001,58400,12254
+20021,"Cherokee County, Kansas",B25077_001,91800,6747
+20023,"Cheyenne County, Kansas",B25077_001,114700,17869
+20025,"Clark County, Kansas",B25077_001,78500,6459
+20027,"Clay County, Kansas",B25077_001,136600,11941
+20029,"Cloud County, Kansas",B25077_001,91100,9086
+20031,"Coffey County, Kansas",B25077_001,131200,15330
+20033,"Comanche County, Kansas",B25077_001,63800,14779
+20035,"Cowley County, Kansas",B25077_001,104000,6850
+20037,"Crawford County, Kansas",B25077_001,114100,9428
+20039,"Decatur County, Kansas",B25077_001,76100,4824
+20041,"Dickinson County, Kansas",B25077_001,137000,10268
+20043,"Doniphan County, Kansas",B25077_001,116400,7770
+20045,"Douglas County, Kansas",B25077_001,259500,8811
+20047,"Edwards County, Kansas",B25077_001,65500,8140
+20049,"Elk County, Kansas",B25077_001,57100,9533
+20051,"Ellis County, Kansas",B25077_001,199100,11886
+20053,"Ellsworth County, Kansas",B25077_001,109400,9953
+20055,"Finney County, Kansas",B25077_001,183900,7024
+20057,"Ford County, Kansas",B25077_001,121500,14928
+20059,"Franklin County, Kansas",B25077_001,175500,9224
+20061,"Geary County, Kansas",B25077_001,162400,9642
+20063,"Gove County, Kansas",B25077_001,112800,10263
+20065,"Graham County, Kansas",B25077_001,87400,11034
+20067,"Grant County, Kansas",B25077_001,147800,27664
+20069,"Gray County, Kansas",B25077_001,162400,10694
+20071,"Greeley County, Kansas",B25077_001,115700,43774
+20073,"Greenwood County, Kansas",B25077_001,64900,12578
+20075,"Hamilton County, Kansas",B25077_001,116800,27321
+20077,"Harper County, Kansas",B25077_001,81000,7065
+20079,"Harvey County, Kansas",B25077_001,160100,8953
+20081,"Haskell County, Kansas",B25077_001,132500,23685
+20083,"Hodgeman County, Kansas",B25077_001,86100,12979
+20085,"Jackson County, Kansas",B25077_001,169100,15150
+20087,"Jefferson County, Kansas",B25077_001,193000,11654
+20089,"Jewell County, Kansas",B25077_001,58400,11600
+20091,"Johnson County, Kansas",B25077_001,343300,3069
+20093,"Kearny County, Kansas",B25077_001,143200,29986
+20095,"Kingman County, Kansas",B25077_001,97500,13154
+20097,"Kiowa County, Kansas",B25077_001,121600,19313
+20099,"Labette County, Kansas",B25077_001,94600,9010
+20101,"Lane County, Kansas",B25077_001,82300,15501
+20103,"Leavenworth County, Kansas",B25077_001,240800,8046
+20105,"Lincoln County, Kansas",B25077_001,94100,15430
+20107,"Linn County, Kansas",B25077_001,148200,16474
+20109,"Logan County, Kansas",B25077_001,116100,12121
+20111,"Lyon County, Kansas",B25077_001,136100,7635
+20113,"McPherson County, Kansas",B25077_001,180900,9707
+20115,"Marion County, Kansas",B25077_001,114700,7506
+20117,"Marshall County, Kansas",B25077_001,112300,8149
+20119,"Meade County, Kansas",B25077_001,137500,13208
+20121,"Miami County, Kansas",B25077_001,253100,12945
+20123,"Mitchell County, Kansas",B25077_001,100700,15072
+20125,"Montgomery County, Kansas",B25077_001,90200,5502
+20127,"Morris County, Kansas",B25077_001,111700,14826
+20129,"Morton County, Kansas",B25077_001,96000,5656
+20131,"Nemaha County, Kansas",B25077_001,174500,15740
+20133,"Neosho County, Kansas",B25077_001,99400,7061
+20135,"Ness County, Kansas",B25077_001,80400,9253
+20137,"Norton County, Kansas",B25077_001,109800,25776
+20139,"Osage County, Kansas",B25077_001,138400,8556
+20141,"Osborne County, Kansas",B25077_001,80600,6349
+20143,"Ottawa County, Kansas",B25077_001,157800,15377
+20145,"Pawnee County, Kansas",B25077_001,93800,9883
+20147,"Phillips County, Kansas",B25077_001,95400,6383
+20149,"Pottawatomie County, Kansas",B25077_001,221600,11334
+20151,"Pratt County, Kansas",B25077_001,111100,13383
+20153,"Rawlins County, Kansas",B25077_001,108500,11113
+20155,"Reno County, Kansas",B25077_001,119200,6576
+20157,"Republic County, Kansas",B25077_001,71000,10856
+20159,"Rice County, Kansas",B25077_001,87700,7179
+20161,"Riley County, Kansas",B25077_001,231000,11706
+20163,"Rooks County, Kansas",B25077_001,88200,5623
+20165,"Rush County, Kansas",B25077_001,74900,4716
+20167,"Russell County, Kansas",B25077_001,103500,13765
+20169,"Saline County, Kansas",B25077_001,161900,5555
+20171,"Scott County, Kansas",B25077_001,166100,41514
+20173,"Sedgwick County, Kansas",B25077_001,175700,2919
+20175,"Seward County, Kansas",B25077_001,126000,9806
+20177,"Shawnee County, Kansas",B25077_001,159900,3605
+20179,"Sheridan County, Kansas",B25077_001,134900,24422
+20181,"Sherman County, Kansas",B25077_001,123900,22718
+20183,"Smith County, Kansas",B25077_001,83900,9524
+20185,"Stafford County, Kansas",B25077_001,96100,9153
+20187,"Stanton County, Kansas",B25077_001,74000,27499
+20189,"Stevens County, Kansas",B25077_001,133800,19731
+20191,"Sumner County, Kansas",B25077_001,116400,7926
+20193,"Thomas County, Kansas",B25077_001,165300,16912
+20195,"Trego County, Kansas",B25077_001,114900,6392
+20197,"Wabaunsee County, Kansas",B25077_001,169600,11520
+20199,"Wallace County, Kansas",B25077_001,96200,7090
+20201,"Washington County, Kansas",B25077_001,106100,8384
+20203,"Wichita County, Kansas",B25077_001,96700,25804
+20205,"Wilson County, Kansas",B25077_001,91700,6718
+20207,"Woodson County, Kansas",B25077_001,85300,22520
+20209,"Wyandotte County, Kansas",B25077_001,139800,5638
+21001,"Adair County, Kentucky",B25077_001,126900,11134
+21003,"Allen County, Kentucky",B25077_001,160200,10562
+21005,"Anderson County, Kentucky",B25077_001,198800,12727
+21007,"Ballard County, Kentucky",B25077_001,102000,28394
+21009,"Barren County, Kentucky",B25077_001,156800,6334
+21011,"Bath County, Kentucky",B25077_001,101300,13907
+21013,"Bell County, Kentucky",B25077_001,76700,9862
+21015,"Boone County, Kentucky",B25077_001,237600,5095
+21017,"Bourbon County, Kentucky",B25077_001,187700,15540
+21019,"Boyd County, Kentucky",B25077_001,129000,9456
+21021,"Boyle County, Kentucky",B25077_001,179800,14857
+21023,"Bracken County, Kentucky",B25077_001,115100,10467
+21025,"Breathitt County, Kentucky",B25077_001,58800,6627
+21027,"Breckinridge County, Kentucky",B25077_001,124800,11844
+21029,"Bullitt County, Kentucky",B25077_001,214000,5952
+21031,"Butler County, Kentucky",B25077_001,102200,10919
+21033,"Caldwell County, Kentucky",B25077_001,103200,9819
+21035,"Calloway County, Kentucky",B25077_001,169100,8312
+21037,"Campbell County, Kentucky",B25077_001,214400,6266
+21039,"Carlisle County, Kentucky",B25077_001,90100,10527
+21041,"Carroll County, Kentucky",B25077_001,128100,12960
+21043,"Carter County, Kentucky",B25077_001,122300,13273
+21045,"Casey County, Kentucky",B25077_001,124300,18059
+21047,"Christian County, Kentucky",B25077_001,142000,8166
+21049,"Clark County, Kentucky",B25077_001,183200,7825
+21051,"Clay County, Kentucky",B25077_001,73500,13419
+21053,"Clinton County, Kentucky",B25077_001,90600,11121
+21055,"Crittenden County, Kentucky",B25077_001,105300,13829
+21057,"Cumberland County, Kentucky",B25077_001,126100,36846
+21059,"Daviess County, Kentucky",B25077_001,171100,4618
+21061,"Edmonson County, Kentucky",B25077_001,116000,12486
+21063,"Elliott County, Kentucky",B25077_001,90400,13554
+21065,"Estill County, Kentucky",B25077_001,100600,9188
+21067,"Fayette County, Kentucky",B25077_001,247900,4181
+21069,"Fleming County, Kentucky",B25077_001,109300,10072
+21071,"Floyd County, Kentucky",B25077_001,89900,5683
+21073,"Franklin County, Kentucky",B25077_001,184000,8767
+21075,"Fulton County, Kentucky",B25077_001,75000,12559
+21077,"Gallatin County, Kentucky",B25077_001,154600,8244
+21079,"Garrard County, Kentucky",B25077_001,170800,9954
+21081,"Grant County, Kentucky",B25077_001,173600,20261
+21083,"Graves County, Kentucky",B25077_001,134900,9135
+21085,"Grayson County, Kentucky",B25077_001,141500,11344
+21087,"Green County, Kentucky",B25077_001,97100,9436
+21089,"Greenup County, Kentucky",B25077_001,132200,6584
+21091,"Hancock County, Kentucky",B25077_001,116800,9962
+21093,"Hardin County, Kentucky",B25077_001,186500,4758
+21095,"Harlan County, Kentucky",B25077_001,71300,6104
+21097,"Harrison County, Kentucky",B25077_001,170600,14472
+21099,"Hart County, Kentucky",B25077_001,115500,9162
+21101,"Henderson County, Kentucky",B25077_001,156200,6657
+21103,"Henry County, Kentucky",B25077_001,161600,10987
+21105,"Hickman County, Kentucky",B25077_001,112700,17944
+21107,"Hopkins County, Kentucky",B25077_001,125800,6679
+21109,"Jackson County, Kentucky",B25077_001,101900,11624
+21111,"Jefferson County, Kentucky",B25077_001,222200,2394
+21113,"Jessamine County, Kentucky",B25077_001,226900,8735
+21115,"Johnson County, Kentucky",B25077_001,130900,9379
+21117,"Kenton County, Kentucky",B25077_001,207700,5283
+21119,"Knott County, Kentucky",B25077_001,66600,11823
+21121,"Knox County, Kentucky",B25077_001,109200,14560
+21123,"Larue County, Kentucky",B25077_001,164000,11690
+21125,"Laurel County, Kentucky",B25077_001,141300,8078
+21127,"Lawrence County, Kentucky",B25077_001,100300,10761
+21129,"Lee County, Kentucky",B25077_001,77400,5236
+21131,"Leslie County, Kentucky",B25077_001,77900,5965
+21133,"Letcher County, Kentucky",B25077_001,66000,6932
+21135,"Lewis County, Kentucky",B25077_001,83400,3676
+21137,"Lincoln County, Kentucky",B25077_001,130100,8608
+21139,"Livingston County, Kentucky",B25077_001,108100,10042
+21141,"Logan County, Kentucky",B25077_001,134200,9130
+21143,"Lyon County, Kentucky",B25077_001,164100,13501
+21145,"McCracken County, Kentucky",B25077_001,172300,6734
+21147,"McCreary County, Kentucky",B25077_001,85300,17487
+21149,"McLean County, Kentucky",B25077_001,139400,9923
+21151,"Madison County, Kentucky",B25077_001,200600,6902
+21153,"Magoffin County, Kentucky",B25077_001,83400,11293
+21155,"Marion County, Kentucky",B25077_001,141000,10042
+21157,"Marshall County, Kentucky",B25077_001,160600,11839
+21159,"Martin County, Kentucky",B25077_001,91800,12119
+21161,"Mason County, Kentucky",B25077_001,156600,15608
+21163,"Meade County, Kentucky",B25077_001,187400,12155
+21165,"Menifee County, Kentucky",B25077_001,104600,9829
+21167,"Mercer County, Kentucky",B25077_001,181400,11309
+21169,"Metcalfe County, Kentucky",B25077_001,95100,6819
+21171,"Monroe County, Kentucky",B25077_001,113900,10965
+21173,"Montgomery County, Kentucky",B25077_001,142300,9713
+21175,"Morgan County, Kentucky",B25077_001,90800,7452
+21177,"Muhlenberg County, Kentucky",B25077_001,115900,7584
+21179,"Nelson County, Kentucky",B25077_001,204000,10992
+21181,"Nicholas County, Kentucky",B25077_001,111300,10583
+21183,"Ohio County, Kentucky",B25077_001,114900,5618
+21185,"Oldham County, Kentucky",B25077_001,357500,7678
+21187,"Owen County, Kentucky",B25077_001,151300,18569
+21189,"Owsley County, Kentucky",B25077_001,78500,10187
+21191,"Pendleton County, Kentucky",B25077_001,152000,13895
+21193,"Perry County, Kentucky",B25077_001,92800,5821
+21195,"Pike County, Kentucky",B25077_001,96900,5101
+21197,"Powell County, Kentucky",B25077_001,123400,15796
+21199,"Pulaski County, Kentucky",B25077_001,140400,5616
+21201,"Robertson County, Kentucky",B25077_001,143500,47550
+21203,"Rockcastle County, Kentucky",B25077_001,100300,10924
+21205,"Rowan County, Kentucky",B25077_001,149900,14518
+21207,"Russell County, Kentucky",B25077_001,121400,10467
+21209,"Scott County, Kentucky",B25077_001,240800,5912
+21211,"Shelby County, Kentucky",B25077_001,247500,9792
+21213,"Simpson County, Kentucky",B25077_001,178600,19884
+21215,"Spencer County, Kentucky",B25077_001,288200,11665
+21217,"Taylor County, Kentucky",B25077_001,156800,10490
+21219,"Todd County, Kentucky",B25077_001,126600,20162
+21221,"Trigg County, Kentucky",B25077_001,173900,19194
+21223,"Trimble County, Kentucky",B25077_001,152600,25925
+21225,"Union County, Kentucky",B25077_001,109100,18656
+21227,"Warren County, Kentucky",B25077_001,227300,5246
+21229,"Washington County, Kentucky",B25077_001,158700,12049
+21231,"Wayne County, Kentucky",B25077_001,112800,10522
+21233,"Webster County, Kentucky",B25077_001,86700,6106
+21235,"Whitley County, Kentucky",B25077_001,114300,8839
+21237,"Wolfe County, Kentucky",B25077_001,62200,11184
+21239,"Woodford County, Kentucky",B25077_001,259100,10672
+22001,"Acadia Parish, Louisiana",B25077_001,145100,12894
+22003,"Allen Parish, Louisiana",B25077_001,113400,8495
+22005,"Ascension Parish, Louisiana",B25077_001,255600,8017
+22007,"Assumption Parish, Louisiana",B25077_001,130600,16085
+22009,"Avoyelles Parish, Louisiana",B25077_001,123600,9812
+22011,"Beauregard Parish, Louisiana",B25077_001,150200,12526
+22013,"Bienville Parish, Louisiana",B25077_001,85800,6202
+22015,"Bossier Parish, Louisiana",B25077_001,206600,7201
+22017,"Caddo Parish, Louisiana",B25077_001,166700,3749
+22019,"Calcasieu Parish, Louisiana",B25077_001,196900,7851
+22021,"Caldwell Parish, Louisiana",B25077_001,103500,25833
+22023,"Cameron Parish, Louisiana",B25077_001,177600,40629
+22025,"Catahoula Parish, Louisiana",B25077_001,91300,15084
+22027,"Claiborne Parish, Louisiana",B25077_001,79100,6552
+22029,"Concordia Parish, Louisiana",B25077_001,94600,10664
+22031,"De Soto Parish, Louisiana",B25077_001,144100,20899
+22033,"East Baton Rouge Parish, Louisiana",B25077_001,232800,3561
+22035,"East Carroll Parish, Louisiana",B25077_001,72600,18579
+22037,"East Feliciana Parish, Louisiana",B25077_001,204800,22310
+22039,"Evangeline Parish, Louisiana",B25077_001,101000,11452
+22041,"Franklin Parish, Louisiana",B25077_001,99200,10162
+22043,"Grant Parish, Louisiana",B25077_001,128100,26003
+22045,"Iberia Parish, Louisiana",B25077_001,152400,7213
+22047,"Iberville Parish, Louisiana",B25077_001,161400,9053
+22049,"Jackson Parish, Louisiana",B25077_001,105700,13880
+22051,"Jefferson Parish, Louisiana",B25077_001,231700,2913
+22053,"Jefferson Davis Parish, Louisiana",B25077_001,149800,12966
+22055,"Lafayette Parish, Louisiana",B25077_001,222400,4640
+22057,"Lafourche Parish, Louisiana",B25077_001,177200,6914
+22059,"LaSalle Parish, Louisiana",B25077_001,120500,17925
+22061,"Lincoln Parish, Louisiana",B25077_001,184300,14679
+22063,"Livingston Parish, Louisiana",B25077_001,210100,5367
+22065,"Madison Parish, Louisiana",B25077_001,88200,9248
+22067,"Morehouse Parish, Louisiana",B25077_001,104300,11720
+22069,"Natchitoches Parish, Louisiana",B25077_001,155700,10647
+22071,"Orleans Parish, Louisiana",B25077_001,281500,5065
+22073,"Ouachita Parish, Louisiana",B25077_001,172800,6090
+22075,"Plaquemines Parish, Louisiana",B25077_001,253300,25461
+22077,"Pointe Coupee Parish, Louisiana",B25077_001,172500,17061
+22079,"Rapides Parish, Louisiana",B25077_001,171400,4794
+22081,"Red River Parish, Louisiana",B25077_001,99100,23969
+22083,"Richland Parish, Louisiana",B25077_001,121800,10366
+22085,"Sabine Parish, Louisiana",B25077_001,112300,11366
+22087,"St. Bernard Parish, Louisiana",B25077_001,184000,6930
+22089,"St. Charles Parish, Louisiana",B25077_001,248600,11302
+22091,"St. Helena Parish, Louisiana",B25077_001,104700,29063
+22093,"St. James Parish, Louisiana",B25077_001,185200,15351
+22095,"St. John the Baptist Parish, Louisiana",B25077_001,173200,7397
+22097,"St. Landry Parish, Louisiana",B25077_001,148400,9206
+22099,"St. Martin Parish, Louisiana",B25077_001,139900,11322
+22101,"St. Mary Parish, Louisiana",B25077_001,128000,8857
+22103,"St. Tammany Parish, Louisiana",B25077_001,262400,4820
+22105,"Tangipahoa Parish, Louisiana",B25077_001,193300,5012
+22107,"Tensas Parish, Louisiana",B25077_001,78300,8554
+22109,"Terrebonne Parish, Louisiana",B25077_001,174400,5976
+22111,"Union Parish, Louisiana",B25077_001,117300,16077
+22113,"Vermilion Parish, Louisiana",B25077_001,154000,10787
+22115,"Vernon Parish, Louisiana",B25077_001,141900,10150
+22117,"Washington Parish, Louisiana",B25077_001,133200,9092
+22119,"Webster Parish, Louisiana",B25077_001,100100,9799
+22121,"West Baton Rouge Parish, Louisiana",B25077_001,223900,8271
+22123,"West Carroll Parish, Louisiana",B25077_001,100600,12162
+22125,"West Feliciana Parish, Louisiana",B25077_001,239700,37821
+22127,"Winn Parish, Louisiana",B25077_001,98100,10300
+23001,"Androscoggin County, Maine",B25077_001,211800,6454
+23003,"Aroostook County, Maine",B25077_001,125400,4938
+23005,"Cumberland County, Maine",B25077_001,372900,5290
+23007,"Franklin County, Maine",B25077_001,170600,6804
+23009,"Hancock County, Maine",B25077_001,250900,8568
+23011,"Kennebec County, Maine",B25077_001,198300,4903
+23013,"Knox County, Maine",B25077_001,260800,10827
+23015,"Lincoln County, Maine",B25077_001,276400,8891
+23017,"Oxford County, Maine",B25077_001,176800,6403
+23019,"Penobscot County, Maine",B25077_001,176700,4206
+23021,"Piscataquis County, Maine",B25077_001,137800,7891
+23023,"Sagadahoc County, Maine",B25077_001,268600,9957
+23025,"Somerset County, Maine",B25077_001,150500,5229
+23027,"Waldo County, Maine",B25077_001,210600,9349
+23029,"Washington County, Maine",B25077_001,135400,5834
+23031,"York County, Maine",B25077_001,323500,6323
+24001,"Allegany County, Maryland",B25077_001,143300,4222
+24003,"Anne Arundel County, Maryland",B25077_001,432000,4241
+24005,"Baltimore County, Maryland",B25077_001,310800,3183
+24009,"Calvert County, Maryland",B25077_001,418900,8882
+24011,"Caroline County, Maryland",B25077_001,258800,9716
+24013,"Carroll County, Maryland",B25077_001,390200,4694
+24015,"Cecil County, Maryland",B25077_001,292500,6368
+24017,"Charles County, Maryland",B25077_001,382800,5668
+24019,"Dorchester County, Maryland",B25077_001,226000,10701
+24021,"Frederick County, Maryland",B25077_001,412500,4943
+24023,"Garrett County, Maryland",B25077_001,220100,13016
+24025,"Harford County, Maryland",B25077_001,351100,5458
+24027,"Howard County, Maryland",B25077_001,551300,6385
+24029,"Kent County, Maryland",B25077_001,291900,13767
+24031,"Montgomery County, Maryland",B25077_001,588900,3935
+24033,"Prince George's County, Maryland",B25077_001,380500,2199
+24035,"Queen Anne's County, Maryland",B25077_001,421900,11377
+24037,"St. Mary's County, Maryland",B25077_001,376900,7638
+24039,"Somerset County, Maryland",B25077_001,157200,13457
+24041,"Talbot County, Maryland",B25077_001,382000,12653
+24043,"Washington County, Maryland",B25077_001,262400,5901
+24045,"Wicomico County, Maryland",B25077_001,226900,5649
+24047,"Worcester County, Maryland",B25077_001,310300,12238
+24510,"Baltimore city, Maryland",B25077_001,202900,3756
+25001,"Barnstable County, Massachusetts",B25077_001,519100,10402
+25003,"Berkshire County, Massachusetts",B25077_001,266400,6255
+25005,"Bristol County, Massachusetts",B25077_001,385000,3683
+25007,"Dukes County, Massachusetts",B25077_001,998100,65423
+25009,"Essex County, Massachusetts",B25077_001,535300,4970
+25011,"Franklin County, Massachusetts",B25077_001,284100,5754
+25013,"Hampden County, Massachusetts",B25077_001,258100,2681
+25015,"Hampshire County, Massachusetts",B25077_001,344200,5016
+25017,"Middlesex County, Massachusetts",B25077_001,654300,3495
+25019,"Nantucket County, Massachusetts",B25077_001,1265600,108209
+25021,"Norfolk County, Massachusetts",B25077_001,612100,4576
+25023,"Plymouth County, Massachusetts",B25077_001,475500,4018
+25025,"Suffolk County, Massachusetts",B25077_001,650900,7238
+25027,"Worcester County, Massachusetts",B25077_001,363200,2372
+26001,"Alcona County, Michigan",B25077_001,148200,7570
+26003,"Alger County, Michigan",B25077_001,156500,9942
+26005,"Allegan County, Michigan",B25077_001,225000,4683
+26007,"Alpena County, Michigan",B25077_001,128000,7234
+26009,"Antrim County, Michigan",B25077_001,199800,8359
+26011,"Arenac County, Michigan",B25077_001,118200,5045
+26013,"Baraga County, Michigan",B25077_001,121700,6327
+26015,"Barry County, Michigan",B25077_001,223600,7977
+26017,"Bay County, Michigan",B25077_001,125000,3771
+26019,"Benzie County, Michigan",B25077_001,243600,6547
+26021,"Berrien County, Michigan",B25077_001,193600,5248
+26023,"Branch County, Michigan",B25077_001,140200,5790
+26025,"Calhoun County, Michigan",B25077_001,138700,3329
+26027,"Cass County, Michigan",B25077_001,181100,10104
+26029,"Charlevoix County, Michigan",B25077_001,220000,5727
+26031,"Cheboygan County, Michigan",B25077_001,167400,5442
+26033,"Chippewa County, Michigan",B25077_001,142000,4626
+26035,"Clare County, Michigan",B25077_001,112400,5924
+26037,"Clinton County, Michigan",B25077_001,226000,4727
+26039,"Crawford County, Michigan",B25077_001,135400,7871
+26041,"Delta County, Michigan",B25077_001,139200,4753
+26043,"Dickinson County, Michigan",B25077_001,122600,7321
+26045,"Eaton County, Michigan",B25077_001,194500,3903
+26047,"Emmet County, Michigan",B25077_001,246300,8978
+26049,"Genesee County, Michigan",B25077_001,158400,2254
+26051,"Gladwin County, Michigan",B25077_001,140600,6185
+26053,"Gogebic County, Michigan",B25077_001,87800,7015
+26055,"Grand Traverse County, Michigan",B25077_001,273300,7237
+26057,"Gratiot County, Michigan",B25077_001,126500,6168
+26059,"Hillsdale County, Michigan",B25077_001,159000,4875
+26061,"Houghton County, Michigan",B25077_001,129200,8918
+26063,"Huron County, Michigan",B25077_001,129500,5369
+26065,"Ingham County, Michigan",B25077_001,173600,3410
+26067,"Ionia County, Michigan",B25077_001,169600,3772
+26069,"Iosco County, Michigan",B25077_001,118400,4397
+26071,"Iron County, Michigan",B25077_001,95800,7050
+26073,"Isabella County, Michigan",B25077_001,159500,3975
+26075,"Jackson County, Michigan",B25077_001,166700,4478
+26077,"Kalamazoo County, Michigan",B25077_001,209700,3993
+26079,"Kalkaska County, Michigan",B25077_001,152800,7263
+26081,"Kent County, Michigan",B25077_001,242200,2164
+26083,"Keweenaw County, Michigan",B25077_001,155900,15114
+26085,"Lake County, Michigan",B25077_001,117100,3643
+26087,"Lapeer County, Michigan",B25077_001,219300,5530
+26089,"Leelanau County, Michigan",B25077_001,371200,17268
+26091,"Lenawee County, Michigan",B25077_001,168100,3413
+26093,"Livingston County, Michigan",B25077_001,311800,4379
+26095,"Luce County, Michigan",B25077_001,104600,9035
+26097,"Mackinac County, Michigan",B25077_001,157000,6472
+26099,"Macomb County, Michigan",B25077_001,216200,1860
+26101,"Manistee County, Michigan",B25077_001,157800,6210
+26103,"Marquette County, Michigan",B25077_001,184300,5820
+26105,"Mason County, Michigan",B25077_001,181200,7390
+26107,"Mecosta County, Michigan",B25077_001,153000,5845
+26109,"Menominee County, Michigan",B25077_001,132200,7277
+26111,"Midland County, Michigan",B25077_001,171600,4234
+26113,"Missaukee County, Michigan",B25077_001,153300,6471
+26115,"Monroe County, Michigan",B25077_001,202200,4618
+26117,"Montcalm County, Michigan",B25077_001,154900,4152
+26119,"Montmorency County, Michigan",B25077_001,125600,8692
+26121,"Muskegon County, Michigan",B25077_001,162300,2517
+26123,"Newaygo County, Michigan",B25077_001,165000,4344
+26125,"Oakland County, Michigan",B25077_001,302800,2692
+26127,"Oceana County, Michigan",B25077_001,151700,8196
+26129,"Ogemaw County, Michigan",B25077_001,125300,6474
+26131,"Ontonagon County, Michigan",B25077_001,89700,4767
+26133,"Osceola County, Michigan",B25077_001,128200,5765
+26135,"Oscoda County, Michigan",B25077_001,122500,10375
+26137,"Otsego County, Michigan",B25077_001,178400,7850
+26139,"Ottawa County, Michigan",B25077_001,269200,3628
+26141,"Presque Isle County, Michigan",B25077_001,124800,6730
+26143,"Roscommon County, Michigan",B25077_001,133400,7289
+26145,"Saginaw County, Michigan",B25077_001,131100,3799
+26147,"St. Clair County, Michigan",B25077_001,197300,3733
+26149,"St. Joseph County, Michigan",B25077_001,152800,3904
+26151,"Sanilac County, Michigan",B25077_001,149300,4179
+26153,"Schoolcraft County, Michigan",B25077_001,129100,11079
+26155,"Shiawassee County, Michigan",B25077_001,151900,4316
+26157,"Tuscola County, Michigan",B25077_001,127200,4059
+26159,"Van Buren County, Michigan",B25077_001,172100,3952
+26161,"Washtenaw County, Michigan",B25077_001,336300,5064
+26163,"Wayne County, Michigan",B25077_001,158600,1163
+26165,"Wexford County, Michigan",B25077_001,146100,6528
+27001,"Aitkin County, Minnesota",B25077_001,222100,6311
+27003,"Anoka County, Minnesota",B25077_001,302300,3435
+27005,"Becker County, Minnesota",B25077_001,249600,8561
+27007,"Beltrami County, Minnesota",B25077_001,203900,8527
+27009,"Benton County, Minnesota",B25077_001,229300,4620
+27011,"Big Stone County, Minnesota",B25077_001,115000,8240
+27013,"Blue Earth County, Minnesota",B25077_001,239200,4886
+27015,"Brown County, Minnesota",B25077_001,165200,4498
+27017,"Carlton County, Minnesota",B25077_001,218000,6490
+27019,"Carver County, Minnesota",B25077_001,400500,7332
+27021,"Cass County, Minnesota",B25077_001,241000,4598
+27023,"Chippewa County, Minnesota",B25077_001,138900,8487
+27025,"Chisago County, Minnesota",B25077_001,299800,7045
+27027,"Clay County, Minnesota",B25077_001,241400,4434
+27029,"Clearwater County, Minnesota",B25077_001,161800,8352
+27031,"Cook County, Minnesota",B25077_001,289500,17729
+27033,"Cottonwood County, Minnesota",B25077_001,141600,8794
+27035,"Crow Wing County, Minnesota",B25077_001,245200,5250
+27037,"Dakota County, Minnesota",B25077_001,341200,3189
+27039,"Dodge County, Minnesota",B25077_001,245800,8942
+27041,"Douglas County, Minnesota",B25077_001,277800,8376
+27043,"Faribault County, Minnesota",B25077_001,116000,5334
+27045,"Fillmore County, Minnesota",B25077_001,196200,6317
+27047,"Freeborn County, Minnesota",B25077_001,154700,5886
+27049,"Goodhue County, Minnesota",B25077_001,254500,7808
+27051,"Grant County, Minnesota",B25077_001,161100,7585
+27053,"Hennepin County, Minnesota",B25077_001,358000,1913
+27055,"Houston County, Minnesota",B25077_001,216400,8171
+27057,"Hubbard County, Minnesota",B25077_001,245500,6832
+27059,"Isanti County, Minnesota",B25077_001,262500,4914
+27061,"Itasca County, Minnesota",B25077_001,198500,6324
+27063,"Jackson County, Minnesota",B25077_001,140500,11797
+27065,"Kanabec County, Minnesota",B25077_001,205400,7234
+27067,"Kandiyohi County, Minnesota",B25077_001,214600,7835
+27069,"Kittson County, Minnesota",B25077_001,122100,9029
+27071,"Koochiching County, Minnesota",B25077_001,132200,10509
+27073,"Lac qui Parle County, Minnesota",B25077_001,127300,10479
+27075,"Lake County, Minnesota",B25077_001,200900,11185
+27077,"Lake of the Woods County, Minnesota",B25077_001,204300,19135
+27079,"Le Sueur County, Minnesota",B25077_001,271900,9561
+27081,"Lincoln County, Minnesota",B25077_001,139500,14702
+27083,"Lyon County, Minnesota",B25077_001,177600,10104
+27085,"McLeod County, Minnesota",B25077_001,214300,7320
+27087,"Mahnomen County, Minnesota",B25077_001,132900,11105
+27089,"Marshall County, Minnesota",B25077_001,140900,7944
+27091,"Martin County, Minnesota",B25077_001,148100,7562
+27093,"Meeker County, Minnesota",B25077_001,216800,7727
+27095,"Mille Lacs County, Minnesota",B25077_001,221300,5902
+27097,"Morrison County, Minnesota",B25077_001,220600,5948
+27099,"Mower County, Minnesota",B25077_001,158000,5589
+27101,"Murray County, Minnesota",B25077_001,163500,5370
+27103,"Nicollet County, Minnesota",B25077_001,240700,5889
+27105,"Nobles County, Minnesota",B25077_001,161000,9520
+27107,"Norman County, Minnesota",B25077_001,129300,6453
+27109,"Olmsted County, Minnesota",B25077_001,285600,4915
+27111,"Otter Tail County, Minnesota",B25077_001,234200,5448
+27113,"Pennington County, Minnesota",B25077_001,173800,8082
+27115,"Pine County, Minnesota",B25077_001,207100,4921
+27117,"Pipestone County, Minnesota",B25077_001,126500,13196
+27119,"Polk County, Minnesota",B25077_001,204600,6175
+27121,"Pope County, Minnesota",B25077_001,225900,8675
+27123,"Ramsey County, Minnesota",B25077_001,289300,2630
+27125,"Red Lake County, Minnesota",B25077_001,150700,9137
+27127,"Redwood County, Minnesota",B25077_001,138700,10395
+27129,"Renville County, Minnesota",B25077_001,138200,6039
+27131,"Rice County, Minnesota",B25077_001,279700,5783
+27133,"Rock County, Minnesota",B25077_001,189100,8755
+27135,"Roseau County, Minnesota",B25077_001,164200,3561
+27137,"St. Louis County, Minnesota",B25077_001,192900,3676
+27139,"Scott County, Minnesota",B25077_001,376000,5821
+27141,"Sherburne County, Minnesota",B25077_001,306000,7259
+27143,"Sibley County, Minnesota",B25077_001,196600,8488
+27145,"Stearns County, Minnesota",B25077_001,241100,3902
+27147,"Steele County, Minnesota",B25077_001,217100,8286
+27149,"Stevens County, Minnesota",B25077_001,170700,9817
+27151,"Swift County, Minnesota",B25077_001,132400,11182
+27153,"Todd County, Minnesota",B25077_001,173200,6338
+27155,"Traverse County, Minnesota",B25077_001,109300,10849
+27157,"Wabasha County, Minnesota",B25077_001,230400,6597
+27159,"Wadena County, Minnesota",B25077_001,163400,7204
+27161,"Waseca County, Minnesota",B25077_001,191800,6921
+27163,"Washington County, Minnesota",B25077_001,379300,5035
+27165,"Watonwan County, Minnesota",B25077_001,119200,10038
+27167,"Wilkin County, Minnesota",B25077_001,169100,12993
+27169,"Winona County, Minnesota",B25077_001,203500,5961
+27171,"Wright County, Minnesota",B25077_001,310900,5919
+27173,"Yellow Medicine County, Minnesota",B25077_001,145400,6574
+28001,"Adams County, Mississippi",B25077_001,99300,8164
+28003,"Alcorn County, Mississippi",B25077_001,125800,7660
+28005,"Amite County, Mississippi",B25077_001,91400,14001
+28007,"Attala County, Mississippi",B25077_001,99100,8986
+28009,"Benton County, Mississippi",B25077_001,96200,10556
+28011,"Bolivar County, Mississippi",B25077_001,118200,9233
+28013,"Calhoun County, Mississippi",B25077_001,82900,5155
+28015,"Carroll County, Mississippi",B25077_001,103700,11270
+28017,"Chickasaw County, Mississippi",B25077_001,88000,7312
+28019,"Choctaw County, Mississippi",B25077_001,104200,11622
+28021,"Claiborne County, Mississippi",B25077_001,78500,9011
+28023,"Clarke County, Mississippi",B25077_001,99300,9943
+28025,"Clay County, Mississippi",B25077_001,110600,15010
+28027,"Coahoma County, Mississippi",B25077_001,84400,5575
+28029,"Copiah County, Mississippi",B25077_001,93600,6871
+28031,"Covington County, Mississippi",B25077_001,76700,9380
+28033,"DeSoto County, Mississippi",B25077_001,227600,4465
+28035,"Forrest County, Mississippi",B25077_001,144000,8200
+28037,"Franklin County, Mississippi",B25077_001,96200,9349
+28039,"George County, Mississippi",B25077_001,157200,11499
+28041,"Greene County, Mississippi",B25077_001,97500,16160
+28043,"Grenada County, Mississippi",B25077_001,130100,17559
+28045,"Hancock County, Mississippi",B25077_001,197400,12051
+28047,"Harrison County, Mississippi",B25077_001,185000,5195
+28049,"Hinds County, Mississippi",B25077_001,141600,4055
+28051,"Holmes County, Mississippi",B25077_001,73900,8001
+28053,"Humphreys County, Mississippi",B25077_001,79900,5793
+28055,"Issaquena County, Mississippi",B25077_001,96300,27067
+28057,"Itawamba County, Mississippi",B25077_001,114300,9498
+28059,"Jackson County, Mississippi",B25077_001,161700,5446
+28061,"Jasper County, Mississippi",B25077_001,110400,15565
+28063,"Jefferson County, Mississippi",B25077_001,76400,13052
+28065,"Jefferson Davis County, Mississippi",B25077_001,87800,7169
+28067,"Jones County, Mississippi",B25077_001,120100,8681
+28069,"Kemper County, Mississippi",B25077_001,89300,5819
+28071,"Lafayette County, Mississippi",B25077_001,242800,12000
+28073,"Lamar County, Mississippi",B25077_001,209700,9435
+28075,"Lauderdale County, Mississippi",B25077_001,121900,11351
+28077,"Lawrence County, Mississippi",B25077_001,104300,9484
+28079,"Leake County, Mississippi",B25077_001,98800,6944
+28081,"Lee County, Mississippi",B25077_001,172900,6571
+28083,"Leflore County, Mississippi",B25077_001,95100,5196
+28085,"Lincoln County, Mississippi",B25077_001,128100,20731
+28087,"Lowndes County, Mississippi",B25077_001,155300,9797
+28089,"Madison County, Mississippi",B25077_001,264700,8988
+28091,"Marion County, Mississippi",B25077_001,104100,9828
+28093,"Marshall County, Mississippi",B25077_001,150400,16908
+28095,"Monroe County, Mississippi",B25077_001,109500,8363
+28097,"Montgomery County, Mississippi",B25077_001,97100,8250
+28099,"Neshoba County, Mississippi",B25077_001,94300,7497
+28101,"Newton County, Mississippi",B25077_001,100800,10619
+28103,"Noxubee County, Mississippi",B25077_001,85000,5487
+28105,"Oktibbeha County, Mississippi",B25077_001,211200,16716
+28107,"Panola County, Mississippi",B25077_001,115800,16572
+28109,"Pearl River County, Mississippi",B25077_001,167700,8176
+28111,"Perry County, Mississippi",B25077_001,126400,18341
+28113,"Pike County, Mississippi",B25077_001,115900,8736
+28115,"Pontotoc County, Mississippi",B25077_001,136700,9301
+28117,"Prentiss County, Mississippi",B25077_001,112200,10760
+28119,"Quitman County, Mississippi",B25077_001,65500,11601
+28121,"Rankin County, Mississippi",B25077_001,203300,5784
+28123,"Scott County, Mississippi",B25077_001,81300,8326
+28125,"Sharkey County, Mississippi",B25077_001,88100,17430
+28127,"Simpson County, Mississippi",B25077_001,104600,7547
+28129,"Smith County, Mississippi",B25077_001,120200,11725
+28131,"Stone County, Mississippi",B25077_001,164400,11970
+28133,"Sunflower County, Mississippi",B25077_001,103800,7999
+28135,"Tallahatchie County, Mississippi",B25077_001,83400,4644
+28137,"Tate County, Mississippi",B25077_001,163700,11954
+28139,"Tippah County, Mississippi",B25077_001,117100,10257
+28141,"Tishomingo County, Mississippi",B25077_001,123100,13239
+28143,"Tunica County, Mississippi",B25077_001,150800,48810
+28145,"Union County, Mississippi",B25077_001,144900,12631
+28147,"Walthall County, Mississippi",B25077_001,113800,10683
+28149,"Warren County, Mississippi",B25077_001,142100,10549
+28151,"Washington County, Mississippi",B25077_001,93000,6104
+28153,"Wayne County, Mississippi",B25077_001,89100,12884
+28155,"Webster County, Mississippi",B25077_001,107700,10297
+28157,"Wilkinson County, Mississippi",B25077_001,78500,9782
+28159,"Winston County, Mississippi",B25077_001,110100,12707
+28161,"Yalobusha County, Mississippi",B25077_001,94100,8395
+28163,"Yazoo County, Mississippi",B25077_001,117800,15771
+29001,"Adair County, Missouri",B25077_001,146700,11146
+29003,"Andrew County, Missouri",B25077_001,175300,13630
+29005,"Atchison County, Missouri",B25077_001,96100,9805
+29007,"Audrain County, Missouri",B25077_001,112300,7973
+29009,"Barry County, Missouri",B25077_001,159000,7238
+29011,"Barton County, Missouri",B25077_001,115600,15076
+29013,"Bates County, Missouri",B25077_001,151300,11748
+29015,"Benton County, Missouri",B25077_001,154700,9141
+29017,"Bollinger County, Missouri",B25077_001,123500,8618
+29019,"Boone County, Missouri",B25077_001,237600,6959
+29021,"Buchanan County, Missouri",B25077_001,149600,4993
+29023,"Butler County, Missouri",B25077_001,132600,7324
+29025,"Caldwell County, Missouri",B25077_001,143300,15082
+29027,"Callaway County, Missouri",B25077_001,184300,10793
+29029,"Camden County, Missouri",B25077_001,248700,11343
+29031,"Cape Girardeau County, Missouri",B25077_001,194200,6033
+29033,"Carroll County, Missouri",B25077_001,105500,6195
+29035,"Carter County, Missouri",B25077_001,181100,30964
+29037,"Cass County, Missouri",B25077_001,242300,5773
+29039,"Cedar County, Missouri",B25077_001,152700,24882
+29041,"Chariton County, Missouri",B25077_001,121000,9702
+29043,"Christian County, Missouri",B25077_001,229200,5585
+29045,"Clark County, Missouri",B25077_001,124600,20672
+29047,"Clay County, Missouri",B25077_001,237200,4539
+29049,"Clinton County, Missouri",B25077_001,187200,10340
+29051,"Cole County, Missouri",B25077_001,198900,6840
+29053,"Cooper County, Missouri",B25077_001,168200,11455
+29055,"Crawford County, Missouri",B25077_001,156500,10636
+29057,"Dade County, Missouri",B25077_001,137400,13743
+29059,"Dallas County, Missouri",B25077_001,139400,14784
+29061,"Daviess County, Missouri",B25077_001,133400,14549
+29063,"DeKalb County, Missouri",B25077_001,160300,10125
+29065,"Dent County, Missouri",B25077_001,123300,16731
+29067,"Douglas County, Missouri",B25077_001,148900,17338
+29069,"Dunklin County, Missouri",B25077_001,93300,3822
+29071,"Franklin County, Missouri",B25077_001,201700,6149
+29073,"Gasconade County, Missouri",B25077_001,159100,7237
+29075,"Gentry County, Missouri",B25077_001,115400,11813
+29077,"Greene County, Missouri",B25077_001,182800,3846
+29079,"Grundy County, Missouri",B25077_001,111300,12399
+29081,"Harrison County, Missouri",B25077_001,95900,7146
+29083,"Henry County, Missouri",B25077_001,153600,7447
+29085,"Hickory County, Missouri",B25077_001,108900,14602
+29087,"Holt County, Missouri",B25077_001,115500,14701
+29089,"Howard County, Missouri",B25077_001,140900,13533
+29091,"Howell County, Missouri",B25077_001,141600,10049
+29093,"Iron County, Missouri",B25077_001,109400,8595
+29095,"Jackson County, Missouri",B25077_001,196900,2690
+29097,"Jasper County, Missouri",B25077_001,147500,3731
+29099,"Jefferson County, Missouri",B25077_001,202500,4756
+29101,"Johnson County, Missouri",B25077_001,206600,10596
+29103,"Knox County, Missouri",B25077_001,89000,8045
+29105,"Laclede County, Missouri",B25077_001,151800,12727
+29107,"Lafayette County, Missouri",B25077_001,187000,9513
+29109,"Lawrence County, Missouri",B25077_001,145800,7163
+29111,"Lewis County, Missouri",B25077_001,104500,7198
+29113,"Lincoln County, Missouri",B25077_001,206800,8937
+29115,"Linn County, Missouri",B25077_001,107600,16535
+29117,"Livingston County, Missouri",B25077_001,139700,11080
+29119,"McDonald County, Missouri",B25077_001,117200,12776
+29121,"Macon County, Missouri",B25077_001,115900,6220
+29123,"Madison County, Missouri",B25077_001,127300,20221
+29125,"Maries County, Missouri",B25077_001,197400,24590
+29127,"Marion County, Missouri",B25077_001,150900,9333
+29129,"Mercer County, Missouri",B25077_001,104800,12294
+29131,"Miller County, Missouri",B25077_001,164900,13191
+29133,"Mississippi County, Missouri",B25077_001,92600,7723
+29135,"Moniteau County, Missouri",B25077_001,162100,10770
+29137,"Monroe County, Missouri",B25077_001,136600,18093
+29139,"Montgomery County, Missouri",B25077_001,162200,9662
+29141,"Morgan County, Missouri",B25077_001,174500,17027
+29143,"New Madrid County, Missouri",B25077_001,93400,7681
+29145,"Newton County, Missouri",B25077_001,162900,7534
+29147,"Nodaway County, Missouri",B25077_001,157200,9407
+29149,"Oregon County, Missouri",B25077_001,115700,17680
+29151,"Osage County, Missouri",B25077_001,183000,15068
+29153,"Ozark County, Missouri",B25077_001,142600,23361
+29155,"Pemiscot County, Missouri",B25077_001,94900,8662
+29157,"Perry County, Missouri",B25077_001,179900,13717
+29159,"Pettis County, Missouri",B25077_001,150000,6293
+29161,"Phelps County, Missouri",B25077_001,174100,9347
+29163,"Pike County, Missouri",B25077_001,114100,11463
+29165,"Platte County, Missouri",B25077_001,288100,6688
+29167,"Polk County, Missouri",B25077_001,171700,9102
+29169,"Pulaski County, Missouri",B25077_001,177400,9450
+29171,"Putnam County, Missouri",B25077_001,99600,16950
+29173,"Ralls County, Missouri",B25077_001,144300,13109
+29175,"Randolph County, Missouri",B25077_001,131200,7160
+29177,"Ray County, Missouri",B25077_001,169200,10172
+29179,"Reynolds County, Missouri",B25077_001,105300,15806
+29181,"Ripley County, Missouri",B25077_001,103700,8968
+29183,"St. Charles County, Missouri",B25077_001,278300,2248
+29185,"St. Clair County, Missouri",B25077_001,126500,12604
+29186,"Ste. Genevieve County, Missouri",B25077_001,197600,12591
+29187,"St. Francois County, Missouri",B25077_001,141700,6322
+29189,"St. Louis County, Missouri",B25077_001,249400,2499
+29195,"Saline County, Missouri",B25077_001,129600,8737
+29197,"Schuyler County, Missouri",B25077_001,106200,12562
+29199,"Scotland County, Missouri",B25077_001,136500,10458
+29201,"Scott County, Missouri",B25077_001,132800,7494
+29203,"Shannon County, Missouri",B25077_001,141600,18975
+29205,"Shelby County, Missouri",B25077_001,85900,5749
+29207,"Stoddard County, Missouri",B25077_001,123000,11640
+29209,"Stone County, Missouri",B25077_001,220400,10407
+29211,"Sullivan County, Missouri",B25077_001,91400,8988
+29213,"Taney County, Missouri",B25077_001,175100,7473
+29215,"Texas County, Missouri",B25077_001,120800,7499
+29217,"Vernon County, Missouri",B25077_001,127800,16084
+29219,"Warren County, Missouri",B25077_001,227000,9379
+29221,"Washington County, Missouri",B25077_001,112300,7792
+29223,"Wayne County, Missouri",B25077_001,110000,13713
+29225,"Webster County, Missouri",B25077_001,185100,8853
+29227,"Worth County, Missouri",B25077_001,88100,8087
+29229,"Wright County, Missouri",B25077_001,141600,16876
+29510,"St. Louis city, Missouri",B25077_001,174100,4165
+30001,"Beaverhead County, Montana",B25077_001,278300,28042
+30003,"Big Horn County, Montana",B25077_001,159700,9283
+30005,"Blaine County, Montana",B25077_001,119400,10120
+30007,"Broadwater County, Montana",B25077_001,335700,33185
+30009,"Carbon County, Montana",B25077_001,355600,19643
+30011,"Carter County, Montana",B25077_001,140900,41067
+30013,"Cascade County, Montana",B25077_001,227600,4806
+30015,"Chouteau County, Montana",B25077_001,172000,14839
+30017,"Custer County, Montana",B25077_001,201000,14907
+30019,"Daniels County, Montana",B25077_001,162300,13584
+30021,"Dawson County, Montana",B25077_001,197100,25075
+30023,"Deer Lodge County, Montana",B25077_001,175700,12740
+30025,"Fallon County, Montana",B25077_001,231300,32533
+30027,"Fergus County, Montana",B25077_001,175800,17863
+30029,"Flathead County, Montana",B25077_001,414200,12598
+30031,"Gallatin County, Montana",B25077_001,526700,19427
+30033,"Garfield County, Montana",B25077_001,164900,7033
+30035,"Glacier County, Montana",B25077_001,139400,23612
+30037,"Golden Valley County, Montana",B25077_001,138900,33792
+30039,"Granite County, Montana",B25077_001,283300,32301
+30041,"Hill County, Montana",B25077_001,183300,10033
+30043,"Jefferson County, Montana",B25077_001,354700,21414
+30045,"Judith Basin County, Montana",B25077_001,206000,19693
+30047,"Lake County, Montana",B25077_001,337700,15175
+30049,"Lewis and Clark County, Montana",B25077_001,332000,8678
+30051,"Liberty County, Montana",B25077_001,118300,24319
+30053,"Lincoln County, Montana",B25077_001,233400,11548
+30055,"McCone County, Montana",B25077_001,186700,25604
+30057,"Madison County, Montana",B25077_001,375200,30795
+30059,"Meagher County, Montana",B25077_001,205900,97411
+30061,"Mineral County, Montana",B25077_001,274700,29456
+30063,"Missoula County, Montana",B25077_001,382400,9962
+30065,"Musselshell County, Montana",B25077_001,222200,25834
+30067,"Park County, Montana",B25077_001,399900,23156
+30069,"Petroleum County, Montana",B25077_001,152600,51344
+30071,"Phillips County, Montana",B25077_001,178100,21479
+30073,"Pondera County, Montana",B25077_001,172000,16137
+30075,"Powder River County, Montana",B25077_001,167500,46621
+30077,"Powell County, Montana",B25077_001,226600,23542
+30079,"Prairie County, Montana",B25077_001,140600,51722
+30081,"Ravalli County, Montana",B25077_001,378400,12124
+30083,"Richland County, Montana",B25077_001,245900,18462
+30085,"Roosevelt County, Montana",B25077_001,112800,17550
+30087,"Rosebud County, Montana",B25077_001,159900,14747
+30089,"Sanders County, Montana",B25077_001,285300,20433
+30091,"Sheridan County, Montana",B25077_001,121800,12289
+30093,"Silver Bow County, Montana",B25077_001,195800,12457
+30095,"Stillwater County, Montana",B25077_001,316200,24327
+30097,"Sweet Grass County, Montana",B25077_001,271100,28114
+30099,"Teton County, Montana",B25077_001,217200,15485
+30101,"Toole County, Montana",B25077_001,166200,21920
+30103,"Treasure County, Montana",B25077_001,210700,19566
+30105,"Valley County, Montana",B25077_001,183200,12463
+30107,"Wheatland County, Montana",B25077_001,163200,15482
+30109,"Wibaux County, Montana",B25077_001,101800,22735
+30111,"Yellowstone County, Montana",B25077_001,289300,4570
+31001,"Adams County, Nebraska",B25077_001,166300,9830
+31003,"Antelope County, Nebraska",B25077_001,104500,7947
+31005,"Arthur County, Nebraska",B25077_001,164300,17523
+31007,"Banner County, Nebraska",B25077_001,174200,33273
+31009,"Blaine County, Nebraska",B25077_001,85700,20204
+31011,"Boone County, Nebraska",B25077_001,165400,16414
+31013,"Box Butte County, Nebraska",B25077_001,161600,12072
+31015,"Boyd County, Nebraska",B25077_001,95200,16234
+31017,"Brown County, Nebraska",B25077_001,89700,20339
+31019,"Buffalo County, Nebraska",B25077_001,218600,7147
+31021,"Burt County, Nebraska",B25077_001,123100,9033
+31023,"Butler County, Nebraska",B25077_001,150400,13754
+31025,"Cass County, Nebraska",B25077_001,234300,8798
+31027,"Cedar County, Nebraska",B25077_001,160700,10868
+31029,"Chase County, Nebraska",B25077_001,176900,27392
+31031,"Cherry County, Nebraska",B25077_001,137300,27942
+31033,"Cheyenne County, Nebraska",B25077_001,117300,8973
+31035,"Clay County, Nebraska",B25077_001,129600,8713
+31037,"Colfax County, Nebraska",B25077_001,103400,20286
+31039,"Cuming County, Nebraska",B25077_001,160000,9845
+31041,"Custer County, Nebraska",B25077_001,133400,11643
+31043,"Dakota County, Nebraska",B25077_001,158700,8887
+31045,"Dawes County, Nebraska",B25077_001,142100,15096
+31047,"Dawson County, Nebraska",B25077_001,136900,13069
+31049,"Deuel County, Nebraska",B25077_001,91900,6964
+31051,"Dixon County, Nebraska",B25077_001,123500,10463
+31053,"Dodge County, Nebraska",B25077_001,168900,6004
+31055,"Douglas County, Nebraska",B25077_001,227400,1936
+31057,"Dundy County, Nebraska",B25077_001,109900,16692
+31059,"Fillmore County, Nebraska",B25077_001,122700,16601
+31061,"Franklin County, Nebraska",B25077_001,95400,6519
+31063,"Frontier County, Nebraska",B25077_001,124500,20232
+31065,"Furnas County, Nebraska",B25077_001,85600,6159
+31067,"Gage County, Nebraska",B25077_001,155600,8450
+31069,"Garden County, Nebraska",B25077_001,91700,10221
+31071,"Garfield County, Nebraska",B25077_001,123500,24025
+31073,"Gosper County, Nebraska",B25077_001,192100,33679
+31075,"Grant County, Nebraska",B25077_001,104200,35969
+31077,"Greeley County, Nebraska",B25077_001,85300,9329
+31079,"Hall County, Nebraska",B25077_001,190800,6501
+31081,"Hamilton County, Nebraska",B25077_001,201200,18029
+31083,"Harlan County, Nebraska",B25077_001,135800,18827
+31085,"Hayes County, Nebraska",B25077_001,104800,18804
+31087,"Hitchcock County, Nebraska",B25077_001,85500,5618
+31089,"Holt County, Nebraska",B25077_001,148900,15286
+31091,"Hooker County, Nebraska",B25077_001,78300,16235
+31093,"Howard County, Nebraska",B25077_001,181600,14941
+31095,"Jefferson County, Nebraska",B25077_001,116700,21508
+31097,"Johnson County, Nebraska",B25077_001,117300,13856
+31099,"Kearney County, Nebraska",B25077_001,203200,11671
+31101,"Keith County, Nebraska",B25077_001,158900,12671
+31103,"Keya Paha County, Nebraska",B25077_001,109000,24735
+31105,"Kimball County, Nebraska",B25077_001,92500,4800
+31107,"Knox County, Nebraska",B25077_001,112700,6588
+31109,"Lancaster County, Nebraska",B25077_001,239900,2934
+31111,"Lincoln County, Nebraska",B25077_001,167900,5132
+31113,"Logan County, Nebraska",B25077_001,123600,47450
+31115,"Loup County, Nebraska",B25077_001,116500,35946
+31117,"McPherson County, Nebraska",B25077_001,105300,31796
+31119,"Madison County, Nebraska",B25077_001,187100,6976
+31121,"Merrick County, Nebraska",B25077_001,159300,12045
+31123,"Morrill County, Nebraska",B25077_001,107700,9655
+31125,"Nance County, Nebraska",B25077_001,108000,17670
+31127,"Nemaha County, Nebraska",B25077_001,118300,16963
+31129,"Nuckolls County, Nebraska",B25077_001,88500,8300
+31131,"Otoe County, Nebraska",B25077_001,172500,10937
+31133,"Pawnee County, Nebraska",B25077_001,74000,18341
+31135,"Perkins County, Nebraska",B25077_001,143300,15720
+31137,"Phelps County, Nebraska",B25077_001,161300,12331
+31139,"Pierce County, Nebraska",B25077_001,167400,14947
+31141,"Platte County, Nebraska",B25077_001,195800,7793
+31143,"Polk County, Nebraska",B25077_001,152700,13509
+31145,"Red Willow County, Nebraska",B25077_001,144700,13178
+31147,"Richardson County, Nebraska",B25077_001,89500,10259
+31149,"Rock County, Nebraska",B25077_001,87300,8606
+31151,"Saline County, Nebraska",B25077_001,155800,17524
+31153,"Sarpy County, Nebraska",B25077_001,263000,4485
+31155,"Saunders County, Nebraska",B25077_001,220600,12071
+31157,"Scotts Bluff County, Nebraska",B25077_001,150600,9873
+31159,"Seward County, Nebraska",B25077_001,208700,12092
+31161,"Sheridan County, Nebraska",B25077_001,96900,8085
+31163,"Sherman County, Nebraska",B25077_001,112500,14795
+31165,"Sioux County, Nebraska",B25077_001,157800,79203
+31167,"Stanton County, Nebraska",B25077_001,170900,9434
+31169,"Thayer County, Nebraska",B25077_001,91600,7121
+31171,"Thomas County, Nebraska",B25077_001,140600,68692
+31173,"Thurston County, Nebraska",B25077_001,90000,6744
+31175,"Valley County, Nebraska",B25077_001,125800,12840
+31177,"Washington County, Nebraska",B25077_001,265800,15677
+31179,"Wayne County, Nebraska",B25077_001,176200,12879
+31181,"Webster County, Nebraska",B25077_001,92800,7889
+31183,"Wheeler County, Nebraska",B25077_001,101400,43154
+31185,"York County, Nebraska",B25077_001,160500,9959
+32001,"Churchill County, Nevada",B25077_001,255200,25123
+32003,"Clark County, Nevada",B25077_001,368800,1624
+32005,"Douglas County, Nevada",B25077_001,529600,20770
+32007,"Elko County, Nevada",B25077_001,274200,10399
+32009,"Esmeralda County, Nevada",B25077_001,95500,43065
+32011,"Eureka County, Nevada",B25077_001,177400,73208
+32013,"Humboldt County, Nevada",B25077_001,242200,23167
+32015,"Lander County, Nevada",B25077_001,198000,19923
+32017,"Lincoln County, Nevada",B25077_001,171800,17858
+32019,"Lyon County, Nevada",B25077_001,314200,10162
+32021,"Mineral County, Nevada",B25077_001,153400,21815
+32023,"Nye County, Nevada",B25077_001,235500,10140
+32027,"Pershing County, Nevada",B25077_001,164400,30449
+32029,"Storey County, Nevada",B25077_001,297800,41603
+32031,"Washoe County, Nevada",B25077_001,460000,4166
+32033,"White Pine County, Nevada",B25077_001,197600,31870
+32510,"Carson City, Nevada",B25077_001,390800,9525
+33001,"Belknap County, New Hampshire",B25077_001,295900,10175
+33003,"Carroll County, New Hampshire",B25077_001,315800,14368
+33005,"Cheshire County, New Hampshire",B25077_001,238800,5276
+33007,"Coos County, New Hampshire",B25077_001,157900,6726
+33009,"Grafton County, New Hampshire",B25077_001,273100,8018
+33011,"Hillsborough County, New Hampshire",B25077_001,356200,3255
+33013,"Merrimack County, New Hampshire",B25077_001,297600,4921
+33015,"Rockingham County, New Hampshire",B25077_001,424100,5724
+33017,"Strafford County, New Hampshire",B25077_001,300200,8376
+33019,"Sullivan County, New Hampshire",B25077_001,211400,9387
+34001,"Atlantic County, New Jersey",B25077_001,254100,5007
+34003,"Bergen County, New Jersey",B25077_001,561500,5191
+34005,"Burlington County, New Jersey",B25077_001,304600,4155
+34007,"Camden County, New Jersey",B25077_001,241300,2373
+34009,"Cape May County, New Jersey",B25077_001,372300,8609
+34011,"Cumberland County, New Jersey",B25077_001,192900,4970
+34013,"Essex County, New Jersey",B25077_001,466500,5655
+34015,"Gloucester County, New Jersey",B25077_001,265200,3148
+34017,"Hudson County, New Jersey",B25077_001,486900,7800
+34019,"Hunterdon County, New Jersey",B25077_001,478600,6920
+34021,"Mercer County, New Jersey",B25077_001,327600,6471
+34023,"Middlesex County, New Jersey",B25077_001,411900,3355
+34025,"Monmouth County, New Jersey",B25077_001,519300,6525
+34027,"Morris County, New Jersey",B25077_001,531800,7184
+34029,"Ocean County, New Jersey",B25077_001,343500,3096
+34031,"Passaic County, New Jersey",B25077_001,413500,4741
+34033,"Salem County, New Jersey",B25077_001,208200,7413
+34035,"Somerset County, New Jersey",B25077_001,489500,4913
+34037,"Sussex County, New Jersey",B25077_001,322300,4944
+34039,"Union County, New Jersey",B25077_001,458000,4355
+34041,"Warren County, New Jersey",B25077_001,302300,7527
+35001,"Bernalillo County, New Mexico",B25077_001,247300,2350
+35003,"Catron County, New Mexico",B25077_001,156400,35025
+35005,"Chaves County, New Mexico",B25077_001,133200,8270
+35006,"Cibola County, New Mexico",B25077_001,101900,14319
+35007,"Colfax County, New Mexico",B25077_001,138400,13803
+35009,"Curry County, New Mexico",B25077_001,151300,10943
+35011,"De Baca County, New Mexico",B25077_001,219200,147561
+35013,"Doña Ana County, New Mexico",B25077_001,187400,5238
+35015,"Eddy County, New Mexico",B25077_001,188400,7873
+35017,"Grant County, New Mexico",B25077_001,153900,10891
+35019,"Guadalupe County, New Mexico",B25077_001,116400,10082
+35021,"Harding County, New Mexico",B25077_001,95500,25141
+35023,"Hidalgo County, New Mexico",B25077_001,102500,11463
+35025,"Lea County, New Mexico",B25077_001,162000,6575
+35027,"Lincoln County, New Mexico",B25077_001,195800,21670
+35028,"Los Alamos County, New Mexico",B25077_001,412700,20065
+35029,"Luna County, New Mexico",B25077_001,100900,10429
+35031,"McKinley County, New Mexico",B25077_001,70200,7403
+35033,"Mora County, New Mexico",B25077_001,105600,58950
+35035,"Otero County, New Mexico",B25077_001,139100,9001
+35037,"Quay County, New Mexico",B25077_001,76800,13676
+35039,"Rio Arriba County, New Mexico",B25077_001,212700,14800
+35041,"Roosevelt County, New Mexico",B25077_001,128100,19348
+35043,"Sandoval County, New Mexico",B25077_001,258100,6785
+35045,"San Juan County, New Mexico",B25077_001,170700,5236
+35047,"San Miguel County, New Mexico",B25077_001,150400,12772
+35049,"Santa Fe County, New Mexico",B25077_001,374200,7686
+35051,"Sierra County, New Mexico",B25077_001,138400,14465
+35053,"Socorro County, New Mexico",B25077_001,132700,14843
+35055,"Taos County, New Mexico",B25077_001,313400,29319
+35057,"Torrance County, New Mexico",B25077_001,132600,16322
+35059,"Union County, New Mexico",B25077_001,126900,23638
+35061,"Valencia County, New Mexico",B25077_001,184400,6507
+36001,"Albany County, New York",B25077_001,263800,3481
+36003,"Allegany County, New York",B25077_001,93200,3555
+36005,"Bronx County, New York",B25077_001,501400,11010
+36007,"Broome County, New York",B25077_001,139200,2710
+36009,"Cattaraugus County, New York",B25077_001,105100,2777
+36011,"Cayuga County, New York",B25077_001,158900,2906
+36013,"Chautauqua County, New York",B25077_001,110900,2839
+36015,"Chemung County, New York",B25077_001,128200,5498
+36017,"Chenango County, New York",B25077_001,121100,4581
+36019,"Clinton County, New York",B25077_001,165200,4761
+36021,"Columbia County, New York",B25077_001,283700,9067
+36023,"Cortland County, New York",B25077_001,148200,4712
+36025,"Delaware County, New York",B25077_001,160400,5407
+36027,"Dutchess County, New York",B25077_001,348700,4517
+36029,"Erie County, New York",B25077_001,197400,1868
+36031,"Essex County, New York",B25077_001,189500,11308
+36033,"Franklin County, New York",B25077_001,131600,8801
+36035,"Fulton County, New York",B25077_001,142000,7329
+36037,"Genesee County, New York",B25077_001,148600,4195
+36039,"Greene County, New York",B25077_001,229500,6753
+36041,"Hamilton County, New York",B25077_001,204900,23571
+36043,"Herkimer County, New York",B25077_001,130900,4714
+36045,"Jefferson County, New York",B25077_001,169600,3699
+36047,"Kings County, New York",B25077_001,865300,7639
+36049,"Lewis County, New York",B25077_001,146100,6576
+36051,"Livingston County, New York",B25077_001,159900,4477
+36053,"Madison County, New York",B25077_001,162800,5226
+36055,"Monroe County, New York",B25077_001,182700,2109
+36057,"Montgomery County, New York",B25077_001,132300,6135
+36059,"Nassau County, New York",B25077_001,633800,2068
+36061,"New York County, New York",B25077_001,1104000,29914
+36063,"Niagara County, New York",B25077_001,163100,3452
+36065,"Oneida County, New York",B25077_001,157600,2588
+36067,"Onondaga County, New York",B25077_001,172800,1567
+36069,"Ontario County, New York",B25077_001,192800,5129
+36071,"Orange County, New York",B25077_001,337800,3639
+36073,"Orleans County, New York",B25077_001,122200,4304
+36075,"Oswego County, New York",B25077_001,131800,3647
+36077,"Otsego County, New York",B25077_001,166500,3927
+36079,"Putnam County, New York",B25077_001,421800,9322
+36081,"Queens County, New York",B25077_001,677700,5000
+36083,"Rensselaer County, New York",B25077_001,230800,4185
+36085,"Richmond County, New York",B25077_001,637100,5166
+36087,"Rockland County, New York",B25077_001,528900,8353
+36089,"St. Lawrence County, New York",B25077_001,114700,3272
+36091,"Saratoga County, New York",B25077_001,306000,5826
+36093,"Schenectady County, New York",B25077_001,204400,4387
+36095,"Schoharie County, New York",B25077_001,169400,5522
+36097,"Schuyler County, New York",B25077_001,151100,7607
+36099,"Seneca County, New York",B25077_001,132000,6656
+36101,"Steuben County, New York",B25077_001,121000,2788
+36103,"Suffolk County, New York",B25077_001,490800,2499
+36105,"Sullivan County, New York",B25077_001,220200,7967
+36107,"Tioga County, New York",B25077_001,144200,5125
+36109,"Tompkins County, New York",B25077_001,264300,8113
+36111,"Ulster County, New York",B25077_001,288400,5198
+36113,"Warren County, New York",B25077_001,240600,5705
+36115,"Washington County, New York",B25077_001,176900,5946
+36117,"Wayne County, New York",B25077_001,151900,3482
+36119,"Westchester County, New York",B25077_001,619000,5658
+36121,"Wyoming County, New York",B25077_001,143000,5603
+36123,"Yates County, New York",B25077_001,159800,5926
+37001,"Alamance County, North Carolina",B25077_001,197700,4949
+37003,"Alexander County, North Carolina",B25077_001,169300,10473
+37005,"Alleghany County, North Carolina",B25077_001,171800,12536
+37007,"Anson County, North Carolina",B25077_001,116300,7315
+37009,"Ashe County, North Carolina",B25077_001,199200,17312
+37011,"Avery County, North Carolina",B25077_001,215900,23535
+37013,"Beaufort County, North Carolina",B25077_001,159900,6347
+37015,"Bertie County, North Carolina",B25077_001,87500,5712
+37017,"Bladen County, North Carolina",B25077_001,115900,10247
+37019,"Brunswick County, North Carolina",B25077_001,284100,6790
+37021,"Buncombe County, North Carolina",B25077_001,328900,7143
+37023,"Burke County, North Carolina",B25077_001,155500,6541
+37025,"Cabarrus County, North Carolina",B25077_001,281600,7473
+37027,"Caldwell County, North Carolina",B25077_001,158300,6297
+37029,"Camden County, North Carolina",B25077_001,261000,21103
+37031,"Carteret County, North Carolina",B25077_001,277400,8086
+37033,"Caswell County, North Carolina",B25077_001,138600,8416
+37035,"Catawba County, North Carolina",B25077_001,194000,6104
+37037,"Chatham County, North Carolina",B25077_001,373300,15501
+37039,"Cherokee County, North Carolina",B25077_001,193500,10437
+37041,"Chowan County, North Carolina",B25077_001,181400,36200
+37043,"Clay County, North Carolina",B25077_001,251900,25123
+37045,"Cleveland County, North Carolina",B25077_001,155000,5655
+37047,"Columbus County, North Carolina",B25077_001,119800,6673
+37049,"Craven County, North Carolina",B25077_001,194100,6026
+37051,"Cumberland County, North Carolina",B25077_001,166600,2682
+37053,"Currituck County, North Carolina",B25077_001,314100,15441
+37055,"Dare County, North Carolina",B25077_001,386600,17585
+37057,"Davidson County, North Carolina",B25077_001,184300,4514
+37059,"Davie County, North Carolina",B25077_001,219400,12760
+37061,"Duplin County, North Carolina",B25077_001,112400,10856
+37063,"Durham County, North Carolina",B25077_001,311300,5925
+37065,"Edgecombe County, North Carolina",B25077_001,106200,4996
+37067,"Forsyth County, North Carolina",B25077_001,205700,3386
+37069,"Franklin County, North Carolina",B25077_001,209500,9884
+37071,"Gaston County, North Carolina",B25077_001,206700,4984
+37073,"Gates County, North Carolina",B25077_001,153000,14110
+37075,"Graham County, North Carolina",B25077_001,134000,14003
+37077,"Granville County, North Carolina",B25077_001,208600,10704
+37079,"Greene County, North Carolina",B25077_001,108300,7618
+37081,"Guilford County, North Carolina",B25077_001,215700,4295
+37083,"Halifax County, North Carolina",B25077_001,98700,5714
+37085,"Harnett County, North Carolina",B25077_001,195900,5440
+37087,"Haywood County, North Carolina",B25077_001,227500,7460
+37089,"Henderson County, North Carolina",B25077_001,291500,8104
+37091,"Hertford County, North Carolina",B25077_001,103600,7320
+37093,"Hoke County, North Carolina",B25077_001,177500,6989
+37095,"Hyde County, North Carolina",B25077_001,105300,26379
+37097,"Iredell County, North Carolina",B25077_001,261200,7815
+37099,"Jackson County, North Carolina",B25077_001,240500,11993
+37101,"Johnston County, North Carolina",B25077_001,240100,5288
+37103,"Jones County, North Carolina",B25077_001,115400,7579
+37105,"Lee County, North Carolina",B25077_001,186000,11788
+37107,"Lenoir County, North Carolina",B25077_001,101600,5593
+37109,"Lincoln County, North Carolina",B25077_001,241200,8196
+37111,"McDowell County, North Carolina",B25077_001,153300,12016
+37113,"Macon County, North Carolina",B25077_001,210900,11350
+37115,"Madison County, North Carolina",B25077_001,236300,23192
+37117,"Martin County, North Carolina",B25077_001,99200,7011
+37119,"Mecklenburg County, North Carolina",B25077_001,334700,3601
+37121,"Mitchell County, North Carolina",B25077_001,191400,12996
+37123,"Montgomery County, North Carolina",B25077_001,139900,11308
+37125,"Moore County, North Carolina",B25077_001,284000,7843
+37127,"Nash County, North Carolina",B25077_001,162100,4882
+37129,"New Hanover County, North Carolina",B25077_001,320000,8634
+37131,"Northampton County, North Carolina",B25077_001,96000,7424
+37133,"Onslow County, North Carolina",B25077_001,196800,4693
+37135,"Orange County, North Carolina",B25077_001,395600,9958
+37137,"Pamlico County, North Carolina",B25077_001,198600,26225
+37139,"Pasquotank County, North Carolina",B25077_001,201500,11578
+37141,"Pender County, North Carolina",B25077_001,240800,9650
+37143,"Perquimans County, North Carolina",B25077_001,211100,19776
+37145,"Person County, North Carolina",B25077_001,173200,9517
+37147,"Pitt County, North Carolina",B25077_001,178700,5721
+37149,"Polk County, North Carolina",B25077_001,255000,17064
+37151,"Randolph County, North Carolina",B25077_001,158300,3055
+37153,"Richmond County, North Carolina",B25077_001,111900,6444
+37155,"Robeson County, North Carolina",B25077_001,87700,2047
+37157,"Rockingham County, North Carolina",B25077_001,142900,6438
+37159,"Rowan County, North Carolina",B25077_001,187300,6917
+37161,"Rutherford County, North Carolina",B25077_001,158200,9995
+37163,"Sampson County, North Carolina",B25077_001,116600,4321
+37165,"Scotland County, North Carolina",B25077_001,99900,5199
+37167,"Stanly County, North Carolina",B25077_001,190700,8988
+37169,"Stokes County, North Carolina",B25077_001,168600,5999
+37171,"Surry County, North Carolina",B25077_001,153700,4709
+37173,"Swain County, North Carolina",B25077_001,178900,27687
+37175,"Transylvania County, North Carolina",B25077_001,298600,20213
+37177,"Tyrrell County, North Carolina",B25077_001,140500,37166
+37179,"Union County, North Carolina",B25077_001,336600,6748
+37181,"Vance County, North Carolina",B25077_001,133000,11394
+37183,"Wake County, North Carolina",B25077_001,385700,3295
+37185,"Warren County, North Carolina",B25077_001,121300,15917
+37187,"Washington County, North Carolina",B25077_001,97800,10404
+37189,"Watauga County, North Carolina",B25077_001,283000,10549
+37191,"Wayne County, North Carolina",B25077_001,152300,5401
+37193,"Wilkes County, North Carolina",B25077_001,146200,7459
+37195,"Wilson County, North Carolina",B25077_001,153800,5350
+37197,"Yadkin County, North Carolina",B25077_001,160500,7956
+37199,"Yancey County, North Carolina",B25077_001,206100,13737
+38001,"Adams County, North Dakota",B25077_001,109600,14242
+38003,"Barnes County, North Dakota",B25077_001,157800,14607
+38005,"Benson County, North Dakota",B25077_001,79300,15039
+38007,"Billings County, North Dakota",B25077_001,237500,68158
+38009,"Bottineau County, North Dakota",B25077_001,188500,10699
+38011,"Bowman County, North Dakota",B25077_001,168200,11332
+38013,"Burke County, North Dakota",B25077_001,135100,21086
+38015,"Burleigh County, North Dakota",B25077_001,302300,8866
+38017,"Cass County, North Dakota",B25077_001,270300,6868
+38019,"Cavalier County, North Dakota",B25077_001,122900,10667
+38021,"Dickey County, North Dakota",B25077_001,164700,17945
+38023,"Divide County, North Dakota",B25077_001,162900,19942
+38025,"Dunn County, North Dakota",B25077_001,251700,27189
+38027,"Eddy County, North Dakota",B25077_001,108400,12824
+38029,"Emmons County, North Dakota",B25077_001,110200,15982
+38031,"Foster County, North Dakota",B25077_001,160300,19094
+38033,"Golden Valley County, North Dakota",B25077_001,142500,22425
+38035,"Grand Forks County, North Dakota",B25077_001,235400,5379
+38037,"Grant County, North Dakota",B25077_001,88800,17324
+38039,"Griggs County, North Dakota",B25077_001,119500,21220
+38041,"Hettinger County, North Dakota",B25077_001,111100,12553
+38043,"Kidder County, North Dakota",B25077_001,140300,30816
+38045,"LaMoure County, North Dakota",B25077_001,116900,9577
+38047,"Logan County, North Dakota",B25077_001,94400,12483
+38049,"McHenry County, North Dakota",B25077_001,136600,16349
+38051,"McIntosh County, North Dakota",B25077_001,83300,10127
+38053,"McKenzie County, North Dakota",B25077_001,330200,31182
+38055,"McLean County, North Dakota",B25077_001,222100,9456
+38057,"Mercer County, North Dakota",B25077_001,192000,17816
+38059,"Morton County, North Dakota",B25077_001,247200,11819
+38061,"Mountrail County, North Dakota",B25077_001,205000,20079
+38063,"Nelson County, North Dakota",B25077_001,107400,6594
+38065,"Oliver County, North Dakota",B25077_001,226900,31034
+38067,"Pembina County, North Dakota",B25077_001,112700,5248
+38069,"Pierce County, North Dakota",B25077_001,154400,17771
+38071,"Ramsey County, North Dakota",B25077_001,193300,14111
+38073,"Ransom County, North Dakota",B25077_001,145900,15526
+38075,"Renville County, North Dakota",B25077_001,165500,20820
+38077,"Richland County, North Dakota",B25077_001,164500,9491
+38079,"Rolette County, North Dakota",B25077_001,90200,5590
+38081,"Sargent County, North Dakota",B25077_001,134900,19403
+38083,"Sheridan County, North Dakota",B25077_001,108500,10895
+38085,"Sioux County, North Dakota",B25077_001,97200,27444
+38087,"Slope County, North Dakota",B25077_001,109900,24993
+38089,"Stark County, North Dakota",B25077_001,255200,9296
+38091,"Steele County, North Dakota",B25077_001,119900,31750
+38093,"Stutsman County, North Dakota",B25077_001,191000,15985
+38095,"Towner County, North Dakota",B25077_001,127600,19008
+38097,"Traill County, North Dakota",B25077_001,172700,12826
+38099,"Walsh County, North Dakota",B25077_001,111700,8702
+38101,"Ward County, North Dakota",B25077_001,249800,8069
+38103,"Wells County, North Dakota",B25077_001,104200,12174
+38105,"Williams County, North Dakota",B25077_001,255000,24121
+39001,"Adams County, Ohio",B25077_001,138700,10449
+39003,"Allen County, Ohio",B25077_001,147000,4279
+39005,"Ashland County, Ohio",B25077_001,163600,4553
+39007,"Ashtabula County, Ohio",B25077_001,139000,4284
+39009,"Athens County, Ohio",B25077_001,161700,8053
+39011,"Auglaize County, Ohio",B25077_001,168200,4011
+39013,"Belmont County, Ohio",B25077_001,130200,7393
+39015,"Brown County, Ohio",B25077_001,164500,7206
+39017,"Butler County, Ohio",B25077_001,224300,3423
+39019,"Carroll County, Ohio",B25077_001,157500,6229
+39021,"Champaign County, Ohio",B25077_001,166900,7370
+39023,"Clark County, Ohio",B25077_001,144900,3623
+39025,"Clermont County, Ohio",B25077_001,224800,3697
+39027,"Clinton County, Ohio",B25077_001,172800,7767
+39029,"Columbiana County, Ohio",B25077_001,124400,4803
+39031,"Coshocton County, Ohio",B25077_001,128600,7499
+39033,"Crawford County, Ohio",B25077_001,117000,4552
+39035,"Cuyahoga County, Ohio",B25077_001,168700,1317
+39037,"Darke County, Ohio",B25077_001,157800,4766
+39039,"Defiance County, Ohio",B25077_001,147600,6351
+39041,"Delaware County, Ohio",B25077_001,393000,5986
+39043,"Erie County, Ohio",B25077_001,169400,3946
+39045,"Fairfield County, Ohio",B25077_001,247800,4639
+39047,"Fayette County, Ohio",B25077_001,151400,8129
+39049,"Franklin County, Ohio",B25077_001,243100,2309
+39051,"Fulton County, Ohio",B25077_001,163100,5592
+39053,"Gallia County, Ohio",B25077_001,134000,9425
+39055,"Geauga County, Ohio",B25077_001,288000,6322
+39057,"Greene County, Ohio",B25077_001,222300,5136
+39059,"Guernsey County, Ohio",B25077_001,145800,9066
+39061,"Hamilton County, Ohio",B25077_001,205000,3436
+39063,"Hancock County, Ohio",B25077_001,179600,6201
+39065,"Hardin County, Ohio",B25077_001,125600,7632
+39067,"Harrison County, Ohio",B25077_001,112500,5243
+39069,"Henry County, Ohio",B25077_001,157500,6216
+39071,"Highland County, Ohio",B25077_001,146300,7761
+39073,"Hocking County, Ohio",B25077_001,164100,9230
+39075,"Holmes County, Ohio",B25077_001,245800,14035
+39077,"Huron County, Ohio",B25077_001,151600,4445
+39079,"Jackson County, Ohio",B25077_001,127500,8789
+39081,"Jefferson County, Ohio",B25077_001,115100,3937
+39083,"Knox County, Ohio",B25077_001,197400,6289
+39085,"Lake County, Ohio",B25077_001,189600,3197
+39087,"Lawrence County, Ohio",B25077_001,127900,6610
+39089,"Licking County, Ohio",B25077_001,232200,3867
+39091,"Logan County, Ohio",B25077_001,168300,7128
+39093,"Lorain County, Ohio",B25077_001,191900,3654
+39095,"Lucas County, Ohio",B25077_001,144200,2681
+39097,"Madison County, Ohio",B25077_001,201200,11075
+39099,"Mahoning County, Ohio",B25077_001,132000,3513
+39101,"Marion County, Ohio",B25077_001,135900,6922
+39103,"Medina County, Ohio",B25077_001,249700,3985
+39105,"Meigs County, Ohio",B25077_001,104400,8476
+39107,"Mercer County, Ohio",B25077_001,192800,8438
+39109,"Miami County, Ohio",B25077_001,190900,6280
+39111,"Monroe County, Ohio",B25077_001,122800,7408
+39113,"Montgomery County, Ohio",B25077_001,154300,2084
+39115,"Morgan County, Ohio",B25077_001,121200,10919
+39117,"Morrow County, Ohio",B25077_001,185800,11104
+39119,"Muskingum County, Ohio",B25077_001,156100,4374
+39121,"Noble County, Ohio",B25077_001,137500,24824
+39123,"Ottawa County, Ohio",B25077_001,179100,7762
+39125,"Paulding County, Ohio",B25077_001,122200,6331
+39127,"Perry County, Ohio",B25077_001,161300,9351
+39129,"Pickaway County, Ohio",B25077_001,219900,7893
+39131,"Pike County, Ohio",B25077_001,131300,14602
+39133,"Portage County, Ohio",B25077_001,197100,5589
+39135,"Preble County, Ohio",B25077_001,158700,3762
+39137,"Putnam County, Ohio",B25077_001,176200,5948
+39139,"Richland County, Ohio",B25077_001,140500,2832
+39141,"Ross County, Ohio",B25077_001,153500,5107
+39143,"Sandusky County, Ohio",B25077_001,142300,4341
+39145,"Scioto County, Ohio",B25077_001,122900,7784
+39147,"Seneca County, Ohio",B25077_001,128100,4858
+39149,"Shelby County, Ohio",B25077_001,174200,7808
+39151,"Stark County, Ohio",B25077_001,164900,1869
+39153,"Summit County, Ohio",B25077_001,182500,2328
+39155,"Trumbull County, Ohio",B25077_001,121400,2362
+39157,"Tuscarawas County, Ohio",B25077_001,163700,4251
+39159,"Union County, Ohio",B25077_001,282900,9427
+39161,"Van Wert County, Ohio",B25077_001,129300,8245
+39163,"Vinton County, Ohio",B25077_001,123400,21930
+39165,"Warren County, Ohio",B25077_001,290900,6165
+39167,"Washington County, Ohio",B25077_001,164000,5922
+39169,"Wayne County, Ohio",B25077_001,189800,4151
+39171,"Williams County, Ohio",B25077_001,131100,4986
+39173,"Wood County, Ohio",B25077_001,203300,5303
+39175,"Wyandot County, Ohio",B25077_001,154200,6798
+40001,"Adair County, Oklahoma",B25077_001,108200,5515
+40003,"Alfalfa County, Oklahoma",B25077_001,96300,12166
+40005,"Atoka County, Oklahoma",B25077_001,123000,10743
+40007,"Beaver County, Oklahoma",B25077_001,106500,10317
+40009,"Beckham County, Oklahoma",B25077_001,149800,13950
+40011,"Blaine County, Oklahoma",B25077_001,122800,14100
+40013,"Bryan County, Oklahoma",B25077_001,151500,7343
+40015,"Caddo County, Oklahoma",B25077_001,99900,5013
+40017,"Canadian County, Oklahoma",B25077_001,212700,4695
+40019,"Carter County, Oklahoma",B25077_001,144400,8687
+40021,"Cherokee County, Oklahoma",B25077_001,144600,7395
+40023,"Choctaw County, Oklahoma",B25077_001,113500,5272
+40025,"Cimarron County, Oklahoma",B25077_001,77900,16323
+40027,"Cleveland County, Oklahoma",B25077_001,203900,4770
+40029,"Coal County, Oklahoma",B25077_001,90800,5250
+40031,"Comanche County, Oklahoma",B25077_001,145800,5176
+40033,"Cotton County, Oklahoma",B25077_001,105500,7548
+40035,"Craig County, Oklahoma",B25077_001,120000,7383
+40037,"Creek County, Oklahoma",B25077_001,158900,4480
+40039,"Custer County, Oklahoma",B25077_001,168700,10780
+40041,"Delaware County, Oklahoma",B25077_001,152500,10498
+40043,"Dewey County, Oklahoma",B25077_001,117200,13619
+40045,"Ellis County, Oklahoma",B25077_001,106800,14388
+40047,"Garfield County, Oklahoma",B25077_001,142000,5553
+40049,"Garvin County, Oklahoma",B25077_001,124300,6195
+40051,"Grady County, Oklahoma",B25077_001,177100,6332
+40053,"Grant County, Oklahoma",B25077_001,84700,14521
+40055,"Greer County, Oklahoma",B25077_001,97400,10222
+40057,"Harmon County, Oklahoma",B25077_001,78500,12972
+40059,"Harper County, Oklahoma",B25077_001,96700,8243
+40061,"Haskell County, Oklahoma",B25077_001,109600,8128
+40063,"Hughes County, Oklahoma",B25077_001,87300,4447
+40065,"Jackson County, Oklahoma",B25077_001,115200,18281
+40067,"Jefferson County, Oklahoma",B25077_001,72200,7582
+40069,"Johnston County, Oklahoma",B25077_001,99100,8699
+40071,"Kay County, Oklahoma",B25077_001,111600,4222
+40073,"Kingfisher County, Oklahoma",B25077_001,189000,17203
+40075,"Kiowa County, Oklahoma",B25077_001,80200,11503
+40077,"Latimer County, Oklahoma",B25077_001,102400,7353
+40079,"Le Flore County, Oklahoma",B25077_001,111300,5919
+40081,"Lincoln County, Oklahoma",B25077_001,141400,9090
+40083,"Logan County, Oklahoma",B25077_001,221300,12556
+40085,"Love County, Oklahoma",B25077_001,154500,11111
+40087,"McClain County, Oklahoma",B25077_001,214400,8875
+40089,"McCurtain County, Oklahoma",B25077_001,111400,6777
+40091,"McIntosh County, Oklahoma",B25077_001,121000,7473
+40093,"Major County, Oklahoma",B25077_001,123200,12858
+40095,"Marshall County, Oklahoma",B25077_001,136500,22848
+40097,"Mayes County, Oklahoma",B25077_001,153500,8217
+40099,"Murray County, Oklahoma",B25077_001,148200,13038
+40101,"Muskogee County, Oklahoma",B25077_001,128900,5418
+40103,"Noble County, Oklahoma",B25077_001,140900,20760
+40105,"Nowata County, Oklahoma",B25077_001,113100,10800
+40107,"Okfuskee County, Oklahoma",B25077_001,104300,9610
+40109,"Oklahoma County, Oklahoma",B25077_001,190500,2183
+40111,"Okmulgee County, Oklahoma",B25077_001,106300,5933
+40113,"Osage County, Oklahoma",B25077_001,155200,5506
+40115,"Ottawa County, Oklahoma",B25077_001,107500,3941
+40117,"Pawnee County, Oklahoma",B25077_001,115000,5773
+40119,"Payne County, Oklahoma",B25077_001,196100,6440
+40121,"Pittsburg County, Oklahoma",B25077_001,135800,7782
+40123,"Pontotoc County, Oklahoma",B25077_001,151500,8457
+40125,"Pottawatomie County, Oklahoma",B25077_001,147000,5132
+40127,"Pushmataha County, Oklahoma",B25077_001,103500,9913
+40129,"Roger Mills County, Oklahoma",B25077_001,150700,19295
+40131,"Rogers County, Oklahoma",B25077_001,206300,4905
+40133,"Seminole County, Oklahoma",B25077_001,88100,4818
+40135,"Sequoyah County, Oklahoma",B25077_001,118600,4703
+40137,"Stephens County, Oklahoma",B25077_001,127500,5953
+40139,"Texas County, Oklahoma",B25077_001,146200,13806
+40141,"Tillman County, Oklahoma",B25077_001,62900,8045
+40143,"Tulsa County, Oklahoma",B25077_001,196300,2193
+40145,"Wagoner County, Oklahoma",B25077_001,201600,4375
+40147,"Washington County, Oklahoma",B25077_001,151000,6827
+40149,"Washita County, Oklahoma",B25077_001,102600,7066
+40151,"Woods County, Oklahoma",B25077_001,146700,17503
+40153,"Woodward County, Oklahoma",B25077_001,161600,10171
+41001,"Baker County, Oregon",B25077_001,231100,12767
+41003,"Benton County, Oregon",B25077_001,442300,8356
+41005,"Clackamas County, Oregon",B25077_001,532200,7412
+41007,"Clatsop County, Oregon",B25077_001,407700,12404
+41009,"Columbia County, Oregon",B25077_001,365100,11545
+41011,"Coos County, Oregon",B25077_001,276300,9123
+41013,"Crook County, Oregon",B25077_001,368200,18459
+41015,"Curry County, Oregon",B25077_001,353200,19192
+41017,"Deschutes County, Oregon",B25077_001,526200,14710
+41019,"Douglas County, Oregon",B25077_001,262400,8743
+41021,"Gilliam County, Oregon",B25077_001,151500,21419
+41023,"Grant County, Oregon",B25077_001,185500,15600
+41025,"Harney County, Oregon",B25077_001,174100,25338
+41027,"Hood River County, Oregon",B25077_001,492500,29584
+41029,"Jackson County, Oregon",B25077_001,369500,7879
+41031,"Jefferson County, Oregon",B25077_001,307200,19627
+41033,"Josephine County, Oregon",B25077_001,353800,9455
+41035,"Klamath County, Oregon",B25077_001,234200,7159
+41037,"Lake County, Oregon",B25077_001,169000,23449
+41039,"Lane County, Oregon",B25077_001,363800,4899
+41041,"Lincoln County, Oregon",B25077_001,345300,9530
+41043,"Linn County, Oregon",B25077_001,319800,7182
+41045,"Malheur County, Oregon",B25077_001,187500,13267
+41047,"Marion County, Oregon",B25077_001,352500,3412
+41049,"Morrow County, Oregon",B25077_001,213900,11531
+41051,"Multnomah County, Oregon",B25077_001,492100,3633
+41053,"Polk County, Oregon",B25077_001,382200,8507
+41055,"Sherman County, Oregon",B25077_001,186300,31724
+41057,"Tillamook County, Oregon",B25077_001,363100,20123
+41059,"Umatilla County, Oregon",B25077_001,236800,9123
+41061,"Union County, Oregon",B25077_001,243400,9177
+41063,"Wallowa County, Oregon",B25077_001,336900,37152
+41065,"Wasco County, Oregon",B25077_001,298200,15695
+41067,"Washington County, Oregon",B25077_001,504300,6361
+41069,"Wheeler County, Oregon",B25077_001,194900,30665
+41071,"Yamhill County, Oregon",B25077_001,408500,11195
+42001,"Adams County, Pennsylvania",B25077_001,242800,3831
+42003,"Allegheny County, Pennsylvania",B25077_001,200200,1776
+42005,"Armstrong County, Pennsylvania",B25077_001,135800,5826
+42007,"Beaver County, Pennsylvania",B25077_001,170900,2912
+42009,"Bedford County, Pennsylvania",B25077_001,165200,4609
+42011,"Berks County, Pennsylvania",B25077_001,225700,2869
+42013,"Blair County, Pennsylvania",B25077_001,149300,3922
+42015,"Bradford County, Pennsylvania",B25077_001,169700,3831
+42017,"Bucks County, Pennsylvania",B25077_001,395800,3669
+42019,"Butler County, Pennsylvania",B25077_001,258500,5425
+42021,"Cambria County, Pennsylvania",B25077_001,110900,3348
+42023,"Cameron County, Pennsylvania",B25077_001,85900,4551
+42025,"Carbon County, Pennsylvania",B25077_001,179600,8300
+42027,"Centre County, Pennsylvania",B25077_001,289800,5991
+42029,"Chester County, Pennsylvania",B25077_001,435000,4799
+42031,"Clarion County, Pennsylvania",B25077_001,143300,6846
+42033,"Clearfield County, Pennsylvania",B25077_001,118300,4350
+42035,"Clinton County, Pennsylvania",B25077_001,165100,3245
+42037,"Columbia County, Pennsylvania",B25077_001,183200,5560
+42039,"Crawford County, Pennsylvania",B25077_001,136000,3671
+42041,"Cumberland County, Pennsylvania",B25077_001,246200,3584
+42043,"Dauphin County, Pennsylvania",B25077_001,208200,3255
+42045,"Delaware County, Pennsylvania",B25077_001,289700,3073
+42047,"Elk County, Pennsylvania",B25077_001,121900,6483
+42049,"Erie County, Pennsylvania",B25077_001,160200,3199
+42051,"Fayette County, Pennsylvania",B25077_001,121800,3901
+42053,"Forest County, Pennsylvania",B25077_001,102300,7356
+42055,"Franklin County, Pennsylvania",B25077_001,222000,4425
+42057,"Fulton County, Pennsylvania",B25077_001,188000,7424
+42059,"Greene County, Pennsylvania",B25077_001,140900,15530
+42061,"Huntingdon County, Pennsylvania",B25077_001,169000,4266
+42063,"Indiana County, Pennsylvania",B25077_001,140700,4970
+42065,"Jefferson County, Pennsylvania",B25077_001,121100,3341
+42067,"Juniata County, Pennsylvania",B25077_001,185900,5621
+42069,"Lackawanna County, Pennsylvania",B25077_001,175700,3883
+42071,"Lancaster County, Pennsylvania",B25077_001,263600,2730
+42073,"Lawrence County, Pennsylvania",B25077_001,130000,4695
+42075,"Lebanon County, Pennsylvania",B25077_001,211400,3750
+42077,"Lehigh County, Pennsylvania",B25077_001,254500,5244
+42079,"Luzerne County, Pennsylvania",B25077_001,152400,2641
+42081,"Lycoming County, Pennsylvania",B25077_001,182500,4660
+42083,"McKean County, Pennsylvania",B25077_001,96600,2971
+42085,"Mercer County, Pennsylvania",B25077_001,146100,3488
+42087,"Mifflin County, Pennsylvania",B25077_001,131300,7399
+42089,"Monroe County, Pennsylvania",B25077_001,221100,5532
+42091,"Montgomery County, Pennsylvania",B25077_001,382300,2347
+42093,"Montour County, Pennsylvania",B25077_001,227800,10341
+42095,"Northampton County, Pennsylvania",B25077_001,265600,4005
+42097,"Northumberland County, Pennsylvania",B25077_001,141300,5860
+42099,"Perry County, Pennsylvania",B25077_001,210600,5523
+42101,"Philadelphia County, Pennsylvania",B25077_001,215500,2089
+42103,"Pike County, Pennsylvania",B25077_001,225100,6746
+42105,"Potter County, Pennsylvania",B25077_001,135200,7560
+42107,"Schuylkill County, Pennsylvania",B25077_001,127900,4449
+42109,"Snyder County, Pennsylvania",B25077_001,197300,5821
+42111,"Somerset County, Pennsylvania",B25077_001,124500,4249
+42113,"Sullivan County, Pennsylvania",B25077_001,179000,11266
+42115,"Susquehanna County, Pennsylvania",B25077_001,199000,5964
+42117,"Tioga County, Pennsylvania",B25077_001,165000,4056
+42119,"Union County, Pennsylvania",B25077_001,210300,9438
+42121,"Venango County, Pennsylvania",B25077_001,108500,4158
+42123,"Warren County, Pennsylvania",B25077_001,116300,3857
+42125,"Washington County, Pennsylvania",B25077_001,205600,4671
+42127,"Wayne County, Pennsylvania",B25077_001,211000,7041
+42129,"Westmoreland County, Pennsylvania",B25077_001,181600,3006
+42131,"Wyoming County, Pennsylvania",B25077_001,194700,5062
+42133,"York County, Pennsylvania",B25077_001,220700,2748
+44001,"Bristol County, Rhode Island",B25077_001,443700,12448
+44003,"Kent County, Rhode Island",B25077_001,306000,7194
+44005,"Newport County, Rhode Island",B25077_001,503700,20278
+44007,"Providence County, Rhode Island",B25077_001,310500,3672
+44009,"Washington County, Rhode Island",B25077_001,436000,7969
+45001,"Abbeville County, South Carolina",B25077_001,118400,9148
+45003,"Aiken County, South Carolina",B25077_001,181800,6085
+45005,"Allendale County, South Carolina",B25077_001,61800,5712
+45007,"Anderson County, South Carolina",B25077_001,189400,4551
+45009,"Bamberg County, South Carolina",B25077_001,97200,10941
+45011,"Barnwell County, South Carolina",B25077_001,97100,9479
+45013,"Beaufort County, South Carolina",B25077_001,377900,7704
+45015,"Berkeley County, South Carolina",B25077_001,253100,6077
+45017,"Calhoun County, South Carolina",B25077_001,130900,13300
+45019,"Charleston County, South Carolina",B25077_001,415000,8451
+45021,"Cherokee County, South Carolina",B25077_001,124500,8441
+45023,"Chester County, South Carolina",B25077_001,133600,12263
+45025,"Chesterfield County, South Carolina",B25077_001,91400,6503
+45027,"Clarendon County, South Carolina",B25077_001,134000,15339
+45029,"Colleton County, South Carolina",B25077_001,127200,11827
+45031,"Darlington County, South Carolina",B25077_001,132600,10262
+45033,"Dillon County, South Carolina",B25077_001,89500,7650
+45035,"Dorchester County, South Carolina",B25077_001,273000,5282
+45037,"Edgefield County, South Carolina",B25077_001,162900,14171
+45039,"Fairfield County, South Carolina",B25077_001,123200,7972
+45041,"Florence County, South Carolina",B25077_001,157400,4046
+45043,"Georgetown County, South Carolina",B25077_001,234600,15586
+45045,"Greenville County, South Carolina",B25077_001,248900,3891
+45047,"Greenwood County, South Carolina",B25077_001,144000,7859
+45049,"Hampton County, South Carolina",B25077_001,93900,7415
+45051,"Horry County, South Carolina",B25077_001,235000,3492
+45053,"Jasper County, South Carolina",B25077_001,243700,26123
+45055,"Kershaw County, South Carolina",B25077_001,173800,6407
+45057,"Lancaster County, South Carolina",B25077_001,272100,13725
+45059,"Laurens County, South Carolina",B25077_001,138600,9419
+45061,"Lee County, South Carolina",B25077_001,93400,8750
+45063,"Lexington County, South Carolina",B25077_001,197600,3020
+45065,"McCormick County, South Carolina",B25077_001,119500,12918
+45067,"Marion County, South Carolina",B25077_001,90200,11911
+45069,"Marlboro County, South Carolina",B25077_001,77900,6144
+45071,"Newberry County, South Carolina",B25077_001,139200,12325
+45073,"Oconee County, South Carolina",B25077_001,192800,5845
+45075,"Orangeburg County, South Carolina",B25077_001,105500,6065
+45077,"Pickens County, South Carolina",B25077_001,196600,6161
+45079,"Richland County, South Carolina",B25077_001,201200,5196
+45081,"Saluda County, South Carolina",B25077_001,117800,9122
+45083,"Spartanburg County, South Carolina",B25077_001,195800,4507
+45085,"Sumter County, South Carolina",B25077_001,146300,7098
+45087,"Union County, South Carolina",B25077_001,95300,4349
+45089,"Williamsburg County, South Carolina",B25077_001,86900,5044
+45091,"York County, South Carolina",B25077_001,287600,6315
+46003,"Aurora County, South Dakota",B25077_001,120800,12018
+46005,"Beadle County, South Dakota",B25077_001,152100,17535
+46007,"Bennett County, South Dakota",B25077_001,128100,33077
+46009,"Bon Homme County, South Dakota",B25077_001,112700,9094
+46011,"Brookings County, South Dakota",B25077_001,227800,6345
+46013,"Brown County, South Dakota",B25077_001,200400,8605
+46015,"Brule County, South Dakota",B25077_001,187900,19485
+46017,"Buffalo County, South Dakota",B25077_001,103800,30195
+46019,"Butte County, South Dakota",B25077_001,189000,13772
+46021,"Campbell County, South Dakota",B25077_001,80300,10538
+46023,"Charles Mix County, South Dakota",B25077_001,163200,13183
+46025,"Clark County, South Dakota",B25077_001,135500,14448
+46027,"Clay County, South Dakota",B25077_001,209300,18703
+46029,"Codington County, South Dakota",B25077_001,206600,13407
+46031,"Corson County, South Dakota",B25077_001,76000,10270
+46033,"Custer County, South Dakota",B25077_001,294700,16762
+46035,"Davison County, South Dakota",B25077_001,178100,10863
+46037,"Day County, South Dakota",B25077_001,134800,23765
+46039,"Deuel County, South Dakota",B25077_001,178100,15380
+46041,"Dewey County, South Dakota",B25077_001,74800,15398
+46043,"Douglas County, South Dakota",B25077_001,120900,22545
+46045,"Edmunds County, South Dakota",B25077_001,142300,20090
+46047,"Fall River County, South Dakota",B25077_001,158500,25242
+46049,"Faulk County, South Dakota",B25077_001,115300,16224
+46051,"Grant County, South Dakota",B25077_001,168500,10359
+46053,"Gregory County, South Dakota",B25077_001,109100,15392
+46055,"Haakon County, South Dakota",B25077_001,139200,35694
+46057,"Hamlin County, South Dakota",B25077_001,181800,20173
+46059,"Hand County, South Dakota",B25077_001,150000,33622
+46061,"Hanson County, South Dakota",B25077_001,171300,8817
+46063,"Harding County, South Dakota",B25077_001,128300,28099
+46065,"Hughes County, South Dakota",B25077_001,216500,10325
+46067,"Hutchinson County, South Dakota",B25077_001,143800,14541
+46069,"Hyde County, South Dakota",B25077_001,97300,20410
+46071,"Jackson County, South Dakota",B25077_001,108400,26924
+46073,"Jerauld County, South Dakota",B25077_001,117600,41341
+46075,"Jones County, South Dakota",B25077_001,99000,31325
+46077,"Kingsbury County, South Dakota",B25077_001,149300,11245
+46079,"Lake County, South Dakota",B25077_001,196600,21128
+46081,"Lawrence County, South Dakota",B25077_001,267900,15901
+46083,"Lincoln County, South Dakota",B25077_001,292200,8193
+46085,"Lyman County, South Dakota",B25077_001,132100,17715
+46087,"McCook County, South Dakota",B25077_001,186100,19701
+46089,"McPherson County, South Dakota",B25077_001,77900,13171
+46091,"Marshall County, South Dakota",B25077_001,141100,39310
+46093,"Meade County, South Dakota",B25077_001,252300,14620
+46095,"Mellette County, South Dakota",B25077_001,60700,22925
+46097,"Miner County, South Dakota",B25077_001,93900,19912
+46099,"Minnehaha County, South Dakota",B25077_001,246200,3956
+46101,"Moody County, South Dakota",B25077_001,194000,17022
+46102,"Oglala Lakota County, South Dakota",B25077_001,46700,9996
+46103,"Pennington County, South Dakota",B25077_001,247800,6165
+46105,"Perkins County, South Dakota",B25077_001,108900,12676
+46107,"Potter County, South Dakota",B25077_001,129800,16570
+46109,"Roberts County, South Dakota",B25077_001,127800,13715
+46111,"Sanborn County, South Dakota",B25077_001,128800,15090
+46115,"Spink County, South Dakota",B25077_001,108200,12660
+46117,"Stanley County, South Dakota",B25077_001,170400,19645
+46119,"Sully County, South Dakota",B25077_001,190800,34811
+46121,"Todd County, South Dakota",B25077_001,40500,12448
+46123,"Tripp County, South Dakota",B25077_001,128100,22111
+46125,"Turner County, South Dakota",B25077_001,175300,13130
+46127,"Union County, South Dakota",B25077_001,254900,14691
+46129,"Walworth County, South Dakota",B25077_001,115900,15324
+46135,"Yankton County, South Dakota",B25077_001,190400,10026
+46137,"Ziebach County, South Dakota",B25077_001,93000,10787
+47001,"Anderson County, Tennessee",B25077_001,193900,8835
+47003,"Bedford County, Tennessee",B25077_001,221200,10712
+47005,"Benton County, Tennessee",B25077_001,112000,12292
+47007,"Bledsoe County, Tennessee",B25077_001,153700,26378
+47009,"Blount County, Tennessee",B25077_001,247600,5814
+47011,"Bradley County, Tennessee",B25077_001,209800,8222
+47013,"Campbell County, Tennessee",B25077_001,142100,10349
+47015,"Cannon County, Tennessee",B25077_001,217700,20461
+47017,"Carroll County, Tennessee",B25077_001,117500,5833
+47019,"Carter County, Tennessee",B25077_001,145000,5251
+47021,"Cheatham County, Tennessee",B25077_001,262200,10811
+47023,"Chester County, Tennessee",B25077_001,136700,9456
+47025,"Claiborne County, Tennessee",B25077_001,135400,13395
+47027,"Clay County, Tennessee",B25077_001,132500,17206
+47029,"Cocke County, Tennessee",B25077_001,137000,11916
+47031,"Coffee County, Tennessee",B25077_001,203400,10921
+47033,"Crockett County, Tennessee",B25077_001,127000,10087
+47035,"Cumberland County, Tennessee",B25077_001,199800,7901
+47037,"Davidson County, Tennessee",B25077_001,354700,3294
+47039,"Decatur County, Tennessee",B25077_001,128600,13198
+47041,"DeKalb County, Tennessee",B25077_001,183100,13453
+47043,"Dickson County, Tennessee",B25077_001,243800,9631
+47045,"Dyer County, Tennessee",B25077_001,148900,9469
+47047,"Fayette County, Tennessee",B25077_001,282600,11279
+47049,"Fentress County, Tennessee",B25077_001,137000,12348
+47051,"Franklin County, Tennessee",B25077_001,192400,6856
+47053,"Gibson County, Tennessee",B25077_001,130900,10977
+47055,"Giles County, Tennessee",B25077_001,172500,10070
+47057,"Grainger County, Tennessee",B25077_001,151200,10499
+47059,"Greene County, Tennessee",B25077_001,166500,5699
+47061,"Grundy County, Tennessee",B25077_001,126400,14166
+47063,"Hamblen County, Tennessee",B25077_001,166300,6283
+47065,"Hamilton County, Tennessee",B25077_001,250900,4456
+47067,"Hancock County, Tennessee",B25077_001,112600,22632
+47069,"Hardeman County, Tennessee",B25077_001,112700,6149
+47071,"Hardin County, Tennessee",B25077_001,142300,10790
+47073,"Hawkins County, Tennessee",B25077_001,153800,5313
+47075,"Haywood County, Tennessee",B25077_001,116900,7862
+47077,"Henderson County, Tennessee",B25077_001,139600,5933
+47079,"Henry County, Tennessee",B25077_001,141000,7068
+47081,"Hickman County, Tennessee",B25077_001,163900,12408
+47083,"Houston County, Tennessee",B25077_001,149200,18565
+47085,"Humphreys County, Tennessee",B25077_001,175600,14105
+47087,"Jackson County, Tennessee",B25077_001,126100,18499
+47089,"Jefferson County, Tennessee",B25077_001,183800,10161
+47091,"Johnson County, Tennessee",B25077_001,156400,6857
+47093,"Knox County, Tennessee",B25077_001,248200,3175
+47095,"Lake County, Tennessee",B25077_001,111900,19933
+47097,"Lauderdale County, Tennessee",B25077_001,110800,7948
+47099,"Lawrence County, Tennessee",B25077_001,156500,7167
+47101,"Lewis County, Tennessee",B25077_001,139100,25542
+47103,"Lincoln County, Tennessee",B25077_001,186300,9903
+47105,"Loudon County, Tennessee",B25077_001,263800,12411
+47107,"McMinn County, Tennessee",B25077_001,173300,7905
+47109,"McNairy County, Tennessee",B25077_001,125400,7277
+47111,"Macon County, Tennessee",B25077_001,185100,15777
+47113,"Madison County, Tennessee",B25077_001,170700,5345
+47115,"Marion County, Tennessee",B25077_001,153000,10490
+47117,"Marshall County, Tennessee",B25077_001,218500,11501
+47119,"Maury County, Tennessee",B25077_001,273400,7981
+47121,"Meigs County, Tennessee",B25077_001,163000,7048
+47123,"Monroe County, Tennessee",B25077_001,174800,8043
+47125,"Montgomery County, Tennessee",B25077_001,226400,3866
+47127,"Moore County, Tennessee",B25077_001,256700,24793
+47129,"Morgan County, Tennessee",B25077_001,133000,10451
+47131,"Obion County, Tennessee",B25077_001,119500,6880
+47133,"Overton County, Tennessee",B25077_001,156000,14818
+47135,"Perry County, Tennessee",B25077_001,122900,15458
+47137,"Pickett County, Tennessee",B25077_001,149300,28115
+47139,"Polk County, Tennessee",B25077_001,128200,10321
+47141,"Putnam County, Tennessee",B25077_001,221200,9318
+47143,"Rhea County, Tennessee",B25077_001,155800,12422
+47145,"Roane County, Tennessee",B25077_001,193400,9503
+47147,"Robertson County, Tennessee",B25077_001,271300,8314
+47149,"Rutherford County, Tennessee",B25077_001,305100,5718
+47151,"Scott County, Tennessee",B25077_001,113900,8550
+47153,"Sequatchie County, Tennessee",B25077_001,184600,19010
+47155,"Sevier County, Tennessee",B25077_001,239800,7499
+47157,"Shelby County, Tennessee",B25077_001,206100,3828
+47159,"Smith County, Tennessee",B25077_001,200500,10530
+47161,"Stewart County, Tennessee",B25077_001,163700,20573
+47163,"Sullivan County, Tennessee",B25077_001,173000,3796
+47165,"Sumner County, Tennessee",B25077_001,332700,5681
+47167,"Tipton County, Tennessee",B25077_001,203500,7176
+47169,"Trousdale County, Tennessee",B25077_001,217400,23584
+47171,"Unicoi County, Tennessee",B25077_001,150600,15360
+47173,"Union County, Tennessee",B25077_001,164400,6928
+47175,"Van Buren County, Tennessee",B25077_001,132700,18769
+47177,"Warren County, Tennessee",B25077_001,149700,9617
+47179,"Washington County, Tennessee",B25077_001,211100,6796
+47181,"Wayne County, Tennessee",B25077_001,129000,16099
+47183,"Weakley County, Tennessee",B25077_001,123100,7485
+47185,"White County, Tennessee",B25077_001,161500,9415
+47187,"Williamson County, Tennessee",B25077_001,611100,10246
+47189,"Wilson County, Tennessee",B25077_001,358900,6982
+48001,"Anderson County, Texas",B25077_001,154600,11893
+48003,"Andrews County, Texas",B25077_001,179300,10151
+48005,"Angelina County, Texas",B25077_001,138600,10496
+48007,"Aransas County, Texas",B25077_001,221500,17357
+48009,"Archer County, Texas",B25077_001,157500,16281
+48011,"Armstrong County, Texas",B25077_001,167600,21690
+48013,"Atascosa County, Texas",B25077_001,141000,16764
+48015,"Austin County, Texas",B25077_001,240000,12232
+48017,"Bailey County, Texas",B25077_001,112400,14645
+48019,"Bandera County, Texas",B25077_001,237300,15323
+48021,"Bastrop County, Texas",B25077_001,235900,8090
+48023,"Baylor County, Texas",B25077_001,92100,6568
+48025,"Bee County, Texas",B25077_001,106700,10392
+48027,"Bell County, Texas",B25077_001,196300,4767
+48029,"Bexar County, Texas",B25077_001,222300,1856
+48031,"Blanco County, Texas",B25077_001,309800,50091
+48033,"Borden County, Texas",B25077_001,104200,25781
+48035,"Bosque County, Texas",B25077_001,151400,12010
+48037,"Bowie County, Texas",B25077_001,150300,6835
+48039,"Brazoria County, Texas",B25077_001,256900,4473
+48041,"Brazos County, Texas",B25077_001,260800,5960
+48043,"Brewster County, Texas",B25077_001,200500,16056
+48045,"Briscoe County, Texas",B25077_001,77400,11131
+48047,"Brooks County, Texas",B25077_001,80100,21094
+48049,"Brown County, Texas",B25077_001,137900,7404
+48051,"Burleson County, Texas",B25077_001,154700,21569
+48053,"Burnet County, Texas",B25077_001,268300,18585
+48055,"Caldwell County, Texas",B25077_001,185400,14109
+48057,"Calhoun County, Texas",B25077_001,128200,15154
+48059,"Callahan County, Texas",B25077_001,129500,14672
+48061,"Cameron County, Texas",B25077_001,109600,2861
+48063,"Camp County, Texas",B25077_001,146600,14903
+48065,"Carson County, Texas",B25077_001,129700,16755
+48067,"Cass County, Texas",B25077_001,115600,7822
+48069,"Castro County, Texas",B25077_001,96400,7772
+48071,"Chambers County, Texas",B25077_001,279200,12976
+48073,"Cherokee County, Texas",B25077_001,138500,11266
+48075,"Childress County, Texas",B25077_001,111100,25097
+48077,"Clay County, Texas",B25077_001,139700,7351
+48079,"Cochran County, Texas",B25077_001,48000,15846
+48081,"Coke County, Texas",B25077_001,94900,19112
+48083,"Coleman County, Texas",B25077_001,91800,12634
+48085,"Collin County, Texas",B25077_001,411100,4266
+48087,"Collingsworth County, Texas",B25077_001,89500,23431
+48089,"Colorado County, Texas",B25077_001,172900,15085
+48091,"Comal County, Texas",B25077_001,369400,8705
+48093,"Comanche County, Texas",B25077_001,131800,17147
+48095,"Concho County, Texas",B25077_001,92900,9478
+48097,"Cooke County, Texas",B25077_001,207100,13052
+48099,"Coryell County, Texas",B25077_001,153300,8229
+48101,"Cottle County, Texas",B25077_001,51400,6577
+48103,"Crane County, Texas",B25077_001,117000,23845
+48105,"Crockett County, Texas",B25077_001,181300,70971
+48107,"Crosby County, Texas",B25077_001,69600,8056
+48109,"Culberson County, Texas",B25077_001,83300,8741
+48111,"Dallam County, Texas",B25077_001,113800,16326
+48113,"Dallas County, Texas",B25077_001,252200,2029
+48115,"Dawson County, Texas",B25077_001,95100,11332
+48117,"Deaf Smith County, Texas",B25077_001,107500,9130
+48119,"Delta County, Texas",B25077_001,163700,16068
+48121,"Denton County, Texas",B25077_001,377000,2904
+48123,"DeWitt County, Texas",B25077_001,156700,9985
+48125,"Dickens County, Texas",B25077_001,67000,15787
+48127,"Dimmit County, Texas",B25077_001,75900,28526
+48129,"Donley County, Texas",B25077_001,98900,15583
+48131,"Duval County, Texas",B25077_001,76000,14523
+48133,"Eastland County, Texas",B25077_001,110500,10372
+48135,"Ector County, Texas",B25077_001,175600,8699
+48137,"Edwards County, Texas",B25077_001,86800,39365
+48139,"Ellis County, Texas",B25077_001,275800,6040
+48141,"El Paso County, Texas",B25077_001,153600,1738
+48143,"Erath County, Texas",B25077_001,219600,11870
+48145,"Falls County, Texas",B25077_001,103400,8508
+48147,"Fannin County, Texas",B25077_001,193200,16256
+48149,"Fayette County, Texas",B25077_001,254200,15990
+48151,"Fisher County, Texas",B25077_001,82700,15577
+48153,"Floyd County, Texas",B25077_001,90800,9933
+48155,"Foard County, Texas",B25077_001,65000,14021
+48157,"Fort Bend County, Texas",B25077_001,329600,4589
+48159,"Franklin County, Texas",B25077_001,194800,32277
+48161,"Freestone County, Texas",B25077_001,154900,9580
+48163,"Frio County, Texas",B25077_001,98000,8662
+48165,"Gaines County, Texas",B25077_001,181100,11701
+48167,"Galveston County, Texas",B25077_001,260600,5132
+48169,"Garza County, Texas",B25077_001,87500,25860
+48171,"Gillespie County, Texas",B25077_001,399400,25708
+48173,"Glasscock County, Texas",B25077_001,258300,77307
+48175,"Goliad County, Texas",B25077_001,172400,20459
+48177,"Gonzales County, Texas",B25077_001,156100,20854
+48179,"Gray County, Texas",B25077_001,93600,7007
+48181,"Grayson County, Texas",B25077_001,206900,7612
+48183,"Gregg County, Texas",B25077_001,171900,5062
+48185,"Grimes County, Texas",B25077_001,212500,13070
+48187,"Guadalupe County, Texas",B25077_001,258600,4444
+48189,"Hale County, Texas",B25077_001,97500,7305
+48191,"Hall County, Texas",B25077_001,68000,23148
+48193,"Hamilton County, Texas",B25077_001,122600,13223
+48195,"Hansford County, Texas",B25077_001,101700,33827
+48197,"Hardeman County, Texas",B25077_001,65800,15128
+48199,"Hardin County, Texas",B25077_001,175800,11277
+48201,"Harris County, Texas",B25077_001,235300,1177
+48203,"Harrison County, Texas",B25077_001,164400,8601
+48205,"Hartley County, Texas",B25077_001,226500,16813
+48207,"Haskell County, Texas",B25077_001,69800,13257
+48209,"Hays County, Texas",B25077_001,335700,7696
+48211,"Hemphill County, Texas",B25077_001,200600,20673
+48213,"Henderson County, Texas",B25077_001,159600,9776
+48215,"Hidalgo County, Texas",B25077_001,112700,2544
+48217,"Hill County, Texas",B25077_001,142000,12692
+48219,"Hockley County, Texas",B25077_001,110800,9750
+48221,"Hood County, Texas",B25077_001,249400,9456
+48223,"Hopkins County, Texas",B25077_001,172800,10474
+48225,"Houston County, Texas",B25077_001,128300,14788
+48227,"Howard County, Texas",B25077_001,132900,14556
+48229,"Hudspeth County, Texas",B25077_001,57400,14530
+48231,"Hunt County, Texas",B25077_001,184000,8220
+48233,"Hutchinson County, Texas",B25077_001,96500,7952
+48235,"Irion County, Texas",B25077_001,149600,37567
+48237,"Jack County, Texas",B25077_001,135500,17940
+48239,"Jackson County, Texas",B25077_001,140300,31632
+48241,"Jasper County, Texas",B25077_001,117400,9662
+48243,"Jeff Davis County, Texas",B25077_001,167300,19992
+48245,"Jefferson County, Texas",B25077_001,151500,3902
+48247,"Jim Hogg County, Texas",B25077_001,115100,27987
+48249,"Jim Wells County, Texas",B25077_001,91600,6976
+48251,"Johnson County, Texas",B25077_001,225000,6025
+48253,"Jones County, Texas",B25077_001,88400,11096
+48255,"Karnes County, Texas",B25077_001,137800,18969
+48257,"Kaufman County, Texas",B25077_001,256900,7037
+48259,"Kendall County, Texas",B25077_001,464100,18089
+48261,"Kenedy County, Texas",B25077_001,,
+48263,"Kent County, Texas",B25077_001,76400,47712
+48265,"Kerr County, Texas",B25077_001,260700,10846
+48267,"Kimble County, Texas",B25077_001,189600,41991
+48269,"King County, Texas",B25077_001,,
+48271,"Kinney County, Texas",B25077_001,112200,30642
+48273,"Kleberg County, Texas",B25077_001,128300,17812
+48275,"Knox County, Texas",B25077_001,55100,6655
+48277,"Lamar County, Texas",B25077_001,152800,11644
+48279,"Lamb County, Texas",B25077_001,79300,7819
+48281,"Lampasas County, Texas",B25077_001,217100,16315
+48283,"La Salle County, Texas",B25077_001,99400,18024
+48285,"Lavaca County, Texas",B25077_001,205500,15697
+48287,"Lee County, Texas",B25077_001,208100,21736
+48289,"Leon County, Texas",B25077_001,158700,12950
+48291,"Liberty County, Texas",B25077_001,145400,11431
+48293,"Limestone County, Texas",B25077_001,135400,10922
+48295,"Lipscomb County, Texas",B25077_001,119800,11947
+48297,"Live Oak County, Texas",B25077_001,143000,17296
+48299,"Llano County, Texas",B25077_001,287000,16850
+48301,"Loving County, Texas",B25077_001,218800,101947
+48303,"Lubbock County, Texas",B25077_001,183700,4221
+48305,"Lynn County, Texas",B25077_001,116800,10173
+48307,"McCulloch County, Texas",B25077_001,98700,14753
+48309,"McLennan County, Texas",B25077_001,196400,6488
+48311,"McMullen County, Texas",B25077_001,105100,19208
+48313,"Madison County, Texas",B25077_001,139100,26395
+48315,"Marion County, Texas",B25077_001,103100,17604
+48317,"Martin County, Texas",B25077_001,143500,42041
+48319,"Mason County, Texas",B25077_001,254500,31954
+48321,"Matagorda County, Texas",B25077_001,155200,10823
+48323,"Maverick County, Texas",B25077_001,125000,13222
+48325,"Medina County, Texas",B25077_001,186200,18851
+48327,"Menard County, Texas",B25077_001,86500,33503
+48329,"Midland County, Texas",B25077_001,272900,7707
+48331,"Milam County, Texas",B25077_001,149600,17472
+48333,"Mills County, Texas",B25077_001,188900,30296
+48335,"Mitchell County, Texas",B25077_001,83900,15829
+48337,"Montague County, Texas",B25077_001,166900,11658
+48339,"Montgomery County, Texas",B25077_001,293500,4600
+48341,"Moore County, Texas",B25077_001,122700,13166
+48343,"Morris County, Texas",B25077_001,108600,9458
+48345,"Motley County, Texas",B25077_001,72100,32483
+48347,"Nacogdoches County, Texas",B25077_001,150700,8172
+48349,"Navarro County, Texas",B25077_001,142300,15570
+48351,"Newton County, Texas",B25077_001,90100,14504
+48353,"Nolan County, Texas",B25077_001,91300,7153
+48355,"Nueces County, Texas",B25077_001,177700,4050
+48357,"Ochiltree County, Texas",B25077_001,118400,13937
+48359,"Oldham County, Texas",B25077_001,125000,21278
+48361,"Orange County, Texas",B25077_001,152800,6727
+48363,"Palo Pinto County, Texas",B25077_001,151500,9858
+48365,"Panola County, Texas",B25077_001,139400,11935
+48367,"Parker County, Texas",B25077_001,311000,10787
+48369,"Parmer County, Texas",B25077_001,134300,15611
+48371,"Pecos County, Texas",B25077_001,144300,14075
+48373,"Polk County, Texas",B25077_001,151100,9741
+48375,"Potter County, Texas",B25077_001,119900,4663
+48377,"Presidio County, Texas",B25077_001,121000,40538
+48379,"Rains County, Texas",B25077_001,174000,23766
+48381,"Randall County, Texas",B25077_001,209200,5790
+48383,"Reagan County, Texas",B25077_001,123900,51965
+48385,"Real County, Texas",B25077_001,258000,95870
+48387,"Red River County, Texas",B25077_001,113600,15318
+48389,"Reeves County, Texas",B25077_001,108800,7598
+48391,"Refugio County, Texas",B25077_001,92900,7933
+48393,"Roberts County, Texas",B25077_001,164200,70123
+48395,"Robertson County, Texas",B25077_001,156800,13516
+48397,"Rockwall County, Texas",B25077_001,363500,7867
+48399,"Runnels County, Texas",B25077_001,89700,10604
+48401,"Rusk County, Texas",B25077_001,148100,6734
+48403,"Sabine County, Texas",B25077_001,134300,34346
+48405,"San Augustine County, Texas",B25077_001,82400,8432
+48407,"San Jacinto County, Texas",B25077_001,167700,19634
+48409,"San Patricio County, Texas",B25077_001,163900,6394
+48411,"San Saba County, Texas",B25077_001,134300,20269
+48413,"Schleicher County, Texas",B25077_001,96700,8689
+48415,"Scurry County, Texas",B25077_001,109400,10925
+48417,"Shackelford County, Texas",B25077_001,178500,28164
+48419,"Shelby County, Texas",B25077_001,107400,13597
+48421,"Sherman County, Texas",B25077_001,108100,12050
+48423,"Smith County, Texas",B25077_001,201400,5757
+48425,"Somervell County, Texas",B25077_001,246600,26367
+48427,"Starr County, Texas",B25077_001,88300,5349
+48429,"Stephens County, Texas",B25077_001,98000,9004
+48431,"Sterling County, Texas",B25077_001,121000,78049
+48433,"Stonewall County, Texas",B25077_001,54700,7828
+48435,"Sutton County, Texas",B25077_001,132600,24986
+48437,"Swisher County, Texas",B25077_001,85300,10027
+48439,"Tarrant County, Texas",B25077_001,269400,1897
+48441,"Taylor County, Texas",B25077_001,169800,5809
+48443,"Terrell County, Texas",B25077_001,119800,19608
+48445,"Terry County, Texas",B25077_001,105500,9128
+48447,"Throckmorton County, Texas",B25077_001,67000,18274
+48449,"Titus County, Texas",B25077_001,138900,10015
+48451,"Tom Green County, Texas",B25077_001,177800,6202
+48453,"Travis County, Texas",B25077_001,444800,4764
+48455,"Trinity County, Texas",B25077_001,104300,12688
+48457,"Tyler County, Texas",B25077_001,124900,18466
+48459,"Upshur County, Texas",B25077_001,166600,10063
+48461,"Upton County, Texas",B25077_001,95600,17518
+48463,"Uvalde County, Texas",B25077_001,129900,9501
+48465,"Val Verde County, Texas",B25077_001,138500,11591
+48467,"Van Zandt County, Texas",B25077_001,181300,9702
+48469,"Victoria County, Texas",B25077_001,181200,7310
+48471,"Walker County, Texas",B25077_001,187200,11589
+48473,"Waller County, Texas",B25077_001,268200,22988
+48475,"Ward County, Texas",B25077_001,117700,17635
+48477,"Washington County, Texas",B25077_001,248300,17910
+48479,"Webb County, Texas",B25077_001,161000,3869
+48481,"Wharton County, Texas",B25077_001,170100,7378
+48483,"Wheeler County, Texas",B25077_001,105200,13861
+48485,"Wichita County, Texas",B25077_001,129000,4477
+48487,"Wilbarger County, Texas",B25077_001,82300,12976
+48489,"Willacy County, Texas",B25077_001,66900,6524
+48491,"Williamson County, Texas",B25077_001,370100,3819
+48493,"Wilson County, Texas",B25077_001,266600,15205
+48495,"Winkler County, Texas",B25077_001,109100,14764
+48497,"Wise County, Texas",B25077_001,248400,11014
+48499,"Wood County, Texas",B25077_001,170700,7779
+48501,"Yoakum County, Texas",B25077_001,167900,16907
+48503,"Young County, Texas",B25077_001,142100,14200
+48505,"Zapata County, Texas",B25077_001,84800,11329
+48507,"Zavala County, Texas",B25077_001,77300,7913
+49001,"Beaver County, Utah",B25077_001,248200,22921
+49003,"Box Elder County, Utah",B25077_001,308900,10231
+49005,"Cache County, Utah",B25077_001,351700,6106
+49007,"Carbon County, Utah",B25077_001,176400,9452
+49009,"Daggett County, Utah",B25077_001,252400,63554
+49011,"Davis County, Utah",B25077_001,423200,5615
+49013,"Duchesne County, Utah",B25077_001,228600,7205
+49015,"Emery County, Utah",B25077_001,168700,8547
+49017,"Garfield County, Utah",B25077_001,237800,18899
+49019,"Grand County, Utah",B25077_001,426800,34002
+49021,"Iron County, Utah",B25077_001,299400,12225
+49023,"Juab County, Utah",B25077_001,322100,26686
+49025,"Kane County, Utah",B25077_001,297500,26308
+49027,"Millard County, Utah",B25077_001,227000,11931
+49029,"Morgan County, Utah",B25077_001,556900,30044
+49031,"Piute County, Utah",B25077_001,218800,18074
+49033,"Rich County, Utah",B25077_001,272900,35629
+49035,"Salt Lake County, Utah",B25077_001,440400,2402
+49037,"San Juan County, Utah",B25077_001,177900,21561
+49039,"Sanpete County, Utah",B25077_001,268600,13350
+49041,"Sevier County, Utah",B25077_001,239400,10089
+49043,"Summit County, Utah",B25077_001,895100,44270
+49045,"Tooele County, Utah",B25077_001,343900,10679
+49047,"Uintah County, Utah",B25077_001,253100,11688
+49049,"Utah County, Utah",B25077_001,443000,3277
+49051,"Wasatch County, Utah",B25077_001,620800,31479
+49053,"Washington County, Utah",B25077_001,417400,9002
+49055,"Wayne County, Utah",B25077_001,316200,49306
+49057,"Weber County, Utah",B25077_001,346800,5667
+50001,"Addison County, Vermont",B25077_001,311200,8748
+50003,"Bennington County, Vermont",B25077_001,243000,7704
+50005,"Caledonia County, Vermont",B25077_001,197700,7664
+50007,"Chittenden County, Vermont",B25077_001,378300,6688
+50009,"Essex County, Vermont",B25077_001,151200,9219
+50011,"Franklin County, Vermont",B25077_001,263200,8199
+50013,"Grand Isle County, Vermont",B25077_001,339600,18732
+50015,"Lamoille County, Vermont",B25077_001,270700,14409
+50017,"Orange County, Vermont",B25077_001,231000,5990
+50019,"Orleans County, Vermont",B25077_001,196700,5873
+50021,"Rutland County, Vermont",B25077_001,203500,7527
+50023,"Washington County, Vermont",B25077_001,278000,8564
+50025,"Windham County, Vermont",B25077_001,250000,9489
+50027,"Windsor County, Vermont",B25077_001,249700,8723
+51001,"Accomack County, Virginia",B25077_001,184500,15530
+51003,"Albemarle County, Virginia",B25077_001,450200,9694
+51005,"Alleghany County, Virginia",B25077_001,123600,8653
+51007,"Amelia County, Virginia",B25077_001,233700,16662
+51009,"Amherst County, Virginia",B25077_001,181600,6857
+51011,"Appomattox County, Virginia",B25077_001,178000,12174
+51013,"Arlington County, Virginia",B25077_001,833300,13595
+51015,"Augusta County, Virginia",B25077_001,267100,9476
+51017,"Bath County, Virginia",B25077_001,184900,34148
+51019,"Bedford County, Virginia",B25077_001,263900,8190
+51021,"Bland County, Virginia",B25077_001,132500,38466
+51023,"Botetourt County, Virginia",B25077_001,264200,8539
+51025,"Brunswick County, Virginia",B25077_001,127000,13718
+51027,"Buchanan County, Virginia",B25077_001,84900,5676
+51029,"Buckingham County, Virginia",B25077_001,160800,10416
+51031,"Campbell County, Virginia",B25077_001,183100,9818
+51033,"Caroline County, Virginia",B25077_001,253300,13974
+51035,"Carroll County, Virginia",B25077_001,139200,11023
+51036,"Charles City County, Virginia",B25077_001,198800,12504
+51037,"Charlotte County, Virginia",B25077_001,137000,12497
+51041,"Chesterfield County, Virginia",B25077_001,306500,3849
+51043,"Clarke County, Virginia",B25077_001,496600,40555
+51045,"Craig County, Virginia",B25077_001,184700,53278
+51047,"Culpeper County, Virginia",B25077_001,369600,9680
+51049,"Cumberland County, Virginia",B25077_001,208600,15095
+51051,"Dickenson County, Virginia",B25077_001,89200,6599
+51053,"Dinwiddie County, Virginia",B25077_001,223800,8892
+51057,"Essex County, Virginia",B25077_001,217000,22836
+51059,"Fairfax County, Virginia",B25077_001,666900,3567
+51061,"Fauquier County, Virginia",B25077_001,501200,13574
+51063,"Floyd County, Virginia",B25077_001,205400,16321
+51065,"Fluvanna County, Virginia",B25077_001,270900,9624
+51067,"Franklin County, Virginia",B25077_001,207700,13252
+51069,"Frederick County, Virginia",B25077_001,333600,7344
+51071,"Giles County, Virginia",B25077_001,141900,8562
+51073,"Gloucester County, Virginia",B25077_001,274500,8975
+51075,"Goochland County, Virginia",B25077_001,433600,29308
+51077,"Grayson County, Virginia",B25077_001,129100,9255
+51079,"Greene County, Virginia",B25077_001,287800,13307
+51081,"Greensville County, Virginia",B25077_001,146600,15880
+51083,"Halifax County, Virginia",B25077_001,133200,9571
+51085,"Hanover County, Virginia",B25077_001,347900,5975
+51087,"Henrico County, Virginia",B25077_001,309700,5128
+51089,"Henry County, Virginia",B25077_001,111800,4484
+51091,"Highland County, Virginia",B25077_001,182500,18152
+51093,"Isle of Wight County, Virginia",B25077_001,327600,11363
+51095,"James City County, Virginia",B25077_001,396800,9389
+51097,"King and Queen County, Virginia",B25077_001,212500,19308
+51099,"King George County, Virginia",B25077_001,372300,14873
+51101,"King William County, Virginia",B25077_001,252200,12279
+51103,"Lancaster County, Virginia",B25077_001,292300,27603
+51105,"Lee County, Virginia",B25077_001,95800,5592
+51107,"Loudoun County, Virginia",B25077_001,657000,6213
+51109,"Louisa County, Virginia",B25077_001,266700,10465
+51111,"Lunenburg County, Virginia",B25077_001,139700,14552
+51113,"Madison County, Virginia",B25077_001,311500,32896
+51115,"Mathews County, Virginia",B25077_001,355900,43637
+51117,"Mecklenburg County, Virginia",B25077_001,157800,10619
+51119,"Middlesex County, Virginia",B25077_001,288900,18022
+51121,"Montgomery County, Virginia",B25077_001,269300,9478
+51125,"Nelson County, Virginia",B25077_001,275100,26469
+51127,"New Kent County, Virginia",B25077_001,354200,11707
+51131,"Northampton County, Virginia",B25077_001,246300,27806
+51133,"Northumberland County, Virginia",B25077_001,303700,30174
+51135,"Nottoway County, Virginia",B25077_001,169500,17998
+51137,"Orange County, Virginia",B25077_001,316000,14873
+51139,"Page County, Virginia",B25077_001,198000,8611
+51141,"Patrick County, Virginia",B25077_001,137200,13015
+51143,"Pittsylvania County, Virginia",B25077_001,144100,6216
+51145,"Powhatan County, Virginia",B25077_001,356500,12528
+51147,"Prince Edward County, Virginia",B25077_001,193400,14375
+51149,"Prince George County, Virginia",B25077_001,252300,9492
+51153,"Prince William County, Virginia",B25077_001,472000,3460
+51155,"Pulaski County, Virginia",B25077_001,181700,8528
+51157,"Rappahannock County, Virginia",B25077_001,509500,70720
+51159,"Richmond County, Virginia",B25077_001,218600,26027
+51161,"Roanoke County, Virginia",B25077_001,245800,4561
+51163,"Rockbridge County, Virginia",B25077_001,232100,14028
+51165,"Rockingham County, Virginia",B25077_001,266900,8280
+51167,"Russell County, Virginia",B25077_001,112000,8083
+51169,"Scott County, Virginia",B25077_001,122300,8395
+51171,"Shenandoah County, Virginia",B25077_001,247600,7921
+51173,"Smyth County, Virginia",B25077_001,120600,6711
+51175,"Southampton County, Virginia",B25077_001,199700,9978
+51177,"Spotsylvania County, Virginia",B25077_001,349900,5558
+51179,"Stafford County, Virginia",B25077_001,431900,4875
+51181,"Surry County, Virginia",B25077_001,231400,19011
+51183,"Sussex County, Virginia",B25077_001,151000,16623
+51185,"Tazewell County, Virginia",B25077_001,112200,6230
+51187,"Warren County, Virginia",B25077_001,293400,7484
+51191,"Washington County, Virginia",B25077_001,181000,6719
+51193,"Westmoreland County, Virginia",B25077_001,244000,10764
+51195,"Wise County, Virginia",B25077_001,108000,7332
+51197,"Wythe County, Virginia",B25077_001,157100,10510
+51199,"York County, Virginia",B25077_001,387200,9578
+51510,"Alexandria city, Virginia",B25077_001,655700,21059
+51520,"Bristol city, Virginia",B25077_001,154900,9522
+51530,"Buena Vista city, Virginia",B25077_001,148800,20407
+51540,"Charlottesville city, Virginia",B25077_001,398400,17782
+51550,"Chesapeake city, Virginia",B25077_001,339500,5413
+51570,"Colonial Heights city, Virginia",B25077_001,221400,6189
+51580,"Covington city, Virginia",B25077_001,80100,9160
+51590,"Danville city, Virginia",B25077_001,102000,7541
+51595,"Emporia city, Virginia",B25077_001,129400,23148
+51600,"Fairfax city, Virginia",B25077_001,649600,12469
+51610,"Falls Church city, Virginia",B25077_001,938500,49350
+51620,"Franklin city, Virginia",B25077_001,197900,14376
+51630,"Fredericksburg city, Virginia",B25077_001,438400,16766
+51640,"Galax city, Virginia",B25077_001,109300,13417
+51650,"Hampton city, Virginia",B25077_001,219800,4381
+51660,"Harrisonburg city, Virginia",B25077_001,263700,9964
+51670,"Hopewell city, Virginia",B25077_001,151600,8140
+51678,"Lexington city, Virginia",B25077_001,224700,72539
+51680,"Lynchburg city, Virginia",B25077_001,196000,6434
+51683,"Manassas city, Virginia",B25077_001,393900,12631
+51685,"Manassas Park city, Virginia",B25077_001,370700,19465
+51690,"Martinsville city, Virginia",B25077_001,82800,9106
+51700,"Newport News city, Virginia",B25077_001,233400,3789
+51710,"Norfolk city, Virginia",B25077_001,254200,4568
+51720,"Norton city, Virginia",B25077_001,104200,23394
+51730,"Petersburg city, Virginia",B25077_001,147200,10217
+51735,"Poquoson city, Virginia",B25077_001,406700,21221
+51740,"Portsmouth city, Virginia",B25077_001,213300,4896
+51750,"Radford city, Virginia",B25077_001,204700,19614
+51760,"Richmond city, Virginia",B25077_001,308300,9855
+51770,"Roanoke city, Virginia",B25077_001,162000,4079
+51775,"Salem city, Virginia",B25077_001,231900,6894
+51790,"Staunton city, Virginia",B25077_001,219500,9810
+51800,"Suffolk city, Virginia",B25077_001,314400,7917
+51810,"Virginia Beach city, Virginia",B25077_001,343700,4013
+51820,"Waynesboro city, Virginia",B25077_001,226700,15710
+51830,"Williamsburg city, Virginia",B25077_001,385600,37527
+51840,"Winchester city, Virginia",B25077_001,299900,20155
+53001,"Adams County, Washington",B25077_001,216900,16462
+53003,"Asotin County, Washington",B25077_001,266400,15314
+53005,"Benton County, Washington",B25077_001,338700,4980
+53007,"Chelan County, Washington",B25077_001,412300,15916
+53009,"Clallam County, Washington",B25077_001,353600,10748
+53011,"Clark County, Washington",B25077_001,453200,2876
+53013,"Columbia County, Washington",B25077_001,229600,32299
+53015,"Cowlitz County, Washington",B25077_001,332200,8295
+53017,"Douglas County, Washington",B25077_001,366800,15815
+53019,"Ferry County, Washington",B25077_001,252700,18669
+53021,"Franklin County, Washington",B25077_001,308700,9755
+53023,"Garfield County, Washington",B25077_001,190000,27309
+53025,"Grant County, Washington",B25077_001,244500,8945
+53027,"Grays Harbor County, Washington",B25077_001,249900,9619
+53029,"Island County, Washington",B25077_001,480800,10322
+53031,"Jefferson County, Washington",B25077_001,449300,16223
+53033,"King County, Washington",B25077_001,761500,5655
+53035,"Kitsap County, Washington",B25077_001,463000,5361
+53037,"Kittitas County, Washington",B25077_001,417600,18455
+53039,"Klickitat County, Washington",B25077_001,352500,20399
+53041,"Lewis County, Washington",B25077_001,306600,8711
+53043,"Lincoln County, Washington",B25077_001,232500,14488
+53045,"Mason County, Washington",B25077_001,340300,13954
+53047,"Okanogan County, Washington",B25077_001,251100,16594
+53049,"Pacific County, Washington",B25077_001,252100,12906
+53051,"Pend Oreille County, Washington",B25077_001,288200,19595
+53053,"Pierce County, Washington",B25077_001,444600,2894
+53055,"San Juan County, Washington",B25077_001,673700,16537
+53057,"Skagit County, Washington",B25077_001,444300,7530
+53059,"Skamania County, Washington",B25077_001,443000,23622
+53061,"Snohomish County, Washington",B25077_001,592800,4632
+53063,"Spokane County, Washington",B25077_001,331600,3142
+53065,"Stevens County, Washington",B25077_001,277300,10377
+53067,"Thurston County, Washington",B25077_001,411700,5310
+53069,"Wahkiakum County, Washington",B25077_001,319100,35142
+53071,"Walla Walla County, Washington",B25077_001,331600,11649
+53073,"Whatcom County, Washington",B25077_001,475000,7046
+53075,"Whitman County, Washington",B25077_001,298500,17526
+53077,"Yakima County, Washington",B25077_001,254700,5291
+54001,"Barbour County, West Virginia",B25077_001,119000,10549
+54003,"Berkeley County, West Virginia",B25077_001,231600,5051
+54005,"Boone County, West Virginia",B25077_001,87300,5674
+54007,"Braxton County, West Virginia",B25077_001,95100,5214
+54009,"Brooke County, West Virginia",B25077_001,115000,9405
+54011,"Cabell County, West Virginia",B25077_001,144200,7125
+54013,"Calhoun County, West Virginia",B25077_001,111000,12692
+54015,"Clay County, West Virginia",B25077_001,100800,14151
+54017,"Doddridge County, West Virginia",B25077_001,147300,22538
+54019,"Fayette County, West Virginia",B25077_001,103200,4985
+54021,"Gilmer County, West Virginia",B25077_001,89800,11271
+54023,"Grant County, West Virginia",B25077_001,150000,12975
+54025,"Greenbrier County, West Virginia",B25077_001,130400,7963
+54027,"Hampshire County, West Virginia",B25077_001,184800,22343
+54029,"Hancock County, West Virginia",B25077_001,111700,6501
+54031,"Hardy County, West Virginia",B25077_001,153300,15364
+54033,"Harrison County, West Virginia",B25077_001,146900,8548
+54035,"Jackson County, West Virginia",B25077_001,148200,9076
+54037,"Jefferson County, West Virginia",B25077_001,303400,11604
+54039,"Kanawha County, West Virginia",B25077_001,131200,4081
+54041,"Lewis County, West Virginia",B25077_001,134100,17706
+54043,"Lincoln County, West Virginia",B25077_001,94500,8438
+54045,"Logan County, West Virginia",B25077_001,101200,5519
+54047,"McDowell County, West Virginia",B25077_001,47500,9861
+54049,"Marion County, West Virginia",B25077_001,147600,7983
+54051,"Marshall County, West Virginia",B25077_001,130500,10820
+54053,"Mason County, West Virginia",B25077_001,118100,9778
+54055,"Mercer County, West Virginia",B25077_001,115100,7585
+54057,"Mineral County, West Virginia",B25077_001,162400,7522
+54059,"Mingo County, West Virginia",B25077_001,89700,6190
+54061,"Monongalia County, West Virginia",B25077_001,242100,6232
+54063,"Monroe County, West Virginia",B25077_001,138400,24687
+54065,"Morgan County, West Virginia",B25077_001,212500,8701
+54067,"Nicholas County, West Virginia",B25077_001,110600,8227
+54069,"Ohio County, West Virginia",B25077_001,153000,7623
+54071,"Pendleton County, West Virginia",B25077_001,169200,18939
+54073,"Pleasants County, West Virginia",B25077_001,121100,10944
+54075,"Pocahontas County, West Virginia",B25077_001,129500,20815
+54077,"Preston County, West Virginia",B25077_001,147400,9435
+54079,"Putnam County, West Virginia",B25077_001,202300,9891
+54081,"Raleigh County, West Virginia",B25077_001,132300,9256
+54083,"Randolph County, West Virginia",B25077_001,128700,10124
+54085,"Ritchie County, West Virginia",B25077_001,105200,6726
+54087,"Roane County, West Virginia",B25077_001,117700,8572
+54089,"Summers County, West Virginia",B25077_001,123400,16624
+54091,"Taylor County, West Virginia",B25077_001,138100,24008
+54093,"Tucker County, West Virginia",B25077_001,141100,15716
+54095,"Tyler County, West Virginia",B25077_001,109800,8008
+54097,"Upshur County, West Virginia",B25077_001,153600,11332
+54099,"Wayne County, West Virginia",B25077_001,114200,7744
+54101,"Webster County, West Virginia",B25077_001,82400,13295
+54103,"Wetzel County, West Virginia",B25077_001,106100,9719
+54105,"Wirt County, West Virginia",B25077_001,109200,12680
+54107,"Wood County, West Virginia",B25077_001,140700,5378
+54109,"Wyoming County, West Virginia",B25077_001,74100,12990
+55001,"Adams County, Wisconsin",B25077_001,168400,6493
+55003,"Ashland County, Wisconsin",B25077_001,143500,6557
+55005,"Barron County, Wisconsin",B25077_001,182600,5792
+55007,"Bayfield County, Wisconsin",B25077_001,214700,8291
+55009,"Brown County, Wisconsin",B25077_001,226500,2891
+55011,"Buffalo County, Wisconsin",B25077_001,182900,5987
+55013,"Burnett County, Wisconsin",B25077_001,200800,7853
+55015,"Calumet County, Wisconsin",B25077_001,234000,5329
+55017,"Chippewa County, Wisconsin",B25077_001,215300,7894
+55019,"Clark County, Wisconsin",B25077_001,153000,3436
+55021,"Columbia County, Wisconsin",B25077_001,243600,5800
+55023,"Crawford County, Wisconsin",B25077_001,160300,4324
+55025,"Dane County, Wisconsin",B25077_001,342900,3938
+55027,"Dodge County, Wisconsin",B25077_001,201000,6002
+55029,"Door County, Wisconsin",B25077_001,273300,11818
+55031,"Douglas County, Wisconsin",B25077_001,174900,4858
+55033,"Dunn County, Wisconsin",B25077_001,212000,4801
+55035,"Eau Claire County, Wisconsin",B25077_001,226400,5381
+55037,"Florence County, Wisconsin",B25077_001,158400,10530
+55039,"Fond du Lac County, Wisconsin",B25077_001,195800,6508
+55041,"Forest County, Wisconsin",B25077_001,160100,5201
+55043,"Grant County, Wisconsin",B25077_001,173400,3424
+55045,"Green County, Wisconsin",B25077_001,217000,6173
+55047,"Green Lake County, Wisconsin",B25077_001,186100,7616
+55049,"Iowa County, Wisconsin",B25077_001,231300,7386
+55051,"Iron County, Wisconsin",B25077_001,144100,13513
+55053,"Jackson County, Wisconsin",B25077_001,170000,4330
+55055,"Jefferson County, Wisconsin",B25077_001,238300,5457
+55057,"Juneau County, Wisconsin",B25077_001,153700,5312
+55059,"Kenosha County, Wisconsin",B25077_001,234700,5243
+55061,"Kewaunee County, Wisconsin",B25077_001,191500,6869
+55063,"La Crosse County, Wisconsin",B25077_001,226600,5686
+55065,"Lafayette County, Wisconsin",B25077_001,166700,5107
+55067,"Langlade County, Wisconsin",B25077_001,138000,9183
+55069,"Lincoln County, Wisconsin",B25077_001,163700,6635
+55071,"Manitowoc County, Wisconsin",B25077_001,160400,3669
+55073,"Marathon County, Wisconsin",B25077_001,194500,3519
+55075,"Marinette County, Wisconsin",B25077_001,142300,5511
+55077,"Marquette County, Wisconsin",B25077_001,189500,6766
+55078,"Menominee County, Wisconsin",B25077_001,104300,14285
+55079,"Milwaukee County, Wisconsin",B25077_001,200000,2306
+55081,"Monroe County, Wisconsin",B25077_001,184000,5043
+55083,"Oconto County, Wisconsin",B25077_001,195200,7548
+55085,"Oneida County, Wisconsin",B25077_001,214700,6440
+55087,"Outagamie County, Wisconsin",B25077_001,224100,3619
+55089,"Ozaukee County, Wisconsin",B25077_001,344900,6849
+55091,"Pepin County, Wisconsin",B25077_001,178500,9128
+55093,"Pierce County, Wisconsin",B25077_001,278700,7094
+55095,"Polk County, Wisconsin",B25077_001,222800,5151
+55097,"Portage County, Wisconsin",B25077_001,214700,4719
+55099,"Price County, Wisconsin",B25077_001,136400,7998
+55101,"Racine County, Wisconsin",B25077_001,226500,4717
+55103,"Richland County, Wisconsin",B25077_001,161600,5584
+55105,"Rock County, Wisconsin",B25077_001,193000,3747
+55107,"Rusk County, Wisconsin",B25077_001,144800,7861
+55109,"St. Croix County, Wisconsin",B25077_001,323900,8619
+55111,"Sauk County, Wisconsin",B25077_001,227500,5873
+55113,"Sawyer County, Wisconsin",B25077_001,210700,8408
+55115,"Shawano County, Wisconsin",B25077_001,166900,3306
+55117,"Sheboygan County, Wisconsin",B25077_001,198900,4670
+55119,"Taylor County, Wisconsin",B25077_001,168800,4563
+55121,"Trempealeau County, Wisconsin",B25077_001,193700,7426
+55123,"Vernon County, Wisconsin",B25077_001,192800,6543
+55125,"Vilas County, Wisconsin",B25077_001,255700,12235
+55127,"Walworth County, Wisconsin",B25077_001,254300,6150
+55129,"Washburn County, Wisconsin",B25077_001,196900,7254
+55131,"Washington County, Wisconsin",B25077_001,293300,4455
+55133,"Waukesha County, Wisconsin",B25077_001,352600,2991
+55135,"Waupaca County, Wisconsin",B25077_001,178500,5452
+55137,"Waushara County, Wisconsin",B25077_001,174800,5423
+55139,"Winnebago County, Wisconsin",B25077_001,190600,4126
+55141,"Wood County, Wisconsin",B25077_001,156600,5033
+56001,"Albany County, Wyoming",B25077_001,291500,12051
+56003,"Big Horn County, Wyoming",B25077_001,179800,14140
+56005,"Campbell County, Wyoming",B25077_001,247800,8623
+56007,"Carbon County, Wyoming",B25077_001,212800,12034
+56009,"Converse County, Wyoming",B25077_001,251700,14580
+56011,"Crook County, Wyoming",B25077_001,270600,17417
+56013,"Fremont County, Wyoming",B25077_001,236700,7884
+56015,"Goshen County, Wyoming",B25077_001,217200,11730
+56017,"Hot Springs County, Wyoming",B25077_001,191200,26728
+56019,"Johnson County, Wyoming",B25077_001,296200,29475
+56021,"Laramie County, Wyoming",B25077_001,295800,7363
+56023,"Lincoln County, Wyoming",B25077_001,325500,17899
+56025,"Natrona County, Wyoming",B25077_001,247600,7421
+56027,"Niobrara County, Wyoming",B25077_001,195600,49374
+56029,"Park County, Wyoming",B25077_001,329500,23218
+56031,"Platte County, Wyoming",B25077_001,237100,26134
+56033,"Sheridan County, Wyoming",B25077_001,342400,19360
+56035,"Sublette County, Wyoming",B25077_001,339400,27933
+56037,"Sweetwater County, Wyoming",B25077_001,240300,8405
+56039,"Teton County, Wyoming",B25077_001,1137500,151249
+56041,"Uinta County, Wyoming",B25077_001,224800,15573
+56043,"Washakie County, Wyoming",B25077_001,194000,11345
+56045,"Weston County, Wyoming",B25077_001,208900,20985
+72001,"Adjuntas Municipio, Puerto Rico",B25077_001,90100,5678
+72003,"Aguada Municipio, Puerto Rico",B25077_001,98500,4676
+72005,"Aguadilla Municipio, Puerto Rico",B25077_001,130900,6879
+72007,"Aguas Buenas Municipio, Puerto Rico",B25077_001,133300,5473
+72009,"Aibonito Municipio, Puerto Rico",B25077_001,118700,3844
+72011,"Añasco Municipio, Puerto Rico",B25077_001,103000,6616
+72013,"Arecibo Municipio, Puerto Rico",B25077_001,106100,3730
+72015,"Arroyo Municipio, Puerto Rico",B25077_001,95200,4069
+72017,"Barceloneta Municipio, Puerto Rico",B25077_001,119100,6337
+72019,"Barranquitas Municipio, Puerto Rico",B25077_001,118300,4687
+72021,"Bayamón Municipio, Puerto Rico",B25077_001,139800,1774
+72023,"Cabo Rojo Municipio, Puerto Rico",B25077_001,115800,5100
+72025,"Caguas Municipio, Puerto Rico",B25077_001,139000,2707
+72027,"Camuy Municipio, Puerto Rico",B25077_001,103500,4624
+72029,"Canóvanas Municipio, Puerto Rico",B25077_001,114600,4392
+72031,"Carolina Municipio, Puerto Rico",B25077_001,149000,2553
+72033,"Cataño Municipio, Puerto Rico",B25077_001,126700,6003
+72035,"Cayey Municipio, Puerto Rico",B25077_001,133500,5616
+72037,"Ceiba Municipio, Puerto Rico",B25077_001,105000,6094
+72039,"Ciales Municipio, Puerto Rico",B25077_001,93700,5439
+72041,"Cidra Municipio, Puerto Rico",B25077_001,132800,5766
+72043,"Coamo Municipio, Puerto Rico",B25077_001,100000,4609
+72045,"Comerío Municipio, Puerto Rico",B25077_001,107000,5513
+72047,"Corozal Municipio, Puerto Rico",B25077_001,111500,4896
+72049,"Culebra Municipio, Puerto Rico",B25077_001,168500,33693
+72051,"Dorado Municipio, Puerto Rico",B25077_001,150400,8957
+72053,"Fajardo Municipio, Puerto Rico",B25077_001,113500,3320
+72054,"Florida Municipio, Puerto Rico",B25077_001,101900,4960
+72055,"Guánica Municipio, Puerto Rico",B25077_001,83300,6002
+72057,"Guayama Municipio, Puerto Rico",B25077_001,98300,3047
+72059,"Guayanilla Municipio, Puerto Rico",B25077_001,83500,4160
+72061,"Guaynabo Municipio, Puerto Rico",B25077_001,197600,7767
+72063,"Gurabo Municipio, Puerto Rico",B25077_001,160400,7564
+72065,"Hatillo Municipio, Puerto Rico",B25077_001,119500,8292
+72067,"Hormigueros Municipio, Puerto Rico",B25077_001,113200,4458
+72069,"Humacao Municipio, Puerto Rico",B25077_001,113600,3377
+72071,"Isabela Municipio, Puerto Rico",B25077_001,121400,5501
+72073,"Jayuya Municipio, Puerto Rico",B25077_001,102300,8966
+72075,"Juana Díaz Municipio, Puerto Rico",B25077_001,99900,2797
+72077,"Juncos Municipio, Puerto Rico",B25077_001,112100,3761
+72079,"Lajas Municipio, Puerto Rico",B25077_001,98200,5532
+72081,"Lares Municipio, Puerto Rico",B25077_001,97100,2742
+72083,"Las Marías Municipio, Puerto Rico",B25077_001,93600,3913
+72085,"Las Piedras Municipio, Puerto Rico",B25077_001,118900,3516
+72087,"Loíza Municipio, Puerto Rico",B25077_001,108800,3386
+72089,"Luquillo Municipio, Puerto Rico",B25077_001,125300,6250
+72091,"Manatí Municipio, Puerto Rico",B25077_001,117400,3444
+72093,"Maricao Municipio, Puerto Rico",B25077_001,104300,13876
+72095,"Maunabo Municipio, Puerto Rico",B25077_001,100800,7129
+72097,"Mayagüez Municipio, Puerto Rico",B25077_001,105000,4228
+72099,"Moca Municipio, Puerto Rico",B25077_001,101000,6119
+72101,"Morovis Municipio, Puerto Rico",B25077_001,114100,4919
+72103,"Naguabo Municipio, Puerto Rico",B25077_001,97700,5244
+72105,"Naranjito Municipio, Puerto Rico",B25077_001,100300,7624
+72107,"Orocovis Municipio, Puerto Rico",B25077_001,93300,5038
+72109,"Patillas Municipio, Puerto Rico",B25077_001,93800,3447
+72111,"Peñuelas Municipio, Puerto Rico",B25077_001,88200,5712
+72113,"Ponce Municipio, Puerto Rico",B25077_001,107300,1873
+72115,"Quebradillas Municipio, Puerto Rico",B25077_001,104100,5902
+72117,"Rincón Municipio, Puerto Rico",B25077_001,137600,12660
+72119,"Río Grande Municipio, Puerto Rico",B25077_001,130700,3033
+72121,"Sabana Grande Municipio, Puerto Rico",B25077_001,104200,3781
+72123,"Salinas Municipio, Puerto Rico",B25077_001,89400,4588
+72125,"San Germán Municipio, Puerto Rico",B25077_001,96100,4554
+72127,"San Juan Municipio, Puerto Rico",B25077_001,164200,2209
+72129,"San Lorenzo Municipio, Puerto Rico",B25077_001,112100,4629
+72131,"San Sebastián Municipio, Puerto Rico",B25077_001,104100,6735
+72133,"Santa Isabel Municipio, Puerto Rico",B25077_001,104100,3827
+72135,"Toa Alta Municipio, Puerto Rico",B25077_001,143900,3974
+72137,"Toa Baja Municipio, Puerto Rico",B25077_001,133500,2538
+72139,"Trujillo Alto Municipio, Puerto Rico",B25077_001,155000,4467
+72141,"Utuado Municipio, Puerto Rico",B25077_001,101000,5000
+72143,"Vega Alta Municipio, Puerto Rico",B25077_001,126200,5371
+72145,"Vega Baja Municipio, Puerto Rico",B25077_001,115900,3434
+72147,"Vieques Municipio, Puerto Rico",B25077_001,114500,42862
+72149,"Villalba Municipio, Puerto Rico",B25077_001,101900,5100
+72151,"Yabucoa Municipio, Puerto Rico",B25077_001,93900,2447
+72153,"Yauco Municipio, Puerto Rico",B25077_001,98200,2304

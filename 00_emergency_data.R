@@ -31,3 +31,8 @@ tagalog5 <- readRDS("data/tagalog5.RDS")
 tract_data <- readRDS("data/tract_data.RDS")
 tract_df <- readRDS("data/tract_df.RDS")
 vars <- readRDS("data/vars.RDS")
+#https://data.census.gov/table/ACSSPP1Y2019.S0201?q=korean%20&hidePreview=false
+#https://data.census.gov/table/ACSST5Y2016.S1701?q=below%20poverty%20level
+
+#
+

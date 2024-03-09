@@ -83,7 +83,7 @@ county_diversity <- get_acs(geography = "county",
                             ),
                             summary_var = "B03002_001", # total population
                             survey="acs5",
-                            year=set_year) %>%
+                            year=set_year) |>
   mutate(race=case_when(
     variable=="B03002_003" ~"White",
     variable=="B03002_004" ~"Black",
@@ -93,17 +93,17 @@ county_diversity <- get_acs(geography = "county",
     variable=="B03002_012" ~"Hispanic",
     variable=="B03002_002" ~"Not Hispanic",
     TRUE ~ "Other"
-  )) %>%
-  group_by(GEOID, NAME, race) %>%
+  )) |>
+  group_by(GEOID, NAME, race) |>
   summarize(estimate=sum(estimate, na.rm=T),
-            summary_est=mean(summary_est, na.rm=T)) %>%
-  mutate(pct = estimate/summary_est) %>%
-  select(GEOID, race, pct) %>%
-  pivot_wider(names_from="race", values_from="pct") %>%
-  mutate(diversity_index= 1 - ((White^2 + Black^2 + `Native American`^2 + `Asian PI`^2))) %>%
+            summary_est=mean(summary_est, na.rm=T)) |>
+  mutate(pct = estimate/summary_est) |>
+  select(GEOID, race, pct) |>
+  pivot_wider(names_from="race", values_from="pct") |>
+  mutate(diversity_index= 1 - ((White^2 + Black^2 + `Native American`^2 + `Asian PI`^2))) |>
   # this is the old way that takes into account hispanic/non-hispanic
-  #((White^2 + Black^2 + `Native American`^2 + `Asian PI`^2) * (Hispanic^2 + `Not Hispanic`^2))) %>%
-  select(geoid=GEOID, white_percent=White, diversity_index) %>%
+  #((White^2 + Black^2 + `Native American`^2 + `Asian PI`^2) * (Hispanic^2 + `Not Hispanic`^2))) |>
+  select(geoid=GEOID, white_percent=White, diversity_index) |>
   mutate(year=set_year)
 
 glimpse(county_diversity)
@@ -117,8 +117,8 @@ poverty_df <- get_acs(geography = "county",
                       variables = "B17001_002", #Estimate!!Poverty
                       summary_var = "B17001_001", #Estimate!!Total_Population
                       survey="acs5",
-                      year=set_year) %>%
-  mutate(pctpov = 100 * (estimate/summary_est)) %>%
+                      year=set_year) |>
+  mutate(pctpov = 100 * (estimate/summary_est)) |>
   mutate(quantile=ntile(pctpov, 4))
 
 View(poverty_df)
@@ -130,6 +130,7 @@ write_csv(poverty_df, paste0("poverty_df_", set_year, ".csv", na=""))
 ## age groups ----
 
 set_year <- 2022
+
 state_ages <- get_acs(
   geography = "state",
   table = "B01001",
@@ -137,7 +138,7 @@ state_ages <- get_acs(
 )
 
 ## reclassify and group the variables however you like
-state_ages <- state_ages %>%
+state_ages <- state_ages |>
   mutate(var=case_when(
     # original variable names below
     # variable=="B01001_001" ~ "Total population",
@@ -239,33 +240,33 @@ state_ages <- state_ages %>%
     variable=="B01001_047" ~ "Female - 65 to 80",
     variable=="B01001_048" ~ "Female - 80+",
     variable=="B01001_049" ~ "Female - 80+"
-  )) %>%
+  )) |>
   mutate(year=set_year)
 
 # resummarizing based on consolidated age groups and gender
-sa <-state_ages %>%
-  group_by(NAME, var, year) %>%
+sa <-state_ages |>
+  group_by(NAME, var, year) |>
   summarize(population=sum(estimate, na.rm=T))
 
 # creating a second data frame based on consolidated age groups (and not gender)
-sa_groups <- state_ages %>%
-  filter(grepl("\\-", var)) %>%
-  mutate(var = gsub(".*- ", "", var)) %>%
-  group_by(NAME, var, year) %>%
+sa_groups <- state_ages |>
+  filter(grepl("\\-", var)) |>
+  mutate(var = gsub(".*- ", "", var)) |>
+  group_by(NAME, var, year) |>
   summarize(population=sum(estimate, na.rm=T))
 
 # combining these two summarized data frames together
-sa_combined <- bind_rows(sa, sa_groups) %>%
-  mutate(sex=gsub(" -.*", "", var)) %>%
+sa_combined <- bind_rows(sa, sa_groups) |>
+  mutate(sex=gsub(" -.*", "", var)) |>
   mutate(sex=case_when(
     sex=="Female" ~ "Female",
     sex=="Male" ~ "Male",
     TRUE ~ "All"
-  )) %>%
-  mutate(age_group=gsub(".* - ", "", var)) %>%
+  )) |>
+  mutate(age_group=gsub(".* - ", "", var)) |>
   mutate(age_group=gsub("Female", "All", age_group),
          age_group=gsub("Male", "All", age_group),
-         age_group=gsub("Total population", "All", age_group)) %>%
+         age_group=gsub("Total population", "All", age_group)) |>
   dplyr::select(-var)
 
 

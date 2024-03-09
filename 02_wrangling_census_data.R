@@ -96,7 +96,7 @@ county_diversity_percent |>
 
 county_diversity_percent_sorted <- county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent))
+  arrange(NAME, desc(percent))
 
 county_diversity_percent_sorted
 
@@ -105,7 +105,7 @@ county_diversity_percent_sorted
 county_diversity_percent_plurality <-
   county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent)) |>
+  arrange(NAME, desc(percent)) |>
   filter(row_number()==1)
 
 county_diversity_percent_plurality
@@ -115,7 +115,7 @@ county_diversity_percent_plurality
 county_diversity_percent_plurality <-
   county_diversity_percent |>
   group_by(NAME) |>
-  arrange(desc(percent)) |>
+  arrange(NAME, desc(percent)) |>
   slice(1)
 
 ## Case study: Evictions in San Diego ----
